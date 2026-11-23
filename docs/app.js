@@ -101,7 +101,7 @@ function viewRingkasan() {
   const render = () => {
     document.getElementById("rows").innerHTML = DATA.emiten.filter(matches).map((e) => {
       if (e.status_data === "belum_dikumpulkan") {
-        return `<tr><td><a class="ticker" href="#/emiten/${e.kode}">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
+        return `<tr><td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
           <td colspan="3" class="pending">Belum dikumpulkan</td></tr>`;
       }
       const ak = e.aksi_korporasi || [];
@@ -111,7 +111,7 @@ function viewRingkasan() {
       const mn = e.perubahan_manajemen || [];
       const blocked = e.status_data === "tidak_dapat_diakses" || e.situs_diblokir;
       return `<tr>
-        <td><a class="ticker" href="#/emiten/${e.kode}">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
+        <td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
         <td data-l="Aksi korporasi">${blocked && !ak.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${ak.length} entri</span>`}${last ? `<span class="cell-sub">Terbaru: ${esc(last.judul)} (${tgl(last.tanggal)})</span>` : ""}</td>
         <td data-l="Laba bersih (YoY)">${lb ? `<span class="cell-count">${money(lb[0], lk.satuan)}</span> ${change(lb[0], lb[1])}<span class="cell-sub">${esc(lk.periode)}</span>` : `<span class="pending">Tidak tersedia</span>`}</td>
         <td data-l="Perubahan manajemen">${blocked && !mn.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${mn.length} entri</span>`}${mn[0] ? `<span class="cell-sub">${esc(mn[0].nama)}: ${esc(mn[0].jenis.toLowerCase())}</span>` : ""}</td>
@@ -130,7 +130,7 @@ function entryList(key, cls) {
   return `<ol class="entries">${items.map((x) => `<li class="entry">
       <time datetime="${esc(x.tanggal)}">${tgl(x.tanggal)}</time>
       <div>
-        <a class="who" href="#/emiten/${x.e.kode}">${x.e.kode}</a><span class="kind ${cls}">${esc(x.jenis)}</span>
+        <a class="who" href="/emiten/${x.e.kode.toLowerCase()}/">${x.e.kode}</a><span class="kind ${cls}">${esc(x.jenis)}</span>
         <h3>${esc(key === "perubahan_manajemen" ? `${x.nama}, ${x.jabatan}` : x.judul)}</h3>
         <p>${esc(x.ringkasan)}</p>
         ${sources(x.sumber)}
@@ -164,7 +164,7 @@ function viewKeuangan() {
     const rows = DATA.emiten.filter(matches).filter((e) => e.laporan_keuangan);
     document.getElementById("rows").innerHTML = rows.map((e) => {
       const lk = e.laporan_keuangan;
-      return `<tr><td><a class="ticker" href="#/emiten/${e.kode}">${e.kode}</a><span class="co">${lk.format === "bank" ? "Format bank" : esc(e.sektor)}</span></td>
+      return `<tr><td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${lk.format === "bank" ? "Format bank" : esc(e.sektor)}</span></td>
         <td>${esc(lk.periode)}<span class="co">${esc(lk.audit || "")}</span></td>
         ${POS.map(([k]) => { const v = lk.pos?.[k]; return `<td class="num">${v ? `<span class="v">${money(v[0], lk.satuan)}</span>${change(v[0], v[1], ["laba_bersih","pendapatan"].includes(k))}` : "–"}</td>`; }).join("")}
       </tr>`;
@@ -218,7 +218,7 @@ function route() {
   window.scrollTo(0, 0);
 }
 
-fetch("data/semua.json")
+fetch("/data/semua.json")
   .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then((d) => {
     DATA = d;

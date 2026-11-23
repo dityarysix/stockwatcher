@@ -16,6 +16,8 @@ Ringkasan keterbukaan informasi 100 emiten Bursa Efek Indonesia sejak 1 Januari 
 | `data/emiten/KODE.json` | Data per emiten (sumber utama) |
 | `scripts/validate.py`, `scripts/crosscheck.py` | Pemeriksa struktur data dan pencocokan angka dengan dokumen sumber |
 | `PANDUAN_PENGUMPULAN.md` | Aturan pengumpulan data dan prosedur pembaruan bulanan |
+| `scripts/pages.py` | Membangun halaman statis per emiten, Tentang, Kebijakan Privasi, sitemap.xml, dan robots.txt (dipanggil oleh build.py) |
+| `docs/consent.js` | Google Analytics (G-2FW0MRB4H6) dengan banner persetujuan cookie |
 | `scripts/build.py` | Menggabungkan semua data menjadi `docs/data/semua.json` |
 | `docs/` | Website statis (GitHub Pages) |
 
