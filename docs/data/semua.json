@@ -7297,14 +7297,148 @@
    "no": 60
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 61,
    "kode": "CBDK",
    "nama": "Bangun Kosambi Sukses Tbk",
-   "sektor": "Properti"
+   "sektor": "Properti",
+   "situs_resmi": "https://www.cbdpik2.com/informationdisclosure2026.html",
+   "status_data": "lengkap",
+   "catatan": "Dokumen situs resmi www.cbdpik2.com disimpan di storage.googleapis.com/cbdpik2 (ditautkan langsung dari situs). Keterbukaan informasi 23 Januari 2026 (penambahan modal PT Industri Pameran Nusantara) dan 1 Juli 2026 (peningkatan modal PT Citra Kirana Bisnis Distrik) berupa pindaian tanpa teks, sehingga hanya judulnya yang dapat dibaca. RUPS Tahunan 4 Juni 2026 tidak memuat agenda perubahan pengurus. Status audit laporan September 2026 tidak dinyatakan pada halaman utama laporan; daftar di situs menyebut laporan interim sebelumnya 'Unaudited'.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-01-23",
+     "jenis": "Lainnya",
+     "judul": "Penambahan modal pada entitas anak PT Industri Pameran Nusantara",
+     "ringkasan": "Berdasarkan judul dokumen saja (isi berupa pindaian): keterbukaan informasi 23 Januari 2026 tentang peningkatan modal PT Industri Pameran Nusantara. Nilai tidak dapat dibaca.",
+     "sumber": [
+      {
+       "judul": "KI Informasi Peningkatan Modal IPN (23 Januari 2026)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/20260123_KI_Informasi_Peningkatan_Modal_IPN.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-02-03",
+     "jenis": "Buyback",
+     "judul": "Buyback saham tahap 1 hingga Rp250 miliar (3 Februari–2 Mei 2026)",
+     "ringkasan": "Buyback tanpa RUPS dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023), dengan biaya maksimal Rp250 miliar, berlaku 3 Februari sampai 2 Mei 2026. Menurut laporan keuangan September 2026, sampai 30 September 2026 perseroan telah membeli kembali 33.671.700 saham senilai sekitar Rp143,21 miliar.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Rencana Buyback Saham (3 Februari 2026)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/20260203_KI_Informasi_Buyback_Shares.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan Keuangan Konsolidasian Interim September 2026 (Catatan 14c Saham Treasuri)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/Digital_Report_PT_BKS_September_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-18",
+     "jenis": "Buyback",
+     "judul": "Buyback saham lanjutan hingga Rp250 miliar (20 Mei–19 Agustus 2026)",
+     "ringkasan": "Rencana buyback berikutnya dalam kondisi pasar berfluktuasi signifikan (merujuk Surat OJK S-10/D.04/2026), biaya maksimal Rp250 miliar, periode 20 Mei sampai 19 Agustus 2026. Tanggal entri mengikuti tanggal dokumen di nama file.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Rencana Buyback Saham (18 Mei 2026)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/20260518_KI_Informasi_Buyback_Shares.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-04",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: Rp5 per saham",
+     "ringkasan": "RUPS Tahunan 4 Juni 2026 menetapkan dividen tunai Rp5 per saham (total sekitar Rp28,34 miliar) untuk tahun buku 2025; sisanya setelah dana cadangan menjadi laba ditahan. Cum dividen pasar reguler 12 Juni 2026, recording date 17 Juni 2026, pembayaran 8 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan CBDK 2026",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/CBDK_Ringkasan_Risalah_RUPST_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-07-08",
+     "jenis": "Lainnya",
+     "judul": "Penambahan modal entitas anak PT Industri Pameran Nusantara (Rp90,1 miliar) dan PT Samudra Mega Utama",
+     "ringkasan": "Entitas anak IPN menerbitkan 5.300.000 saham baru seri B senilai Rp90,1 miliar yang seluruhnya diambil perseroan, sehingga modal disetor IPN naik menjadi sekitar Rp2,65 triliun (kepemilikan perseroan 99,99%); IPN juga menyesuaikan KBLI 2025. Modal dasar entitas anak PT Samudra Mega Utama juga dinaikkan. Sebelumnya, 1 Juli 2026, terdapat keterbukaan peningkatan modal PT Citra Kirana Bisnis Distrik (isi berupa pindaian, hanya judul yang terbaca).",
+     "sumber": [
+      {
+       "judul": "KI Peningkatan Modal IPN dan SMU (8 Juli 2026)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/20260708_KI_Informasi_Peningkatan_Modal_IPN_dan_SMU.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "KI Peningkatan Modal Ditempatkan dan Disetor CKBD (1 Juli 2026)",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/20260701_KI_Informasi_Peningkatan_Modal_Ditempatkan_dan_Disetor_CKBD.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-08-20",
+     "jenis": "Buyback",
+     "judul": "Buyback saham lanjutan hingga Rp250 miliar (20 Agustus–19 November 2026)",
+     "ringkasan": "Perpanjangan program buyback dalam kondisi pasar berfluktuasi signifikan dengan biaya maksimal Rp250 miliar, periode 20 Agustus sampai 19 November 2026. Tanggal entri mengikuti awal periode yang tertera di nama dan isi dokumen.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Buyback Saham 20 Agustus–19 November 2026",
+       "url": "https://storage.googleapis.com/cbdpik2/pdf/CBDK_KI_Buyback_Shares_20_Agt_-_19_Nov_26.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Konsolidasian interim (status audit tidak dinyatakan eksplisit; diasumsikan tidak diaudit)",
+    "pos": {
+     "aset": [
+      22388369790,
+      22576275771
+     ],
+     "pendapatan": [
+      2557675915,
+      2298139383
+     ],
+     "beban_usaha": [
+      170458376,
+      161657393
+     ],
+     "laba_bersih": [
+      1823910264,
+      1311544524
+     ],
+     "liabilitas": [
+      8670929083,
+      10593825878
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan neto",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (24.361.921; 2025: 34.749.064) + beban umum dan administrasi (146.096.455; 2025: 126.908.329). Beban pajak final dan beban keuangan tidak termasuk.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim PT BKS September 2026",
+      "url": "https://storage.googleapis.com/cbdpik2/pdf/Digital_Report_PT_BKS_September_2026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 61
   },
   {
    "status_data": "belum_dikumpulkan",
