@@ -1,4 +1,6 @@
-# Stockwatcher
+# Cek Saham
+
+Tayang di https://ceksaham.live. Koreksi data: info@ceksaham.live
 
 Ringkasan keterbukaan informasi 50 emiten Bursa Efek Indonesia sejak 1 Januari 2026, diambil dari **situs resmi masing-masing emiten**. Isinya dibagi tiga bagian:
 

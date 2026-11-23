@@ -60,7 +60,7 @@ const sources = (arr) => !arr || !arr.length ? "" :
 function statusNote(e) {
   if (e.status_data === "lengkap") return "";
   const msg = {
-    sebagian: "Data emiten ini belum lengkap.",
+    sebagian: e.situs_diblokir ? "Situs resmi emiten ini tidak dapat dibaca otomatis, jadi aksi korporasi dan perubahan manajemen belum tersedia." : "Data emiten ini belum lengkap.",
     tidak_dapat_diakses: "Situs resmi emiten ini tidak dapat dibaca otomatis saat pengumpulan data.",
     belum_dikumpulkan: "Data emiten ini belum dikumpulkan.",
   }[e.status_data] || "";
@@ -109,11 +109,12 @@ function viewRingkasan() {
       const lk = e.laporan_keuangan;
       const lb = lk?.pos?.laba_bersih;
       const mn = e.perubahan_manajemen || [];
+      const blocked = e.status_data === "tidak_dapat_diakses" || e.situs_diblokir;
       return `<tr>
         <td><a class="ticker" href="#/emiten/${e.kode}">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
-        <td data-l="Aksi korporasi"><span class="cell-count">${ak.length} entri</span>${last ? `<span class="cell-sub">Terbaru: ${esc(last.judul)} (${tgl(last.tanggal)})</span>` : ""}</td>
+        <td data-l="Aksi korporasi">${blocked && !ak.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${ak.length} entri</span>`}${last ? `<span class="cell-sub">Terbaru: ${esc(last.judul)} (${tgl(last.tanggal)})</span>` : ""}</td>
         <td data-l="Laba bersih (YoY)">${lb ? `<span class="cell-count">${money(lb[0], lk.satuan)}</span> ${change(lb[0], lb[1])}<span class="cell-sub">${esc(lk.periode)}</span>` : `<span class="pending">Tidak tersedia</span>`}</td>
-        <td data-l="Perubahan manajemen"><span class="cell-count">${mn.length} entri</span>${mn[0] ? `<span class="cell-sub">${esc(mn[0].nama)}: ${esc(mn[0].jenis.toLowerCase())}</span>` : ""}</td>
+        <td data-l="Perubahan manajemen">${blocked && !mn.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${mn.length} entri</span>`}${mn[0] ? `<span class="cell-sub">${esc(mn[0].nama)}: ${esc(mn[0].jenis.toLowerCase())}</span>` : ""}</td>
       </tr>`;
     }).join("") || `<tr><td colspan="4" class="pending">Tidak ada emiten yang cocok dengan filter.</td></tr>`;
   };

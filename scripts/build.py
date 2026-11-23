@@ -15,6 +15,8 @@ for row in daftar:
         # Data dari file yang diunduh manual oleh pemilik proyek (misalnya laporan keuangan IDX) menimpa bagian yang sama.
         manual = json.loads(m.read_text(encoding="utf-8"))
         d.update(manual)
+        if d.get("status_data") == "tidak_dapat_diakses":
+            d["situs_diblokir"] = True
         if d.get("status_data") in (None, "belum_dikumpulkan", "tidak_dapat_diakses"):
             d["status_data"] = "sebagian"
             d["catatan"] = ((d.get("catatan") or "") + " Laporan keuangan diambil dari file yang diunduh manual dari IDX.").strip()
