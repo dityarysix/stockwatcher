@@ -1,0 +1,122 @@
+{
+  "kode": "DSSA",
+  "nama": "Dian Swastatika Sentosa Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://www.dssa.co.id/id/information-disclosure",
+  "status_data": "sebagian",
+  "catatan": "Laporan keuangan 30 September 2026 belum tersedia di halaman Laporan Keuangan situs resmi saat diakses, jadi dipakai laporan 30 Juni 2026 (diaudit). Dokumen 'Rencana Pelaksanaan Pengalihan Saham Hasil Pembelian Kembali Saham 2026' (31 Juli 2026) berupa PDF hasil pindaian tanpa teks sehingga isinya tidak dapat diverifikasi dan tidak dicatat sebagai entri. RUPST 9 Juni 2026 memutuskan tidak membagikan dividen tunai: laba 2025 yang diatribusikan ke pemilik entitas induk US$230.539.143 dialokasikan ke cadangan wajib (US$100.000) dan laba ditahan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-03-11",
+      "jenis": "Stock split",
+      "judul": "Pemecahan saham 1:25 disetujui RUPSLB",
+      "ringkasan": "RUPSLB 11 Maret 2026 menyetujui stock split dengan rasio 1:25, mengubah nilai nominal dari Rp25 menjadi Rp1 per saham. Rencana awal diumumkan lewat keterbukaan informasi 30 Januari 2026; menurut jadwal rencana, perdagangan dengan nominal baru di pasar reguler dimulai 7 April 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB DSSA 11 Maret 2026", "url": "https://www.dssa.co.id/api/documents/file/Risalah_RUPSLB.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi rencana pemecahan saham, 30 Januari 2026", "url": "https://www.dssa.co.id/api/documents/file/KI_INA.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-08",
+      "jenis": "Transaksi material",
+      "judul": "Peningkatan modal PT Bali Media Telekomunikasi sebesar Rp8,54 triliun",
+      "ringkasan": "Melalui entitas anak PT DSST Mas Gemilang, Perseroan mengambil 8.539.999.121 saham baru PT Bali Media Telekomunikasi senilai Rp8,54 triliun pada 6 Juli 2026. Transaksi ini tergolong transaksi material (20 sampai 50% ekuitas) dan transaksi afiliasi, untuk memperkuat permodalan bisnis digital.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi peningkatan modal PT Bali Media Telekomunikasi, 8 Juli 2026", "url": "https://www.dssa.co.id/api/documents/file/Peningkatan_Modal_BMT-1.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-10",
+      "jenis": "Lainnya",
+      "judul": "Pengurangan modal lewat penarikan 3,85 miliar saham hasil buyback",
+      "ringkasan": "RUPSLB 10 September 2026 menyetujui penarikan 3.852.633.200 saham hasil pembelian kembali. Modal ditempatkan dan disetor turun dari Rp192,64 miliar menjadi Rp188,79 miliar, dan modal dasar dari Rp600 miliar menjadi Rp596 miliar.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Pertama)", "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-19",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp1 triliun",
+      "ringkasan": "Buyback dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023 dan surat OJK S-112/D.04/2026) dengan nilai maksimal Rp1 triliun, periode 19 Oktober 2026 sampai 18 Januari 2027. Biaya transaksi diperkirakan 0,20% dari nilai saham yang dibeli.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana pembelian kembali saham, 19 Oktober 2026", "url": "https://www.dssa.co.id/api/documents/file/KI__Buyback_Saham_IND_r-1.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian), KAP Mirawati Sensi Idris",
+    "pos": {
+      "aset": [6076197344, 4414950126],
+      "pendapatan": [1772497702, 1322999426],
+      "beban_usaha": [313272931, 268769605],
+      "laba_bersih": [174358486, 97086695],
+      "liabilitas": [3028273868, 2153752494]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha",
+      "beban_usaha": "Jumlah beban usaha (penjualan, umum dan administrasi, eksplorasi)",
+      "laba_bersih": "Laba periode berjalan yang teratribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan Q3 2026 belum ada di situs saat diakses. Beban usaha memakai 'Jumlah Beban Usaha' di laporan laba rugi: beban penjualan 192.475.769, beban umum dan administrasi 120.621.894, beban eksplorasi 175.268.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian PT Dian Swastatika Sentosa Tbk 30 Juni 2026", "url": "https://www.dssa.co.id/api/documents/file/Report_PT_Dian_Swastatika_Sentosa_Juni_2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-09",
+      "jenis": "Pemberhentian",
+      "nama": "Timotius Max Sulaiman",
+      "jabatan": "Direktur",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan dan diberi pembebasan tanggung jawab (acquit et decharge).",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)", "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-09",
+      "jenis": "Pengangkatan",
+      "nama": "Marlo Budiman",
+      "jabatan": "Wakil Presiden Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan dengan masa jabatan mengikuti anggota Direksi lainnya.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)", "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-09",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan: Presiden Komisaris Franky Oesman Widjaja; Presiden Direktur Lay Krisnan Cahya; Wakil Presiden Direktur Lokita Prasetya dan Marlo Budiman.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)", "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-09-10",
+      "jenis": "Pengunduran diri",
+      "nama": "Franky Oesman Widjaja",
+      "jabatan": "Presiden Komisaris",
+      "ringkasan": "RUPSLB menerima pengunduran dirinya sebagai Presiden Komisaris dan memberikan acquit et decharge untuk periode 1 Januari 2026 sampai tanggal rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)", "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-09-10",
+      "jenis": "Perubahan jabatan",
+      "nama": "David Fernando Audy",
+      "jabatan": "Direktur menjadi Presiden Komisaris",
+      "ringkasan": "RUPSLB menerima pengunduran dirinya sebagai Direktur lalu mengangkatnya sebagai Presiden Komisaris dengan masa jabatan mengikuti anggota Dewan Komisaris lainnya.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)", "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-09-10",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB: Presiden Komisaris David Fernando Audy; Presiden Direktur Lay Krisnan Cahya; Wakil Presiden Direktur Lokita Prasetya dan Marlo Budiman. Direksi kini tujuh orang.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)", "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

@@ -105,7 +105,7 @@ function viewRingkasan() {
           <td colspan="3" class="pending">Belum dikumpulkan</td></tr>`;
       }
       const ak = e.aksi_korporasi || [];
-      const last = [...ak].sort((a, b) => b.tanggal.localeCompare(a.tanggal))[0];
+      const last = [...ak].sort((a, b) => (b.tanggal || "").localeCompare(a.tanggal || ""))[0];
       const lk = e.laporan_keuangan;
       const lb = lk?.pos?.laba_bersih;
       const mn = e.perubahan_manajemen || [];
@@ -124,7 +124,7 @@ function entryList(key, cls) {
   const kindSel = document.getElementById("jenis")?.value || "";
   const items = DATA.emiten.filter(matches).flatMap((e) => (e[key] || []).map((x) => ({ ...x, e })))
     .filter((x) => !kindSel || x.jenis === kindSel)
-    .sort((a, b) => b.tanggal.localeCompare(a.tanggal) || a.e.kode.localeCompare(b.e.kode));
+    .sort((a, b) => (b.tanggal || "").localeCompare(a.tanggal || "") || a.e.kode.localeCompare(b.e.kode));
   if (!items.length) return `<p class="empty">Belum ada entri yang cocok dengan filter ini.</p>`;
   return `<ol class="entries">${items.map((x) => `<li class="entry">
       <time datetime="${esc(x.tanggal)}">${tgl(x.tanggal)}</time>
@@ -195,7 +195,7 @@ function viewEmiten(kode) {
     <section class="section s-man"><h2>Perubahan manajemen</h2>${listOrEmpty(e.perubahan_manajemen, "perubahan_manajemen", "k-man", "Tidak ada perubahan manajemen yang ditemukan di situs resmi sejak 1 Januari 2026.")}</section>`;
 }
 function entryListFor(e, key, cls) {
-  const items = [...e[key]].sort((a, b) => b.tanggal.localeCompare(a.tanggal));
+  const items = [...e[key]].sort((a, b) => (b.tanggal || "").localeCompare(a.tanggal || ""));
   return `<ol class="entries">${items.map((x) => `<li class="entry">
     <time datetime="${esc(x.tanggal)}">${tgl(x.tanggal)}</time>
     <div><span class="kind ${cls}">${esc(x.jenis)}</span>

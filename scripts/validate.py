@@ -33,7 +33,7 @@ def cek(path):
     for key in ("aksi_korporasi", "perubahan_manajemen"):
         for i, x in enumerate(d.get(key) or []):
             w = f"{key}[{i}]"
-            if not TGL.match(x.get("tanggal", "")):
+            if not TGL.match(x.get("tanggal") or ""):
                 err.append(f"{w}: tanggal '{x.get('tanggal')}' bukan 2026-MM-DD")
             for f in (("judul", "ringkasan") if key == "aksi_korporasi" else ("nama", "jabatan", "ringkasan")):
                 if not x.get(f):

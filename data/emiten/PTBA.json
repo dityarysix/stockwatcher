@@ -1,0 +1,158 @@
+{
+  "kode": "PTBA",
+  "nama": "Bukit Asam Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.ptba.co.id/id/investor",
+  "status_data": "lengkap",
+  "catatan": "Situs ptba.co.id berbasis JavaScript; daftar dokumen dan siaran pers dibaca lewat API JSON situs itu sendiri (www.ptba.co.id/api/...). Dua keterbukaan informasi (penggabungan anak usaha dan berakhirnya jabatan Suko Hartono) berupa PDF hasil pindai, dibaca dari gambar halamannya. Sejak 13 Februari 2026 nama resmi perseroan menjadi Perusahaan Perseroan (Persero) PT Bukit Asam Tbk.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-13",
+      "jenis": "Lainnya",
+      "judul": "Perubahan nama menjadi PT Bukit Asam (Persero) Tbk",
+      "ringkasan": "Sebagai tindak lanjut UU BUMN dan RUPSLB 16 Desember 2025, nama perseroan resmi berubah menjadi Perusahaan Perseroan (Persero) PT Bukit Asam Tbk setelah perubahan anggaran dasar disetujui Menteri Hukum pada 13 Februari 2026. Keterbukaan informasi disampaikan 18 Februari 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi terkait Perubahan Nama Perusahaan (18 Februari 2026)", "url": "https://www.ptba.co.id/api/storage/1771402717137-4ea7f25d-039c-4409-be86-70bfbdf734d4.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp114,508 per saham (total Rp1,32 triliun)",
+      "ringkasan": "RUPS Tahunan 11 Juni 2026 menetapkan dividen tunai Rp1.318.480.807.559 atau 45% dari laba bersih 2025 yang diatribusikan kepada pemilik entitas induk (Rp2,93 triliun); sisanya 55% menjadi laba ditahan. Cum dividen pasar reguler 22 Juni 2026, recording date 24 Juni 2026, pembayaran 10 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST Tahun Buku 2025", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers PTBA, 11 Juni 2026: RUPST setujui dividen Rp1,32 triliun", "url": "https://www.ptba.co.id/id/media/press-release/detail/perkuat-struktur-bisnis-dan-tata-kelola-rupst-ptba-setujui-dividen-rp-1-32-triliun", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Merger",
+      "judul": "Penggabungan dua anak usaha: PT Bukit Energi Investama dan PT Bukit Energi Servis Terpadu",
+      "ringkasan": "Penggabungan antar perusahaan terkendali dalam rangka penataan anak usaha BUMN sesuai arahan Danantara. Catatan: teks bahasa Indonesia menyebut PT BEI sebagai pihak yang menggabungkan diri dan PT BEST sebagai penerima, sedangkan teks bahasa Inggris menyebut sebaliknya.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Penggabungan PT Bukit Energi Investama dan PT Bukit Energi Servis Terpadu (30 Juni 2026)", "url": "https://www.ptba.co.id/api/storage/1782874573614-99e6c29b-0284-4381-9392-161f70b80f97.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-22",
+      "jenis": "Buyback",
+      "judul": "Manajemen mengkaji opsi pembelian kembali saham",
+      "ringkasan": "Perseroan menyatakan sedang mengkaji berbagai langkah korporasi, termasuk kemungkinan buyback saham, untuk menjaga nilai perusahaan di tengah fluktuasi pasar. Belum ada keputusan, nilai, atau jadwal; perseroan akan menyampaikan keterbukaan informasi jika rencana dieksekusi.",
+      "sumber": [
+        {"judul": "Siaran pers PTBA, 23 Oktober 2026: Kinerja Melesat, PTBA Siapkan Langkah Strategis Jaga Nilai Perusahaan", "url": "https://www.ptba.co.id/id/media/press-release/detail/kinerja-melesat-ptba-siapkan-langkah-strategis-jaga-nilai-perusahaan", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jenis": "Lainnya",
+      "judul": "Pembubaran dan likuidasi anak usaha PT Bukit Multi Properti",
+      "ringkasan": "Pemegang saham PT Bukit Multi Properti (anak usaha tidak langsung melalui PT Bukit Multi Investama) menyetujui pembubaran disertai likuidasi lewat keputusan sirkuler 31 Oktober 2026, sebagai bagian penataan anak usaha BUMN. Perseroan menyatakan tidak ada dampak material terhadap operasional maupun keuangan.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Pembubaran melalui Likuidasi PT Bukit Multi Properti (31 Oktober 2026)", "url": "https://www.ptba.co.id/api/storage/1793591128454-8ac5ce09-db33-468a-a45c-e6f323f8fe78.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [51550907, 43917063],
+      "pendapatan": [35201385, 31330296],
+      "beban_usaha": [2337331, 2070561],
+      "laba_bersih": [4410551, 1394026],
+      "liabilitas": [24310473, 21300262]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban umum dan administrasi + beban penjualan dan pemasaran",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban umum dan administrasi (1.702.555; 2025: 1.511.177) + beban penjualan dan pemasaran (634.776; 2025: 559.384). Beban pokok pendapatan tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026", "url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pemberhentian",
+      "nama": "Arsal Ismail",
+      "jabatan": "Direktur Utama",
+      "ringkasan": "RUPS Tahunan mengukuhkan pemberhentian dengan hormat sebagai Direktur Utama, berlaku sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pemberhentian",
+      "nama": "Ihsanuddin Usman",
+      "jabatan": "Direktur Sumber Daya Manusia",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan, berlaku sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pemberhentian",
+      "nama": "Verisca Hutanto Oh",
+      "jabatan": "Direktur Komersial",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan, berlaku sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Perubahan jabatan",
+      "nama": "Bambang Ismawan",
+      "jabatan": "Direktur Utama (sebelumnya Komisaris Utama)",
+      "ringkasan": "Diberhentikan dengan hormat sebagai Komisaris Utama lalu diangkat sebagai Direktur Utama oleh RUPS Tahunan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pengangkatan",
+      "nama": "Hennita Sitepu",
+      "jabatan": "Direktur Sumber Daya Manusia dan Transformasi Korporasi",
+      "ringkasan": "Diangkat RUPS Tahunan. Nomenklatur jabatan diubah dari Direktur SDM menjadi Direktur SDM dan Transformasi Korporasi.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pengangkatan",
+      "nama": "Mochammad Rifqi Hari Muji",
+      "jabatan": "Direktur Komersial dan Supply Chain",
+      "ringkasan": "Diangkat RUPS Tahunan. Nomenklatur jabatan diubah dari Direktur Komersial menjadi Direktur Komersial dan Supply Chain.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pengangkatan",
+      "nama": "Ida Bagus Putu Dunia",
+      "jabatan": "Komisaris Utama (Independen)",
+      "ringkasan": "Diangkat RUPS Tahunan menggantikan Bambang Ismawan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan: Komisaris Utama/Independen Ida Bagus Putu Dunia; Direktur Utama Bambang Ismawan. Direksi lainnya: Ilham Yacob, Hennita Sitepu, Mochammad Rifqi Hari Muji, Una Lindasari, Turino Yulianto.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers PTBA, 11 Juni 2026", "url": "https://www.ptba.co.id/id/media/press-release/detail/perkuat-struktur-bisnis-dan-tata-kelola-rupst-ptba-setujui-dividen-rp-1-32-triliun", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-13",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Suko Hartono",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Perseroan menerima pemberitahuan berakhirnya masa jabatan karena ia diangkat sebagai Direktur Penelitian, Pengembangan, dan Keberlanjutan MIND ID; UU BUMN melarang rangkap jabatan tersebut. Keterbukaan informasi bertanggal 15 Juni 2026.",
+      "sumber": [{"judul": "Keterbukaan Informasi Pemberitahuan Berakhirnya Masa Jabatan Bapak Suko Hartono sebagai Komisaris Independen", "url": "https://www.ptba.co.id/api/storage/1781496572638-f4871b76-7b76-4ae6-b328-7b850921f87b.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

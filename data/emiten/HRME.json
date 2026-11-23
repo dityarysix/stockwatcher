@@ -1,0 +1,47 @@
+{
+  "kode": "HRME",
+  "nama": "Menteng Heritage Realty Tbk",
+  "sektor": "Properti & pariwisata",
+  "situs_resmi": "https://hrme.co.id/kinerja-usaha-keuangan/",
+  "status_data": "sebagian",
+  "catatan": "Situs resmi hrme.co.id bisa diakses, tetapi sejak 1 Januari 2026 hanya memuat dokumen RUPS (iklan pengumuman/pemanggilan dan ringkasan risalah RUPST 8 Juni 2026 serta RUPSLB 18 Agustus 2026). Tidak ada laporan keuangan 2026 (laporan terakhir yang diunggah adalah laporan keuangan tahun buku 2023), sehingga laporan_keuangan dikosongkan. RUPST 2026 tidak memutuskan pembagian dividen. RUPSLB 18 Agustus 2026 hanya mengubah Pasal 3 anggaran dasar (penyesuaian KBLI 2025), tidak dicatat sebagai aksi korporasi. Ringkasan risalah RUPST versi Indonesia menyebut Teuku Johas Raffli sebagai 'Komisaris', sedangkan versi Inggris dan risalah RUPSLB menyebutnya Komisaris Independen.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pengunduran diri",
+      "nama": "Alip",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "RUPS Tahunan menyetujui pengunduran dirinya sebagai Komisaris Independen dan memberikan pembebasan tanggung jawab.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4", "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pengunduran diri",
+      "nama": "Anke Krishna Bachtiar",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPS Tahunan menyetujui pengunduran dirinya sebagai Direktur dan memberikan pembebasan tanggung jawab.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4", "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pengangkatan",
+      "nama": "Teuku Johas Raffli",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat menggantikan Alip, efektif sejak penutupan RUPS Tahunan, dengan sisa masa jabatan sampai RUPS Tahunan 2030.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4", "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB HRME 18 Agustus 2026", "url": "https://hrme.co.id/wp-content/uploads/2026/08/RINGKASAN-RISALAH-RUPSLB-Menteng-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan setelah RUPS Tahunan, berlaku sampai RUPS Tahunan 2030. Komisaris Utama: Herry Wijaya; Komisaris (Independen): Teuku Johas Raffli. Direktur Utama: Budi Kurniawan; Direktur: Mariella Wijaya.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4", "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

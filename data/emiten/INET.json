@@ -1,0 +1,153 @@
+{
+  "kode": "INET",
+  "nama": "Sinergi Inti Andalan Prima Tbk",
+  "sektor": "Telekomunikasi",
+  "situs_resmi": "https://sinergynetworks.com/investors",
+  "status_data": "sebagian",
+  "catatan": "Situs inet.co.id menampilkan halaman tantangan anti-bot ('One moment, please...') sehingga tidak dipakai. Situs resmi grup yang dipakai: sinergynetworks.com (siapnetworks.co.id dialihkan ke sana); dokumennya disimpan di api-cms-compro.sinergynetworks.com. Laporan keuangan 30 September 2026 belum tersedia di situs, jadi dipakai laporan 30 Juni 2026. Dokumen keterbukaan rinci transaksi akuisisi 60% PT Trans Hybrid Communication (25 Februari 2026) tidak diunggah, hanya surat pengantarnya, sehingga nilai transaksinya tidak diketahui. Mata acara ketujuh RUPST 19 Mei 2026 (perubahan maksud dan tujuan) tidak kuorum dan dijadwalkan ke rapat kedua 2 Juni 2026, sedangkan mata acara kedelapan (penyertaan pada PT Sarana Global Indonesia) ditunda; hasil rapat kedua tidak ditemukan di situs. Ringkasan risalah RUPST berupa PDF hasil pindaian dan dibaca secara visual. Pergantian Sekretaris Perusahaan (Kemal Akbar digantikan Arki Rifazka, 12 Februari 2026) tidak dimasukkan karena bukan anggota direksi/komisaris.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-22",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Penawaran umum Obligasi I dan Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026",
+      "ringkasan": "Perseroan mengumumkan informasi tambahan prospektus ringkas untuk penawaran Obligasi I dan Sukuk Ijarah I. Menurut surat keterangan notaris atas rapat pemegang obligasi dan sukuk pada 5 November 2026, pokok yang beredar masing-masing Rp500 miliar.",
+      "sumber": [
+        {"judul": "Surat pengantar bukti iklan koran penawaran umum Obligasi I dan Sukuk Ijarah I (22 Januari 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/b743934c-62eb-43cc-8786-bfd6cd81c188.pdf", "diakses": "2026-11-23"},
+        {"judul": "Surat Keterangan RUPO I INET Tahun 2026", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/8a424de4-e145-4c9d-9ba2-6f2ea7cd5822.pdf", "diakses": "2026-11-23"},
+        {"judul": "Surat Keterangan RUPSI I INET Tahun 2026", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/d44798d8-c2a0-42fd-a216-1237ad54d3fe.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-02-03",
+      "jenis": "Akuisisi",
+      "judul": "Pembelian 53,57% saham PT Personel Alih Daya Tbk (PADA) senilai Rp106,39 miliar",
+      "ringkasan": "INET membeli 1.687.455.000 saham PADA (53,57%) dari Koperasi Pegawai PT Indosat Tbk dengan nilai transaksi Rp106.390.655.000, dikategorikan transaksi material. Transaksi terjadi 2 Februari 2026. Sebagai pengendali baru, INET menjalankan penawaran tender wajib 18 Juni sampai 17 Juli 2026 pada harga Rp63 per saham; hanya 240.000 saham terbeli sehingga kepemilikan menjadi 53,58%.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Kepada Pemegang Saham (3 Februari 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/8f178634-7247-42a2-9028-d2778ed24cfd.pdf", "diakses": "2026-11-23"},
+        {"judul": "Laporan Hasil Penawaran Tender Wajib PT Personel Alih Daya Tbk (23 Juli 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/af18e7e6-985c-4777-a950-c3f36e211fb2.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-02-10",
+      "jenis": "Lainnya",
+      "judul": "Pendirian anak usaha pusat data PT Sinergi Inti Data Indonesia",
+      "ringkasan": "Perseroan mendirikan PT Sinergi Inti Data Indonesia (SIDI) pada 6 Februari 2026 dengan setoran Rp18,7 miliar (85%), bersama PT Inti Pusat Data Nusantara Rp3,3 miliar. SIDI disiapkan untuk usaha data center.",
+      "sumber": [
+        {"judul": "Laporan Informasi Fakta Material (10 Februari 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/0d5d48e2-c418-497a-a72a-96b8a381a722.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-02-25",
+      "jenis": "Akuisisi",
+      "judul": "Pembelian 60% saham PT Trans Hybrid Communication",
+      "ringkasan": "Perseroan menyampaikan keterbukaan informasi transaksi material atas pembelian 60% saham PT Trans Hybrid Communication beserta ringkasan penilaian dan pendapat kewajaran. Nilai transaksi tidak tercantum di surat pengantar yang tersedia di situs.",
+      "sumber": [
+        {"judul": "Surat Pengantar Keterbukaan Informasi terkait Transaksi Material (25 Februari 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/f0bf8f62-1a9e-4d61-816f-05d9e35b3d01.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp0,04 per saham",
+      "ringkasan": "RUPS Tahunan 19 Mei 2026 menetapkan dividen Rp894.964.476 (sekitar 3,65% laba 2025 sebesar Rp24,49 miliar) atau Rp0,04 per saham untuk 22.374.111.088 saham. Cum dividen pasar reguler 29 Mei 2026, recording date 3 Juni 2026, pembayaran 11 Juni 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Kedua", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pemberitahuan jadwal dan tata cara pembagian dividen tunai (21 Mei 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/78b01f41-857a-4165-85ed-816211b8235e.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian); kolom pembanding 30 Juni 2025 tidak diaudit",
+    "pos": {
+      "aset": [6111011414909, 760371208255],
+      "pendapatan": [926453327140, 45002355760],
+      "beban_usaha": [48655218137, 6907947503],
+      "laba_bersih": [33671188228, 7652194508],
+      "liabilitas": [2302084086429, 331159581647]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha dijumlahkan dari beban penjualan (Rp1.689.571.422; 2025: Rp489.114.818) dan beban umum dan administrasi (Rp46.965.646.715; 2025: Rp6.418.832.685). Lonjakan pendapatan dan aset terutama karena konsolidasi PADA (kontribusi pendapatan Rp782,87 miliar) dan dana hasil obligasi/sukuk serta penambahan modal.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian 30 Juni 2026 (Financial Report 2026 Q2)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/financial-reports/7ccc3e46-4646-4763-ac9e-0445a0afcf0e.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengunduran diri",
+      "nama": "Willy Unsulangi",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Direktur, berlaku sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengunduran diri",
+      "nama": "Tongam Lumban Tobing",
+      "jabatan": "Komisaris",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Komisaris, berlaku sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Perubahan jabatan",
+      "nama": "Saripudin",
+      "jabatan": "Direktur (sebelumnya Komisaris Utama)",
+      "ringkasan": "Diberhentikan dengan hormat dari jabatan Komisaris Utama lalu diangkat sebagai Direktur oleh RUPS Tahunan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengangkatan",
+      "nama": "Kemal Akbar",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Diangkat sebagai Komisaris Utama untuk sisa masa jabatan pengurus yang digantikan, sampai RUPS Tahunan 2027. Sebelumnya ia menjabat Sekretaris Perusahaan sampai 12 Februari 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pemberitahuan Perubahan Sekretaris Perusahaan (12 Februari 2026)", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/79325a48-ff5a-4899-917a-6ca480cb77e9.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengangkatan",
+      "nama": "Septiawan",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengangkatan",
+      "nama": "Fadzri Sentosa",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengangkatan",
+      "nama": "Firdaus Andi Wibowo",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan baru sampai RUPS Tahunan 2027. Komisaris Utama: Kemal Akbar; Komisaris Independen: Cahyana Ahmad Jayadi. Direktur Utama: Muhammad Arif; Direktur: Saripudin, Septiawan, Fadzri Sentosa, Firdaus Andi Wibowo.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam", "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kode": "BBRI",
+  "nama": "Bank Rakyat Indonesia (Persero) Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://www.ir-bri.com/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Kedua domain resmi BRI menolak akses pada 23 November 2026. bri.co.id dan www.bri.co.id membalas HTTP 403 dari proteksi bot Incapsula. Situs Hubungan Investor www.ir-bri.com membalas HTTP 202 tanpa isi dengan header x-amzn-waf-action: challenge (tantangan AWS WAF). Sesuai panduan, proteksi tidak ditembus dan tidak ada data yang dicatat.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

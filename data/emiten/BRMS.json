@@ -1,0 +1,35 @@
+{
+  "kode": "BRMS",
+  "nama": "Bumi Resources Minerals Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://www.bumiresourcesminerals.com/investor-relations/",
+  "status_data": "lengkap",
+  "catatan": "Tidak ditemukan aksi korporasi sejak 1 Januari 2026 di situs resmi. Halaman Circular Reports tidak memuat keterbukaan baru di 2026; keterbukaan terakhir (transaksi material fasilitas pinjaman sindikasi US$200 juta dan US$425 juta) terbit 26 November 2025 sehingga di luar periode. RUPS Tahunan 30 April 2026 tidak memutuskan dividen maupun perubahan pengurus (mata acara: laporan direksi, pengesahan laporan keuangan 2025, penunjukan KAP, laporan penggunaan dana). Siaran pers 2026 tentang pembelian saham BRMS oleh Presiden Direktur bukan aksi korporasi perusahaan sehingga tidak dicatat.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [1452511567, 1310548105],
+      "pendapatan": [167582678, 183579054],
+      "beban_usaha": [40537980, 29109222],
+      "laba_bersih": [23937575, 37907804],
+      "liabilitas": [392881815, 266010135]
+    },
+    "label": {
+      "pendapatan": "Penjualan",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba neto yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Angka dalam USD penuh. Beban usaha sesuai pos 'Beban Usaha' (catatan 29) di laporan laba rugi, terpisah dari beban pokok penjualan.",
+    "sumber": [
+      {"judul": "Consolidated Financial Statement 30 September 2026", "url": "https://www.bumiresourcesminerals.com/download/consolidated-financial-statement-30-september-2026/?wpdmdl=4086", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

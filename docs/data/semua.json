@@ -190,44 +190,412 @@
    "no": 1
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 2,
    "kode": "BUMI",
    "nama": "Bumi Resources Tbk",
-   "sektor": "Batu bara"
+   "sektor": "Batu bara",
+   "situs_resmi": "https://www.bumiresources.com/en/investor-relations",
+   "status_data": "sebagian",
+   "catatan": "Laporan keuangan (termasuk Juni 2026), risalah RUPST/RUPSLB 22 Juni 2026, dan seluruh siaran pers 2026 di situs BUMI hanya bisa diunduh setelah mengisi reCAPTCHA, jadi tidak diambil. Laporan keuangan 30 September 2026 tidak tercantum di situs. Data keuangan di bawah diambil dari ikhtisar laporan keuangan 31 Maret 2026 (tidak diaudit) yang dimuat dalam dokumen Informasi Tambahan obligasi Tahap V, yang dapat diunduh bebas. Keputusan RUPS 2026 (termasuk ada/tidaknya dividen tahun buku 2025) tidak dapat diverifikasi.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-01-23",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Obligasi Berkelanjutan I BUMI Tahap IV Tahun 2026 senilai Rp612,75 miliar",
+     "ringkasan": "Bagian dari PUB Obligasi Berkelanjutan I dengan target Rp5 triliun. Satu seri, bunga tetap 7,25% per tahun, tenor 3 tahun, dibayar penuh saat jatuh tempo 20 Februari 2029. Peringkat idA+ dari Pefindo. Tanggal emisi 20 Februari 2026 dan pencatatan di BEI 23 Februari 2026. Menurut laporan realisasi Juli 2026, dananya dipakai untuk modal kerja dan pembayaran pinjaman Perseroan.",
+     "sumber": [
+      {
+       "judul": "Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I BUMI Tahap IV Tahun 2026 (23 Januari 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/01/d9a4b8609760acd1f492db552a9a8ce9_88edf435f228ff03794f6b83395992bb.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap IV Tahun 2026 (12 Februari 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/3b7a34c42ba102391e0df25428f6399b_80d3ad57a19f730768d01bfe6760f502.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan Realisasi Penggunaan Dana PUB I BUMI Tahap II-V, Juli 2026 (revisi, diunggah 8 Oktober 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/10/437af5b4a0c39260c7f0a3b7664b1746_977661376a3584f9b022a78f918f4f0e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-04-30",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 senilai Rp1,84 triliun",
+     "ringkasan": "Total pokok Rp1.839,875 miliar dalam tiga seri: Seri A Rp600,04 miliar (7,50%, 370 hari), Seri B Rp905,975 miliar (8,75%, 3 tahun), dan Seri C Rp333,86 miliar (9,05%, 5 tahun). Menurut perbaikan 21 Mei 2026, tanggal emisi 26 Mei 2026 dan pencatatan 29 Mei 2026. Laporan realisasi Juli 2026 menyebut sebagian besar dana (sekitar 83%) dialokasikan untuk pinjaman modal kerja kepada PT Arutmin.",
+     "sumber": [
+      {
+       "judul": "Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 (30 April 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/04/80f2d1fa584b9826d0116e54260f8892_dff932c966e97f639323c3821a5c3fd1.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan Realisasi Penggunaan Dana PUB I BUMI Tahap II-V, Juli 2026 (revisi, diunggah 8 Oktober 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/10/437af5b4a0c39260c7f0a3b7664b1746_977661376a3584f9b022a78f918f4f0e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-29",
+     "jenis": "Divestasi",
+     "judul": "Pengalihan saham Citra Palu Mineral ke anak usaha Bumi Resources Minerals",
+     "ringkasan": "Siaran pers 29 Juni 2026 berjudul 'Bumi Resources Divests Stake in Citra Palu Mineral to Subsidiary Bumi Resources Minerals'. Isi siaran pers (nilai dan porsi saham) tidak dapat dibaca karena unduhan dilindungi reCAPTCHA; entri ini hanya berdasarkan judul yang tampil di situs.",
+     "sumber": [
+      {
+       "judul": "Halaman Press Release BUMI (daftar judul; berkas unduhan dilindungi reCAPTCHA)",
+       "url": "https://www.bumiresources.com/en/media/press-release",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "31 Maret 2026 (3 bulan)",
+    "pembanding_lr": "31 Maret 2025 (3 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      4461157393,
+      4218609825
+     ],
+     "pendapatan": [
+      417655285,
+      348777533
+     ],
+     "beban_usaha": [
+      33784318,
+      23334933
+     ],
+     "laba_bersih": [
+      24146266,
+      17866112
+     ],
+     "liabilitas": [
+      1541319388,
+      1330687156
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan",
+     "beban_usaha": "Beban usaha",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Bukan laporan keuangan lengkap: angka diambil dari Ikhtisar Data Keuangan Penting dalam Informasi Tambahan obligasi Tahap V (perbaikan 21 Mei 2026). Laporan keuangan Juni 2026 tercantum di situs tetapi dilindungi reCAPTCHA; laporan September 2026 belum tercantum. Laba periode berjalan total (termasuk kepentingan nonpengendali) USD41.090.908 vs USD30.068.049.",
+    "sumber": [
+     {
+      "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+      "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": null,
+     "jenis": "Pengangkatan",
+     "nama": "Donny Iskandar Maramis",
+     "jabatan": "Direktur",
+     "ringkasan": "Tercantum sebagai Direktur di profil Direksi situs BUMI, padahal belum ada dalam susunan pengurus di Informasi Tambahan 21 Mei 2026. Profilnya menyebut ia bergabung sebagai Chief Financial Officer pada 1 Februari 2026. Tanggal pengangkatan sebagai direktur kemungkinan RUPS 22 Juni 2026, tetapi risalahnya tidak dapat diunduh (reCAPTCHA).",
+     "sumber": [
+      {
+       "judul": "Profil Direksi di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-directors",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": null,
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Kanaka Puradiredja",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "Masih tercantum dalam susunan Dewan Komisaris di Informasi Tambahan 21 Mei 2026, tetapi tidak lagi ada di profil Dewan Komisaris situs BUMI. Tanggal dan alasannya tidak dapat diverifikasi.",
+     "sumber": [
+      {
+       "judul": "Profil Dewan Komisaris di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": null,
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Thomas Myer Kearney",
+     "jabatan": "Komisaris",
+     "ringkasan": "Masih tercantum dalam susunan Dewan Komisaris di Informasi Tambahan 21 Mei 2026, tetapi tidak lagi ada di profil Dewan Komisaris situs BUMI. Tanggal dan alasannya tidak dapat diverifikasi.",
+     "sumber": [
+      {
+       "judul": "Profil Dewan Komisaris di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": null,
+     "jenis": "Perubahan jabatan",
+     "nama": "Anton Setianto Soedarsono",
+     "jabatan": "Komisaris (sebelumnya Komisaris Independen)",
+     "ringkasan": "Di Informasi Tambahan 21 Mei 2026 tercatat sebagai Komisaris Independen; di profil situs saat ini tercatat sebagai Komisaris. Tanggal perubahan tidak dapat diverifikasi.",
+     "sumber": [
+      {
+       "judul": "Profil Dewan Komisaris di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+       "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": null,
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Menurut profil di situs per 23 November 2026: Presiden Komisaris (merangkap Komisaris Independen) Sharif Cicip Sutardjo; Presiden Direktur Adika Nuraga Bakrie; Wakil Presiden Direktur Agoes Projosasmito. Direksi berjumlah 13 orang dan Dewan Komisaris 5 orang. Kemungkinan hasil RUPST/RUPSLB 22 Juni 2026, tetapi risalahnya tidak dapat diunduh.",
+     "sumber": [
+      {
+       "judul": "Profil Direksi di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-directors",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Profil Dewan Komisaris di situs BUMI",
+       "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 2
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 3,
    "kode": "BMRI",
    "nama": "Bank Mandiri (Persero) Tbk",
-   "sektor": "Perbankan"
-  },
-  {
-   "status_data": "belum_dikumpulkan",
+   "sektor": "Perbankan",
+   "situs_resmi": "https://www.bankmandiri.co.id/web/ir",
+   "status_data": "tidak_dapat_diakses",
+   "catatan": "Situs resmi www.bankmandiri.co.id tidak dapat diakses pada 23 November 2026: dua percobaan lewat HTTP/2 putus dengan INTERNAL_ERROR, dan satu percobaan HTTP/1.1 berakhir dengan balasan kosong (empty reply). Sesuai panduan, akses tidak dilanjutkan dan proteksi tidak ditembus. Pencarian web menunjukkan bahwa situs itu memuat laporan keuangan konsolidasian interim 30 September 2026, materi RUPS Tahunan 2026, dan siaran pers kinerja, tetapi tidak ada dokumen yang bisa diunduh dan diverifikasi, sehingga tidak ada angka atau fakta yang dicatat.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
    "perubahan_manajemen": [],
-   "no": 4,
+   "no": 3
+  },
+  {
    "kode": "BBRI",
    "nama": "Bank Rakyat Indonesia (Persero) Tbk",
-   "sektor": "Perbankan"
-  },
-  {
-   "status_data": "belum_dikumpulkan",
+   "sektor": "Perbankan",
+   "situs_resmi": "https://www.ir-bri.com/",
+   "status_data": "tidak_dapat_diakses",
+   "catatan": "Kedua domain resmi BRI menolak akses pada 23 November 2026. bri.co.id dan www.bri.co.id membalas HTTP 403 dari proteksi bot Incapsula. Situs Hubungan Investor www.ir-bri.com membalas HTTP 202 tanpa isi dengan header x-amzn-waf-action: challenge (tantangan AWS WAF). Sesuai panduan, proteksi tidak ditembus dan tidak ada data yang dicatat.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
    "perubahan_manajemen": [],
-   "no": 5,
+   "no": 4
+  },
+  {
    "kode": "GOTO",
    "nama": "GoTo Gojek Tokopedia Tbk",
-   "sektor": "Teknologi"
+   "sektor": "Teknologi",
+   "situs_resmi": "https://www.gotocompany.com/investor-relations",
+   "status_data": "lengkap",
+   "catatan": "Dokumen diunduh dari content.goinfra.co.id, CDN dokumen yang ditautkan langsung dari halaman Hubungan Investor GoTo. RUPS Tahunan 18 Juni 2026 tidak membahas pembagian dividen.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-06-18",
+     "jenis": "Buyback",
+     "judul": "Pembelian kembali saham 2026-2027 hingga Rp3,5 triliun",
+     "ringkasan": "Rencana buyback diumumkan lewat keterbukaan informasi 11 Mei 2026 (dengan tambahan informasi 15 Juni 2026), lalu disetujui RUPSLB 18 Juni 2026. Dana maksimal Rp3,5 triliun, dengan periode pembelian 19 Juni 2026 sampai 18 Juni 2027.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi rencana pembelian kembali saham, 11 Mei 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-05-11/Keterbukaan%20Informasi%2011052026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Tambahan Informasi atas Keterbukaan Informasi pembelian kembali saham, 15 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-15/Revisi%20Keterbukaan%20Informasi%2015%20Juni%202026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Informasi/Fakta Material perubahan Dewan Komisaris dan persetujuan pembelian kembali saham, 18 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-18/GOTO%20-%20Informasi%20Fakta%20Material%20perubahan%20Dewan%20Komisaris%20Perseroan%20dan%20Persetujuan%20Pembelian%20Kembali%20Saham.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-18",
+     "jenis": "Lainnya",
+     "judul": "Persetujuan ulang penerbitan saham baru untuk Program Kepemilikan Saham",
+     "ringkasan": "RUPSLB memperbarui persetujuan penerbitan saham baru sebanyak-banyaknya 1,5% dari modal ditempatkan dan disetor bagi direksi, komisaris, dan karyawan Perseroan serta anak usaha melalui Program Kepemilikan Saham. RUPSLB juga menyetujui perubahan anggaran dasar terkait program ini dan penyesuaian Pasal 3 (maksud dan tujuan) dengan KBLI 2025.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-14",
+     "jenis": "Lainnya",
+     "judul": "Pengurangan modal lewat penarikan 32,19 miliar saham treasuri",
+     "ringkasan": "RUPSLB 14 Oktober 2026 menyetujui penarikan 32.186.417.803 saham Seri A hasil buyback periode 12 Juni 2024 sampai 11 Juni 2025. Modal ditempatkan dan disetor turun menjadi 1.158.958.579.417 saham, dan Pasal 4 ayat (2) anggaran dasar diubah.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      48562884,
+      45757642
+     ],
+     "pendapatan": [
+      16549006,
+      13295481
+     ],
+     "beban_usaha": [
+      9131183,
+      7885511
+     ],
+     "laba_bersih": [
+      1164528,
+      -775550
+     ],
+     "liabilitas": [
+      19110473,
+      17045985
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan bersih",
+     "beban_usaha": "Beban usaha di luar beban pokok pendapatan (umum & administrasi, penjualan & pemasaran, pengembangan produk, operasional & pendukung, penyusutan & amortisasi)",
+     "laba_bersih": "Laba/(rugi) periode berjalan yang diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "GoTo tidak menyajikan pos 'beban usaha' tersendiri. Angka beban_usaha adalah jumlah biaya dan beban (Rp15.415.750 juta; 2025: Rp13.517.850 juta) dikurangi beban pokok pendapatan (Rp6.284.567 juta; 2025: Rp5.632.339 juta). Laba periode berjalan total Rp864.173 juta (2025: rugi Rp996.975 juta).",
+    "sumber": [
+     {
+      "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (tidak diaudit)",
+      "url": "https://content.goinfra.co.id/asts/InvestorRelation/FinancialInformation/2026-10-29/LKFS%2030%20Sep%202026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-18",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "RUPSLB mengangkat kembali Agus D.W. Martowardojo sebagai Komisaris Utama, Marjorie Tiu Lao sebagai Komisaris Independen, dan Santoso Kartono sebagai Komisaris karena masa jabatan mereka berakhir. Tidak ada pergantian orang. Komisaris Utama: Agus D.W. Martowardojo. Direktur Utama: Hans Patuwo. Wakil Direktur Utama: Catherine Hindra Sutjahyo.",
+     "sumber": [
+      {
+       "judul": "Informasi/Fakta Material perubahan Dewan Komisaris dan persetujuan pembelian kembali saham, 18 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-18/GOTO%20-%20Informasi%20Fakta%20Material%20perubahan%20Dewan%20Komisaris%20Perseroan%20dan%20Persetujuan%20Pembelian%20Kembali%20Saham.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-08-28",
+     "jenis": "Pengunduran diri",
+     "nama": "Catherine Hindra Sutjahyo",
+     "jabatan": "Wakil Direktur Utama",
+     "ringkasan": "Perseroan menerima surat pengunduran diri pada 28 Agustus 2026 dengan alasan pribadi/keluarga. RUPSLB 14 Oktober 2026 menyetujuinya, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi atau Fakta Material, 28 Agustus 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-08-28/Laporan%20Informasi%20atau%20Fakta%20Material%2028082026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan Informasi atau Fakta Material, 14 Oktober 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-10-14/Laporan%20Informasi%20atau%20Fakta%20Material%2014102026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-14",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Setelah RUPSLB: Komisaris Utama Agus D.W. Martowardojo, Direktur Utama Hans Patuwo. Posisi Wakil Direktur Utama tidak lagi ada. Direksi beranggotakan enam orang: Hans Patuwo, Simon Tak Leung Ho, Sudhanshu Raheja, R.A. Koesoemohadiani, Wuzhen (William) Xiong, dan Monica Lynn Mulyanto.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi atau Fakta Material, 14 Oktober 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-10-14/Laporan%20Informasi%20atau%20Fakta%20Material%2014102026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+       "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 5
   },
   {
    "status_data": "belum_dikumpulkan",
@@ -290,34 +658,370 @@
    "sektor": "Telekomunikasi"
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 12,
    "kode": "BRPT",
    "nama": "Barito Pacific Tbk",
-   "sektor": "Holding"
+   "sektor": "Holding",
+   "situs_resmi": "https://www.barito-pacific.com/investors",
+   "status_data": "lengkap",
+   "catatan": "Tidak ditemukan keterbukaan informasi perubahan pengurus sepanjang 2026 di situs resmi; RUPST 25 Juni 2026 tidak memiliki mata acara perubahan pengurus. Transaksi afiliasi sewa ruang kantor antaranak usaha (Juni 2026) dicatat sebagai 'Lainnya' karena nilainya kecil.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-02-03",
+     "jenis": "Buyback",
+     "judul": "Rencana buyback saham hingga Rp1 triliun dalam kondisi pasar berfluktuasi",
+     "ringkasan": "Buyback tanpa RUPS berdasarkan POJK 13/2023 dengan dana internal maksimal Rp1 triliun (termasuk biaya). Periode pelaksanaan 4 Februari sampai 3 Mei 2026 melalui PT Sucor Sekuritas.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi rencana buyback BRPT, 3 Februari 2026",
+       "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-260204090137BRPT%20-%20KI-Buyback%20Fluktuatif%202026%20Ind..pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-10",
+     "jenis": "Lainnya",
+     "judul": "Transaksi afiliasi sewa ruang kantor antara PT Griya Idola dan PT Indo Raya Tenaga",
+     "ringkasan": "Dua entitas anak menandatangani perjanjian sewa ruang kantor di Wisma Barito Pacific II pada 8 Juni 2026 untuk 5 tahun mulai 1 Juli 2026, dengan nilai total sekitar Rp18,06 miliar.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi transaksi afiliasi entitas anak, 10 Juni 2026",
+       "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-260611040004BRPT%20KI%20Lease%20Agr%202026%20GI%20IRT.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-25",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: US$8,5 juta (perkiraan Rp1,63 per saham)",
+     "ringkasan": "RUPS Tahunan 25 Juni 2026 menyetujui dividen tunai US$8,5 juta atau 1,7% dari laba bersih 2025 sebesar US$489,8 juta. Perkiraan Rp1,63 per saham, bisa berubah sesuai kurs tengah BI pada recording date. Cum dividen pasar reguler 3 Juli 2026, recording date 7 Juli 2026, pembayaran 29 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST BRPT 25 Juni 2026 (Mata Acara Kedua)",
+       "url": "https://www.barito-pacific.com/uploads/investors/general-meeting-of-shareholders-260629073852BRPT%20-%20Ringkasan%20Risalah%20RUPST%2025%20Juni%202026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Jadwal dan tata cara pembagian dividen tunai tahun buku 2025",
+       "url": "https://www.barito-pacific.com/uploads/investors/general-meeting-of-shareholders-260629073505BRPT%20Jadwal%20Tata%20Cara%20Pembagian%20Dividen%202026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-19",
+     "jenis": "Buyback",
+     "judul": "Rencana buyback saham kedua 2026 hingga Rp1 triliun",
+     "ringkasan": "Buyback baru dalam kondisi pasar berfluktuasi dengan dana internal maksimal Rp1 triliun (termasuk biaya), periode 19 Oktober sampai 31 Desember 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi rencana buyback BRPT, 19 Oktober 2026",
+       "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-2610191002502026-19-Okt.%20BRPT%20-%20KI-Buyback%20Fluktuatif%20%28Okt%202026%29%20Final.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      19578343,
+      17353211
+     ],
+     "pendapatan": [
+      8694012,
+      5563632
+     ],
+     "beban_usaha": [
+      258958,
+      203297
+     ],
+     "laba_bersih": [
+      228537,
+      582146
+     ],
+     "liabilitas": [
+      12948143,
+      11307579
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (69.247; 2025: 57.806) + beban umum dan administrasi (189.711; 2025: 145.491). Beban penyusutan/amortisasi dan bahan baku/produksi tidak dimasukkan. Laba 9M 2025 termasuk keuntungan pembelian dengan diskon US$1.812.175 ribu.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim PT Barito Pacific Tbk 30 September 2026",
+      "url": "https://www.barito-pacific.com/uploads/investors/financial-report-261030051050Financial%20Statement%20PT%20Barito%20Pacific%20Tbk%20-%2030%20September%202026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 12
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 13,
    "kode": "DSSA",
    "nama": "Dian Swastatika Sentosa Tbk",
-   "sektor": "Energi"
+   "sektor": "Energi",
+   "situs_resmi": "https://www.dssa.co.id/id/information-disclosure",
+   "status_data": "sebagian",
+   "catatan": "Laporan keuangan 30 September 2026 belum tersedia di halaman Laporan Keuangan situs resmi saat diakses, jadi dipakai laporan 30 Juni 2026 (diaudit). Dokumen 'Rencana Pelaksanaan Pengalihan Saham Hasil Pembelian Kembali Saham 2026' (31 Juli 2026) berupa PDF hasil pindaian tanpa teks sehingga isinya tidak dapat diverifikasi dan tidak dicatat sebagai entri. RUPST 9 Juni 2026 memutuskan tidak membagikan dividen tunai: laba 2025 yang diatribusikan ke pemilik entitas induk US$230.539.143 dialokasikan ke cadangan wajib (US$100.000) dan laba ditahan.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-03-11",
+     "jenis": "Stock split",
+     "judul": "Pemecahan saham 1:25 disetujui RUPSLB",
+     "ringkasan": "RUPSLB 11 Maret 2026 menyetujui stock split dengan rasio 1:25, mengubah nilai nominal dari Rp25 menjadi Rp1 per saham. Rencana awal diumumkan lewat keterbukaan informasi 30 Januari 2026; menurut jadwal rencana, perdagangan dengan nominal baru di pasar reguler dimulai 7 April 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB DSSA 11 Maret 2026",
+       "url": "https://www.dssa.co.id/api/documents/file/Risalah_RUPSLB.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Keterbukaan Informasi rencana pemecahan saham, 30 Januari 2026",
+       "url": "https://www.dssa.co.id/api/documents/file/KI_INA.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-07-08",
+     "jenis": "Transaksi material",
+     "judul": "Peningkatan modal PT Bali Media Telekomunikasi sebesar Rp8,54 triliun",
+     "ringkasan": "Melalui entitas anak PT DSST Mas Gemilang, Perseroan mengambil 8.539.999.121 saham baru PT Bali Media Telekomunikasi senilai Rp8,54 triliun pada 6 Juli 2026. Transaksi ini tergolong transaksi material (20 sampai 50% ekuitas) dan transaksi afiliasi, untuk memperkuat permodalan bisnis digital.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi peningkatan modal PT Bali Media Telekomunikasi, 8 Juli 2026",
+       "url": "https://www.dssa.co.id/api/documents/file/Peningkatan_Modal_BMT-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-09-10",
+     "jenis": "Lainnya",
+     "judul": "Pengurangan modal lewat penarikan 3,85 miliar saham hasil buyback",
+     "ringkasan": "RUPSLB 10 September 2026 menyetujui penarikan 3.852.633.200 saham hasil pembelian kembali. Modal ditempatkan dan disetor turun dari Rp192,64 miliar menjadi Rp188,79 miliar, dan modal dasar dari Rp600 miliar menjadi Rp596 miliar.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Pertama)",
+       "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-19",
+     "jenis": "Buyback",
+     "judul": "Rencana buyback saham hingga Rp1 triliun",
+     "ringkasan": "Buyback dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023 dan surat OJK S-112/D.04/2026) dengan nilai maksimal Rp1 triliun, periode 19 Oktober 2026 sampai 18 Januari 2027. Biaya transaksi diperkirakan 0,20% dari nilai saham yang dibeli.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi rencana pembelian kembali saham, 19 Oktober 2026",
+       "url": "https://www.dssa.co.id/api/documents/file/KI__Buyback_Saham_IND_r-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian), KAP Mirawati Sensi Idris",
+    "pos": {
+     "aset": [
+      6076197344,
+      4414950126
+     ],
+     "pendapatan": [
+      1772497702,
+      1322999426
+     ],
+     "beban_usaha": [
+      313272931,
+      268769605
+     ],
+     "laba_bersih": [
+      174358486,
+      97086695
+     ],
+     "liabilitas": [
+      3028273868,
+      2153752494
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan usaha",
+     "beban_usaha": "Jumlah beban usaha (penjualan, umum dan administrasi, eksplorasi)",
+     "laba_bersih": "Laba periode berjalan yang teratribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan Q3 2026 belum ada di situs saat diakses. Beban usaha memakai 'Jumlah Beban Usaha' di laporan laba rugi: beban penjualan 192.475.769, beban umum dan administrasi 120.621.894, beban eksplorasi 175.268.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian PT Dian Swastatika Sentosa Tbk 30 Juni 2026",
+      "url": "https://www.dssa.co.id/api/documents/file/Report_PT_Dian_Swastatika_Sentosa_Juni_2026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-09",
+     "jenis": "Pemberhentian",
+     "nama": "Timotius Max Sulaiman",
+     "jabatan": "Direktur",
+     "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan dan diberi pembebasan tanggung jawab (acquit et decharge).",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)",
+       "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-09",
+     "jenis": "Pengangkatan",
+     "nama": "Marlo Budiman",
+     "jabatan": "Wakil Presiden Direktur",
+     "ringkasan": "Diangkat RUPS Tahunan dengan masa jabatan mengikuti anggota Direksi lainnya.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)",
+       "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-09",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Setelah RUPS Tahunan: Presiden Komisaris Franky Oesman Widjaja; Presiden Direktur Lay Krisnan Cahya; Wakil Presiden Direktur Lokita Prasetya dan Marlo Budiman.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST DSSA 9 Juni 2026 (Mata Acara Keempat)",
+       "url": "https://www.dssa.co.id/api/documents/file/Ringkasan_Risalah_Rapat_Umum_Pemegang_Saham_Tahunan-2.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-09-10",
+     "jenis": "Pengunduran diri",
+     "nama": "Franky Oesman Widjaja",
+     "jabatan": "Presiden Komisaris",
+     "ringkasan": "RUPSLB menerima pengunduran dirinya sebagai Presiden Komisaris dan memberikan acquit et decharge untuk periode 1 Januari 2026 sampai tanggal rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)",
+       "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-09-10",
+     "jenis": "Perubahan jabatan",
+     "nama": "David Fernando Audy",
+     "jabatan": "Direktur menjadi Presiden Komisaris",
+     "ringkasan": "RUPSLB menerima pengunduran dirinya sebagai Direktur lalu mengangkatnya sebagai Presiden Komisaris dengan masa jabatan mengikuti anggota Dewan Komisaris lainnya.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)",
+       "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-09-10",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Setelah RUPSLB: Presiden Komisaris David Fernando Audy; Presiden Direktur Lay Krisnan Cahya; Wakil Presiden Direktur Lokita Prasetya dan Marlo Budiman. Direksi kini tujuh orang.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB DSSA 10 September 2026 (Mata Acara Kedua)",
+       "url": "https://www.dssa.co.id/api/documents/file/cb18d678d9_d5549f41c3-1.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 13
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 14,
    "kode": "BRMS",
    "nama": "Bumi Resources Minerals Tbk",
-   "sektor": "Logam & mineral"
+   "sektor": "Logam & mineral",
+   "situs_resmi": "https://www.bumiresourcesminerals.com/investor-relations/",
+   "status_data": "lengkap",
+   "catatan": "Tidak ditemukan aksi korporasi sejak 1 Januari 2026 di situs resmi. Halaman Circular Reports tidak memuat keterbukaan baru di 2026; keterbukaan terakhir (transaksi material fasilitas pinjaman sindikasi US$200 juta dan US$425 juta) terbit 26 November 2025 sehingga di luar periode. RUPS Tahunan 30 April 2026 tidak memutuskan dividen maupun perubahan pengurus (mata acara: laporan direksi, pengesahan laporan keuangan 2025, penunjukan KAP, laporan penggunaan dana). Siaran pers 2026 tentang pembelian saham BRMS oleh Presiden Direktur bukan aksi korporasi perusahaan sehingga tidak dicatat.",
+   "aksi_korporasi": [],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      1452511567,
+      1310548105
+     ],
+     "pendapatan": [
+      167582678,
+      183579054
+     ],
+     "beban_usaha": [
+      40537980,
+      29109222
+     ],
+     "laba_bersih": [
+      23937575,
+      37907804
+     ],
+     "liabilitas": [
+      392881815,
+      266010135
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan",
+     "beban_usaha": "Beban usaha",
+     "laba_bersih": "Laba neto yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Angka dalam USD penuh. Beban usaha sesuai pos 'Beban Usaha' (catatan 29) di laporan laba rugi, terpisah dari beban pokok penjualan.",
+    "sumber": [
+     {
+      "judul": "Consolidated Financial Statement 30 September 2026",
+      "url": "https://www.bumiresourcesminerals.com/download/consolidated-financial-statement-30-september-2026/?wpdmdl=4086",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 14
   },
   {
    "status_data": "belum_dikumpulkan",
@@ -390,24 +1094,527 @@
    "sektor": "Perbankan"
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 22,
    "kode": "WIFI",
    "nama": "Solusi Sinergi Digital Tbk",
-   "sektor": "Telekomunikasi"
+   "sektor": "Telekomunikasi",
+   "situs_resmi": "https://surge.co.id/investor-relation",
+   "status_data": "lengkap",
+   "catatan": "Semua data diambil dari surge.co.id (menu Investor Relation: Disclosure, RUPS, Financial Report). Beberapa judul di halaman Disclosure tertukar tautannya (misalnya judul 'Divestment of SISCM' menautkan ke PDF perubahan penggunaan dana dan sebaliknya); isi dicek langsung dari PDF. Keterbukaan transaksi afiliasi kecil (penjaminan SSD kepada IJE atas sewa pembiayaan KDB Tifa Rp30 miliar dan Mitsubishi HC Capital Rp20,8 miliar yang diungkap 9 Februari 2026, perjanjian pinjam pakai SSD-IJE, pembiayaan IJE dari Bank JTrust, dan addendum pinjaman pemegang saham SSD-KKD Rp8,5 miliar yang diungkap 29 Mei 2026) tidak dimasukkan sebagai aksi korporasi karena nilainya kecil atau merupakan transaksi lama. Perubahan data administrasi perusahaan (alamat, telepon) per 18 November 2026 juga tidak dimasukkan.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-04-08",
+     "jenis": "Lainnya",
+     "judul": "RUPSLB I menyetujui perubahan penggunaan dana PMHMETD I",
+     "ringkasan": "RUPS Luar Biasa 8 April 2026 menyetujui perubahan penggunaan dana rights issue (PMHMETD I). Rp5,89 triliun disetorkan sebagai modal ke anak usaha PT Jaringan Infra Andalan, lalu diteruskan ke PT Telemedia Komunikasi Pratama untuk proyek FWA: sekitar Rp5,07 triliun untuk perangkat CPE dan RAN, Rp403,8 miliar untuk biaya IPFR tahun ke-2 pita frekuensi 1,4 GHz, dan Rp421 miliar untuk modal kerja proyek. Sisa dana dipakai untuk modal kerja Perseroan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB I SSD 2026 (8 April 2026)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_I_2026-090426.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-04-30",
+     "jenis": "Divestasi",
+     "judul": "Pelepasan SISCM oleh anak usaha GMI",
+     "ringkasan": "Anak usaha PT Gawai Maju Indonesia mengalihkan seluruh 51 saham (senilai HKD51) di Surge International Supply Chain Management Co., Limited kepada PT Investasi Gemilang Maju, pihak ketiga tanpa hubungan afiliasi. SISCM tidak lagi dikonsolidasikan; Perseroan menyatakan dampaknya tidak signifikan. Diungkapkan 5 Mei 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi No. 045/CORSEC/SSD/V/2026 tentang pelepasan SISCM dari GMI",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/045-KI_Pelepasan_SISCM_dari_GMI.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-24",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Obligasi Berkelanjutan I dan Sukuk Ijarah Berkelanjutan I Tahap I 2026, masing-masing Rp1,25 triliun",
+     "ringkasan": "Penerbitan tahap I dari program obligasi dan sukuk ijarah berkelanjutan dengan target masing-masing Rp2,5 triliun. Penjatahan 24 Juni 2026, distribusi elektronik 26 Juni 2026, pencatatan 29 Juni 2026. Peringkat idA (obligasi) dan idA(sy) (sukuk) dari Pefindo, serta irA+ dan irA+(sy) dari KRI. Tiga seri: A (370 hari, 9,15%), B (2 tahun, 10,75%), C (3 tahun, 11,75%). Pembayaran bunga/imbalan pertama dilakukan 28 September 2026.",
+     "sumber": [
+      {
+       "judul": "Prospektus ringkas Obligasi & Sukuk Ijarah PT Solusi Sinergi Digital Tbk 2026",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Prospektus%20Short/Prosring_Obligasi_%26_Sukuk_Ijarah_PT_SOLUSI_SINERGI_DIGITAL_Tbk_2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Keterbukaan Informasi No. 121/CORSEC/SSD/IX/2026 tentang pembayaran bunga dan imbalan ke-1",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/121_-_KI_Bunga_OBB_I_dan_SIB_I_2026_SR_A-C_SSD_ES.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: Rp2 per saham",
+     "ringkasan": "RUPS Tahunan 30 Juni 2026 menetapkan dividen Rp2 per saham dari laba bersih 2025 sebesar Rp632,9 miliar, serta cadangan wajib Rp1 miliar. Cum dividen pasar reguler 8 Juli 2026, recording date 10 Juli 2026, pembayaran 31 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 dan jadwal pembagian dividen",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Keterbukaan Informasi aksi korporasi dividen tunai (1 Juli 2026)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/Dividen_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-08-11",
+     "jenis": "Divestasi",
+     "judul": "Pelepasan seluruh saham di PT Jejaring Digital Utama (JDU)",
+     "ringkasan": "Perseroan mengalihkan seluruh 350 saham miliknya di anak usaha JDU kepada PT Investasi Berjaya Sejahtera. Perseroan menyatakan tidak ada dampak material terhadap operasional dan keuangan. Diungkapkan 13 Agustus 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi No. 104/CORSEC/SSD/VIII/2026 tentang divestasi saham JDU",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/104_-_KI_-_Pelepasan_JDU_SSD_ES.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Lainnya",
+     "judul": "RUPSLB II menyetujui penambahan kegiatan usaha konstruksi sentral telekomunikasi",
+     "ringkasan": "RUPS Luar Biasa II menyetujui studi kelayakan dan perubahan Pasal 3 Anggaran Dasar untuk menambah kegiatan usaha Konstruksi Sentral Telekomunikasi (KBLI 42206), serta perubahan Pasal 12 ayat (13) tentang wewenang Direksi.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (21 Oktober 2026)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      23482070099883,
+      15168091293968
+     ],
+     "pendapatan": [
+      2962020574256,
+      1014907771046
+     ],
+     "beban_usaha": [
+      253374688964,
+      155426637223
+     ],
+     "laba_bersih": [
+      478222993289,
+      260092692907
+     ],
+     "liabilitas": [
+      14324275981683,
+      6650146440951
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan usaha - neto",
+     "beban_usaha": "Beban pemasaran + beban umum dan administrasi",
+     "laba_bersih": "Laba neto periode berjalan yang diatribusikan kepada entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha 2026 = beban pemasaran Rp16.354.032.883 + beban umum dan administrasi Rp237.020.656.081. Periode 2025 tidak memiliki beban pemasaran. Laba neto periode berjalan total (termasuk kepentingan nonpengendali) Rp648.417.891.341 (2025: Rp330.186.243.333).",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim PT Solusi Sinergi Digital Tbk 30 September 2026 (tidak diaudit)",
+      "url": "https://surge.co.id/pdf/Investor%20Relations/Financial%20Report/Lapkeu%202026/Q3%202026/FS_Final_SSD_Group_Sept_30_2026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Pemberhentian",
+     "nama": "Hermansjah Haryono",
+     "jabatan": "Komisaris Utama",
+     "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan sejak penutupan rapat, dengan pembebasan tanggung jawab untuk masa 1 Januari 2026 sampai tanggal rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Perubahan jabatan",
+     "nama": "Yune Marketatmo",
+     "jabatan": "Direktur (sebelumnya Direktur Utama)",
+     "ringkasan": "RUPS Tahunan menetapkan Yune Marketatmo, yang semula Direktur Utama, menjadi Direktur untuk sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Pengangkatan",
+     "nama": "Hashim Sujono Djojohadikusumo",
+     "jabatan": "Komisaris Utama",
+     "ringkasan": "Diangkat RUPS Tahunan sebagai Komisaris Utama. Mengundurkan diri lewat surat 29 September 2026 dan pengunduran dirinya diterima RUPSLB II 21 Oktober 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Pengangkatan",
+     "nama": "Fadel Muhammad",
+     "jabatan": "Komisaris",
+     "ringkasan": "Diangkat RUPS Tahunan sebagai Komisaris, lalu ditetapkan menjadi Komisaris Utama oleh RUPSLB II 21 Oktober 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Pengangkatan",
+     "nama": "Hendrik Tee",
+     "jabatan": "Direktur Utama",
+     "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur Utama. Pengunduran dirinya diterima RUPSLB II 21 Oktober 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Pengangkatan",
+     "nama": "Henny Santoso",
+     "jabatan": "Direktur",
+     "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur. Mengajukan pengunduran diri 1 Oktober 2026 yang diterima RUPSLB II 21 Oktober 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan setelah RUPS Tahunan, berlaku sampai RUPS Tahunan 2028. Komisaris Utama: Hashim Sujono Djojohadikusumo. Direktur Utama: Hendrik Tee. Direktur: Shannedy Ong, Andrew, Yune Marketatmo, Mohammad Mustaghfirin, Henny Santoso. Komisaris: Fadel Muhammad; Komisaris Independen: Doni Satiaji Soetadi.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Keterbukaan Informasi perubahan susunan Direksi dan/atau Dewan Komisaris (30 Juni 2026)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/KI-Perubahan_Pengurus_SSD.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Pengunduran diri",
+     "nama": "Hashim S. Djojohadikusumo",
+     "jabatan": "Komisaris Utama",
+     "ringkasan": "Surat pengunduran diri bertanggal 29 September 2026 (diterima 30 September 2026). RUPSLB II 21 Oktober 2026 menerima pengunduran dirinya sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi No. 122/CORSEC/SSD/X/2026 tentang pengunduran diri anggota Dewan Komisaris dan Direksi",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/122-KI_Pengunduran_Diri_BOC_BOD_ES.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Pengunduran diri",
+     "nama": "Hendrik Tee",
+     "jabatan": "Direktur Utama",
+     "ringkasan": "RUPSLB II menerima pengunduran dirinya sebagai Direktur Utama sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Pengunduran diri",
+     "nama": "Henny Santoso",
+     "jabatan": "Direktur",
+     "ringkasan": "Surat pengunduran diri tertanggal 1 Oktober 2026. RUPSLB II menerima pengunduran dirinya sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi No. 122/CORSEC/SSD/X/2026 tentang pengunduran diri anggota Dewan Komisaris dan Direksi",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/122-KI_Pengunduran_Diri_BOC_BOD_ES.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Perubahan jabatan",
+     "nama": "Fadel Muhammad",
+     "jabatan": "Komisaris Utama (sebelumnya Komisaris)",
+     "ringkasan": "RUPSLB II menetapkan Fadel Muhammad menjadi Komisaris Utama untuk sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Perubahan jabatan",
+     "nama": "Shannedy Ong",
+     "jabatan": "Direktur Utama (sebelumnya Direktur)",
+     "ringkasan": "RUPSLB II menetapkan Shannedy Ong menjadi Direktur Utama untuk sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-21",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan setelah RUPSLB II, berlaku sampai RUPS Tahunan 2028. Komisaris Utama: Fadel Muhammad; Komisaris Independen: Doni Satiaji Soetadi. Direktur Utama: Shannedy Ong; Direktur: Andrew, Yune Marketatmo, Mohammad Mustaghfirin.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Keterbukaan Informasi penambahan KBLI dan perubahan susunan Direksi dan Dewan Komisaris (22 Oktober 2026)",
+       "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/130-KI_Perubahan_Pengurus-KBLI_SSD_Okt_2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 22
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 23,
    "kode": "TINS",
    "nama": "Timah (Persero) Tbk",
-   "sektor": "Logam & mineral"
+   "sektor": "Logam & mineral",
+   "situs_resmi": "https://timah.com/blog/general/investor-relations.html",
+   "status_data": "lengkap",
+   "catatan": "Sumber dari timah.com (Information Disclosure, RUPS Tahunan Tahun Buku 2025, Financial Report). Penyampaian perubahan Anggaran Dasar (Akta No. 16 tanggal 14 Januari 2026, disampaikan 13 Februari 2026) merupakan tindak lanjut RUPSLB Desember 2025 sehingga tidak dicatat sebagai aksi korporasi baru. Fasilitas pinjaman jangka pendek Bank Mandiri dengan limit Rp50 miliar (6 Juli 2026, Perseroan sebagai co-borrower MIND ID) juga tidak dimasukkan karena nilainya kecil. Dokumen laporan keuangan Q3 tidak memuat laporan auditor; status 'tidak diaudit' disimpulkan dari sifatnya sebagai laporan interim.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-06-12",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: Rp88,189 per saham (total Rp656,8 miliar)",
+     "ringkasan": "RUPS Tahunan 12 Juni 2026 menetapkan 50% laba bersih 2025 (Rp1,31 triliun), yaitu Rp656,8 miliar, sebagai dividen tunai, setara indikasi Rp88,189 per saham. Sisa 50% menjadi saldo laba ditahan. Cum dividen pasar reguler 23 Juni 2026, recording date 25 Juni 2026, pembayaran 10 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Kedua) dan jadwal dividen",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Jadwal dan Tata Cara Pembagian Dividen PT TIMAH (15 Juni 2026)",
+       "url": "https://timah.com/userfiles/post/2606176A320DAF4B57D.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-12",
+     "jenis": "Lainnya",
+     "judul": "RUPS Tahunan menyetujui perubahan Anggaran Dasar",
+     "ringkasan": "RUPS Tahunan menyetujui perubahan Pasal 3 Anggaran Dasar (maksud, tujuan, dan kegiatan usaha) untuk penyesuaian KBLI 2025, serta mendelegasikan persetujuan RJPP 2026-2030 dan RKAP 2027 kepada Dewan Komisaris dengan persetujuan tertulis Pemegang Saham Seri B Terbanyak.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Kelima dan Keenam)",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-20",
+     "jenis": "Lainnya",
+     "judul": "Fasilitas kredit talangan DHE-SDA dari Bank Mandiri hingga Rp4 triliun",
+     "ringkasan": "Penandatanganan fasilitas kredit talangan Devisa Hasil Ekspor Sumber Daya Alam dengan Bank Mandiri, limit maksimal Rp4 triliun, untuk keperluan umum termasuk modal kerja terkait kewajiban penempatan DHE-SDA. Fasilitas revolving 12 bulan; tiap penarikan bertenor 3 sampai 12 bulan.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi atau Fakta Material: Penandatanganan Fasilitas Kredit DHE-SDA dengan Bank Mandiri (20 Oktober 2026)",
+       "url": "https://timah.com/userfiles/post/2610216AD8AA2FE6A41.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      17258212,
+      13643395
+     ],
+     "pendapatan": [
+      16149278,
+      6607740
+     ],
+     "beban_usaha": [
+      948702,
+      657044
+     ],
+     "laba_bersih": [
+      4121355,
+      602420
+     ],
+     "liabilitas": [
+      5285877,
+      5234656
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan dari kontrak dengan pelanggan",
+     "beban_usaha": "Beban umum dan administrasi + beban penjualan",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha 2026 = beban umum dan administrasi 883.165 + beban penjualan 65.537; 2025 = 610.699 + 46.345.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim PT TIMAH 30 September 2026",
+      "url": "https://timah.com/userfiles/post/2611106AF28CB9DB361.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-04-20",
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Suhendra Yusuf Ratuprawiranegara",
+     "jabatan": "Direktur Pengembangan Usaha",
+     "ringkasan": "Tidak lagi menjabat sejak 20 April 2026 karena diangkat sebagai direktur di PT Pelindo Jasa Maritim; pemberitahuan diterima Perseroan 21 April 2026. RUPS Tahunan 12 Juni 2026 mengukuhkan pemberhentiannya dengan hormat terhitung 20 April 2026.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi: Pemberitahuan berakhirnya masa jabatan Direktur Pengembangan Usaha (21 April 2026)",
+       "url": "https://timah.com/userfiles/post/25101668F074006095C.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-04-23",
+     "jenis": "Perubahan jabatan",
+     "nama": "Harry Budi Sidharta",
+     "jabatan": "Wakil Direktur Utama, Plt. Direktur Pengembangan Usaha",
+     "ringkasan": "Dewan Komisaris menunjuk Wakil Direktur Utama Harry Budi Sidharta sebagai Pelaksana Tugas Sementara Direktur Pengembangan Usaha sampai ada pejabat definitif.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi: Penunjukan Plt. Direktur Pengembangan Usaha (23 April 2026)",
+       "url": "https://timah.com/userfiles/post/26042369E9F0AF1C7BC.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-12",
+     "jenis": "Perubahan jabatan",
+     "nama": "Harry Budi Sidharta",
+     "jabatan": "Direktur Strategi Korporasi dan Pengembangan Usaha (sebelumnya Wakil Direktur Utama)",
+     "ringkasan": "RUPS Tahunan menghapus jabatan Wakil Direktur Utama dan mengalihkan tugas Harry Budi Sidharta menjadi Direktur Strategi Korporasi dan Pengembangan Usaha untuk sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-12",
+     "jenis": "Perubahan jabatan",
+     "nama": "Ratih Mayasari",
+     "jabatan": "Direktur Sumber Daya Manusia dan Transformasi Korporasi (sebelumnya Direktur Sumber Daya Manusia)",
+     "ringkasan": "Perubahan nomenklatur dan pengalihan tugas oleh RUPS Tahunan, melanjutkan sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-12",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan setelah RUPS Tahunan. Komisaris Utama (Independen): Agus Rohman. Direktur Utama: Restu Widiyantoro. Direksi lain: Harry Budi Sidharta, Fina Eliani (Keuangan & Manajemen Risiko), Handy Geniardi (Operasi), Ilhamsyah (Produksi dan Komersial), Ratih Mayasari. Komisaris: Yuslih Ihza, Rizani Usman, M. Hita Tunggal, Eniya Listiani Dewi.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 23
   },
   {
    "status_data": "belum_dikumpulkan",
@@ -490,34 +1697,439 @@
    "sektor": "Energi"
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 32,
    "kode": "INET",
    "nama": "Sinergi Inti Andalan Prima Tbk",
-   "sektor": "Telekomunikasi"
+   "sektor": "Telekomunikasi",
+   "situs_resmi": "https://sinergynetworks.com/investors",
+   "status_data": "sebagian",
+   "catatan": "Situs inet.co.id menampilkan halaman tantangan anti-bot ('One moment, please...') sehingga tidak dipakai. Situs resmi grup yang dipakai: sinergynetworks.com (siapnetworks.co.id dialihkan ke sana); dokumennya disimpan di api-cms-compro.sinergynetworks.com. Laporan keuangan 30 September 2026 belum tersedia di situs, jadi dipakai laporan 30 Juni 2026. Dokumen keterbukaan rinci transaksi akuisisi 60% PT Trans Hybrid Communication (25 Februari 2026) tidak diunggah, hanya surat pengantarnya, sehingga nilai transaksinya tidak diketahui. Mata acara ketujuh RUPST 19 Mei 2026 (perubahan maksud dan tujuan) tidak kuorum dan dijadwalkan ke rapat kedua 2 Juni 2026, sedangkan mata acara kedelapan (penyertaan pada PT Sarana Global Indonesia) ditunda; hasil rapat kedua tidak ditemukan di situs. Ringkasan risalah RUPST berupa PDF hasil pindaian dan dibaca secara visual. Pergantian Sekretaris Perusahaan (Kemal Akbar digantikan Arki Rifazka, 12 Februari 2026) tidak dimasukkan karena bukan anggota direksi/komisaris.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-01-22",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Penawaran umum Obligasi I dan Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026",
+     "ringkasan": "Perseroan mengumumkan informasi tambahan prospektus ringkas untuk penawaran Obligasi I dan Sukuk Ijarah I. Menurut surat keterangan notaris atas rapat pemegang obligasi dan sukuk pada 5 November 2026, pokok yang beredar masing-masing Rp500 miliar.",
+     "sumber": [
+      {
+       "judul": "Surat pengantar bukti iklan koran penawaran umum Obligasi I dan Sukuk Ijarah I (22 Januari 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/b743934c-62eb-43cc-8786-bfd6cd81c188.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Surat Keterangan RUPO I INET Tahun 2026",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/8a424de4-e145-4c9d-9ba2-6f2ea7cd5822.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Surat Keterangan RUPSI I INET Tahun 2026",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/d44798d8-c2a0-42fd-a216-1237ad54d3fe.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-02-03",
+     "jenis": "Akuisisi",
+     "judul": "Pembelian 53,57% saham PT Personel Alih Daya Tbk (PADA) senilai Rp106,39 miliar",
+     "ringkasan": "INET membeli 1.687.455.000 saham PADA (53,57%) dari Koperasi Pegawai PT Indosat Tbk dengan nilai transaksi Rp106.390.655.000, dikategorikan transaksi material. Transaksi terjadi 2 Februari 2026. Sebagai pengendali baru, INET menjalankan penawaran tender wajib 18 Juni sampai 17 Juli 2026 pada harga Rp63 per saham; hanya 240.000 saham terbeli sehingga kepemilikan menjadi 53,58%.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Kepada Pemegang Saham (3 Februari 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/8f178634-7247-42a2-9028-d2778ed24cfd.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan Hasil Penawaran Tender Wajib PT Personel Alih Daya Tbk (23 Juli 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/af18e7e6-985c-4777-a950-c3f36e211fb2.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-02-10",
+     "jenis": "Lainnya",
+     "judul": "Pendirian anak usaha pusat data PT Sinergi Inti Data Indonesia",
+     "ringkasan": "Perseroan mendirikan PT Sinergi Inti Data Indonesia (SIDI) pada 6 Februari 2026 dengan setoran Rp18,7 miliar (85%), bersama PT Inti Pusat Data Nusantara Rp3,3 miliar. SIDI disiapkan untuk usaha data center.",
+     "sumber": [
+      {
+       "judul": "Laporan Informasi Fakta Material (10 Februari 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/0d5d48e2-c418-497a-a72a-96b8a381a722.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-02-25",
+     "jenis": "Akuisisi",
+     "judul": "Pembelian 60% saham PT Trans Hybrid Communication",
+     "ringkasan": "Perseroan menyampaikan keterbukaan informasi transaksi material atas pembelian 60% saham PT Trans Hybrid Communication beserta ringkasan penilaian dan pendapat kewajaran. Nilai transaksi tidak tercantum di surat pengantar yang tersedia di situs.",
+     "sumber": [
+      {
+       "judul": "Surat Pengantar Keterbukaan Informasi terkait Transaksi Material (25 Februari 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/f0bf8f62-1a9e-4d61-816f-05d9e35b3d01.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: Rp0,04 per saham",
+     "ringkasan": "RUPS Tahunan 19 Mei 2026 menetapkan dividen Rp894.964.476 (sekitar 3,65% laba 2025 sebesar Rp24,49 miliar) atau Rp0,04 per saham untuk 22.374.111.088 saham. Cum dividen pasar reguler 29 Mei 2026, recording date 3 Juni 2026, pembayaran 11 Juni 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Kedua",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Pemberitahuan jadwal dan tata cara pembagian dividen tunai (21 Mei 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/78b01f41-857a-4165-85ed-816211b8235e.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian); kolom pembanding 30 Juni 2025 tidak diaudit",
+    "pos": {
+     "aset": [
+      6111011414909,
+      760371208255
+     ],
+     "pendapatan": [
+      926453327140,
+      45002355760
+     ],
+     "beban_usaha": [
+      48655218137,
+      6907947503
+     ],
+     "laba_bersih": [
+      33671188228,
+      7652194508
+     ],
+     "liabilitas": [
+      2302084086429,
+      331159581647
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan neto",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha dijumlahkan dari beban penjualan (Rp1.689.571.422; 2025: Rp489.114.818) dan beban umum dan administrasi (Rp46.965.646.715; 2025: Rp6.418.832.685). Lonjakan pendapatan dan aset terutama karena konsolidasi PADA (kontribusi pendapatan Rp782,87 miliar) dan dana hasil obligasi/sukuk serta penambahan modal.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian 30 Juni 2026 (Financial Report 2026 Q2)",
+      "url": "https://api-cms-compro.sinergynetworks.com/api/storage/financial-reports/7ccc3e46-4646-4763-ac9e-0445a0afcf0e.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengunduran diri",
+     "nama": "Willy Unsulangi",
+     "jabatan": "Direktur",
+     "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Direktur, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengunduran diri",
+     "nama": "Tongam Lumban Tobing",
+     "jabatan": "Komisaris",
+     "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Komisaris, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Perubahan jabatan",
+     "nama": "Saripudin",
+     "jabatan": "Direktur (sebelumnya Komisaris Utama)",
+     "ringkasan": "Diberhentikan dengan hormat dari jabatan Komisaris Utama lalu diangkat sebagai Direktur oleh RUPS Tahunan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengangkatan",
+     "nama": "Kemal Akbar",
+     "jabatan": "Komisaris Utama",
+     "ringkasan": "Diangkat sebagai Komisaris Utama untuk sisa masa jabatan pengurus yang digantikan, sampai RUPS Tahunan 2027. Sebelumnya ia menjabat Sekretaris Perusahaan sampai 12 Februari 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Pemberitahuan Perubahan Sekretaris Perusahaan (12 Februari 2026)",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/79325a48-ff5a-4899-917a-6ca480cb77e9.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengangkatan",
+     "nama": "Septiawan",
+     "jabatan": "Direktur",
+     "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengangkatan",
+     "nama": "Fadzri Sentosa",
+     "jabatan": "Direktur",
+     "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Pengangkatan",
+     "nama": "Firdaus Andi Wibowo",
+     "jabatan": "Direktur",
+     "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan, masa jabatan sampai RUPS Tahunan 2027.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-19",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan baru sampai RUPS Tahunan 2027. Komisaris Utama: Kemal Akbar; Komisaris Independen: Cahyana Ahmad Jayadi. Direktur Utama: Muhammad Arif; Direktur: Saripudin, Septiawan, Fadzri Sentosa, Firdaus Andi Wibowo.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan (20 Mei 2026), Mata Acara Keenam",
+       "url": "https://api-cms-compro.sinergynetworks.com/api/storage/disclosure/3e38cb16-6106-4dfd-b2ff-bc52029f33e0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 32
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 33,
    "kode": "HRME",
    "nama": "Menteng Heritage Realty Tbk",
-   "sektor": "Properti & pariwisata"
-  },
-  {
-   "status_data": "belum_dikumpulkan",
+   "sektor": "Properti & pariwisata",
+   "situs_resmi": "https://hrme.co.id/kinerja-usaha-keuangan/",
+   "status_data": "sebagian",
+   "catatan": "Situs resmi hrme.co.id bisa diakses, tetapi sejak 1 Januari 2026 hanya memuat dokumen RUPS (iklan pengumuman/pemanggilan dan ringkasan risalah RUPST 8 Juni 2026 serta RUPSLB 18 Agustus 2026). Tidak ada laporan keuangan 2026 (laporan terakhir yang diunggah adalah laporan keuangan tahun buku 2023), sehingga laporan_keuangan dikosongkan. RUPST 2026 tidak memutuskan pembagian dividen. RUPSLB 18 Agustus 2026 hanya mengubah Pasal 3 anggaran dasar (penyesuaian KBLI 2025), tidak dicatat sebagai aksi korporasi. Ringkasan risalah RUPST versi Indonesia menyebut Teuku Johas Raffli sebagai 'Komisaris', sedangkan versi Inggris dan risalah RUPSLB menyebutnya Komisaris Independen.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 34,
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-08",
+     "jenis": "Pengunduran diri",
+     "nama": "Alip",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "RUPS Tahunan menyetujui pengunduran dirinya sebagai Komisaris Independen dan memberikan pembebasan tanggung jawab.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4",
+       "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-08",
+     "jenis": "Pengunduran diri",
+     "nama": "Anke Krishna Bachtiar",
+     "jabatan": "Direktur",
+     "ringkasan": "RUPS Tahunan menyetujui pengunduran dirinya sebagai Direktur dan memberikan pembebasan tanggung jawab.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4",
+       "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-08",
+     "jenis": "Pengangkatan",
+     "nama": "Teuku Johas Raffli",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "Diangkat menggantikan Alip, efektif sejak penutupan RUPS Tahunan, dengan sisa masa jabatan sampai RUPS Tahunan 2030.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4",
+       "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB HRME 18 Agustus 2026",
+       "url": "https://hrme.co.id/wp-content/uploads/2026/08/RINGKASAN-RISALAH-RUPSLB-Menteng-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-08",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan setelah RUPS Tahunan, berlaku sampai RUPS Tahunan 2030. Komisaris Utama: Herry Wijaya; Komisaris (Independen): Teuku Johas Raffli. Direktur Utama: Budi Kurniawan; Direktur: Mariella Wijaya.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST HRME Tahun Buku 2025 (8 Juni 2026), Mata Acara 4",
+       "url": "https://hrme.co.id/wp-content/uploads/2026/06/RINGKASAN-RISALAH-RUPST-Menteng-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 33
+  },
+  {
    "kode": "COCO",
    "nama": "Wahana Interfood Nusantara Tbk",
-   "sektor": "Makanan & minuman"
+   "sektor": "Makanan & minuman",
+   "situs_resmi": "https://wahana-interfood.com/information-disclosure/",
+   "status_data": "sebagian",
+   "catatan": "Situs resmi wahana-interfood.com (Win&Co Group) dapat diakses. Situs merek chocolatemonggo.com membalas 403/Cloudflare dan tidak dipakai. Dokumen keterbukaan rinci untuk rencana akuisisi PT Sari Murni Abadi (Momogi Group) tidak ditemukan di situs; yang ada hanya artikel berita perusahaan (CSPA ditandatangani 6 Mei 2026) dan uraian penggunaan dana di prospektus PMHMETD III. Per 30 September 2026 akuisisi belum tercermin di laporan keuangan. RUPST 12 Juni 2026 memutuskan tidak membagikan dividen dan tidak ada mata acara perubahan pengurus. Ringkasan risalah RUPST yang tersedia hanya versi bahasa Inggris.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Rights issue",
+     "judul": "PMHMETD III: hingga 10,68 miliar saham baru di harga Rp120, dana sekitar Rp1,28 triliun",
+     "ringkasan": "RUPSLB 17 April 2026 menyetujui kenaikan modal dasar dari Rp400 miliar menjadi Rp3 triliun dan PMHMETD III dengan disertai Waran Seri I. Menurut prospektus, rasio 1 saham lama mendapat 3 HMETD, harga pelaksanaan Rp120 per saham (dana maksimal Rp1.281.404.132.640), dengan 355.945.592 Waran Seri I (harga pelaksanaan Rp800). Pernyataan efektif 30 Juni 2026, recording date 10 Juli 2026, periode perdagangan HMETD 14-21 Juli 2026. Sekitar Rp1,17 triliun direncanakan untuk mengambil alih PT Sari Murni Abadi (Momogi Group), sisanya modal kerja. Siaran berita perusahaan 4 Agustus 2026 menyatakan seluruh saham baru terserap dan pemesanan tambahan 2,65 kali.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi PMHMETD III (Maret 2026)",
+       "url": "https://wahana-interfood.com/wp-content/uploads/2026/03/KI-HMETD-PT-WAHANA-INTERFOOD-NUSANTARA-Tbk.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Ringkasan Risalah RUPSLB 17 April 2026",
+       "url": "https://wahana-interfood.com/wp-content/uploads/2026/04/1.-Ringkasan-RUPSLB-17-04-2026.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Informasi tambahan dan/atau perbaikan atas Prospektus Ringkas PMHMETD III (Juli 2026)",
+       "url": "https://wahana-interfood.com/wp-content/uploads/2026/07/RI-COCO-2026-Informasi-tambahan-dan-atau-perbaikan-atas-Intam-Ringkas.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Win&Co Group (COCO) Raises Rp1.28 Trillion Through Rights Issue (4 Agustus 2026)",
+       "url": "https://wahana-interfood.com/winco-rights-issue-2026/",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-06",
+     "jenis": "Akuisisi",
+     "judul": "Rencana akuisisi PT Sari Murni Abadi (Momogi Group) dan akses ke Bibica Vietnam",
+     "ringkasan": "Perseroan menandatangani perjanjian jual beli saham bersyarat (CSPA) pada 6 Mei 2026 untuk mengambil alih Momogi Group (PT Sari Murni Abadi), yang membawahi Bibica Corporation di Vietnam. Transaksi dibiayai terutama dari dana PMHMETD III dan baru berjalan setelah syarat-syarat terpenuhi. Nilai transaksi tidak disebut di dokumen yang tersedia di situs.",
+     "sumber": [
+      {
+       "judul": "Berita perusahaan: Win&Co Group perkuat strategi bisnis regional (29 Juli 2026)",
+       "url": "https://wahana-interfood.com/winco-vietnam-expansion/",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Informasi tambahan dan/atau perbaikan atas Prospektus Ringkas PMHMETD III (penggunaan dana)",
+       "url": "https://wahana-interfood.com/wp-content/uploads/2026/07/RI-COCO-2026-Informasi-tambahan-dan-atau-perbaikan-atas-Intam-Ringkas.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      1707316361928,
+      542271331895
+     ],
+     "pendapatan": [
+      121083357635,
+      111457612368
+     ],
+     "beban_usaha": [
+      37413206201,
+      27505266199
+     ],
+     "laba_bersih": [
+      -38051642403,
+      -103617496707
+     ],
+     "liabilitas": [
+      356254629591,
+      429483373508
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan",
+     "beban_usaha": "Beban penjualan + beban penelitian dan pengembangan + beban umum dan administrasi",
+     "laba_bersih": "Rugi neto periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (Rp17.799.555.159; 2025: Rp3.442.752.538) + beban penelitian dan pengembangan (Rp789.123.784; 2025: Rp237.974.195) + beban umum dan administrasi (Rp18.824.527.258; 2025: Rp23.824.539.466). Rugi 9 bulan 2025 dipengaruhi beban operasi lain-lain neto Rp63,13 miliar. Kenaikan aset terutama dari kas hasil PMHMETD III.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (tidak diaudit)",
+      "url": "https://wahana-interfood.com/wp-content/uploads/2026/10/COCO-FS-30-SEPTEMBER-2026-UNAUDITED.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 34
   },
   {
    "status_data": "belum_dikumpulkan",
@@ -590,34 +2202,435 @@
    "sektor": "Batu bara"
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 42,
    "kode": "PTBA",
    "nama": "Bukit Asam Tbk",
-   "sektor": "Batu bara"
+   "sektor": "Batu bara",
+   "situs_resmi": "https://www.ptba.co.id/id/investor",
+   "status_data": "lengkap",
+   "catatan": "Situs ptba.co.id berbasis JavaScript; daftar dokumen dan siaran pers dibaca lewat API JSON situs itu sendiri (www.ptba.co.id/api/...). Dua keterbukaan informasi (penggabungan anak usaha dan berakhirnya jabatan Suko Hartono) berupa PDF hasil pindai, dibaca dari gambar halamannya. Sejak 13 Februari 2026 nama resmi perseroan menjadi Perusahaan Perseroan (Persero) PT Bukit Asam Tbk.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-02-13",
+     "jenis": "Lainnya",
+     "judul": "Perubahan nama menjadi PT Bukit Asam (Persero) Tbk",
+     "ringkasan": "Sebagai tindak lanjut UU BUMN dan RUPSLB 16 Desember 2025, nama perseroan resmi berubah menjadi Perusahaan Perseroan (Persero) PT Bukit Asam Tbk setelah perubahan anggaran dasar disetujui Menteri Hukum pada 13 Februari 2026. Keterbukaan informasi disampaikan 18 Februari 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi terkait Perubahan Nama Perusahaan (18 Februari 2026)",
+       "url": "https://www.ptba.co.id/api/storage/1771402717137-4ea7f25d-039c-4409-be86-70bfbdf734d4.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: Rp114,508 per saham (total Rp1,32 triliun)",
+     "ringkasan": "RUPS Tahunan 11 Juni 2026 menetapkan dividen tunai Rp1.318.480.807.559 atau 45% dari laba bersih 2025 yang diatribusikan kepada pemilik entitas induk (Rp2,93 triliun); sisanya 55% menjadi laba ditahan. Cum dividen pasar reguler 22 Juni 2026, recording date 24 Juni 2026, pembayaran 10 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Siaran pers PTBA, 11 Juni 2026: RUPST setujui dividen Rp1,32 triliun",
+       "url": "https://www.ptba.co.id/id/media/press-release/detail/perkuat-struktur-bisnis-dan-tata-kelola-rupst-ptba-setujui-dividen-rp-1-32-triliun",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-30",
+     "jenis": "Merger",
+     "judul": "Penggabungan dua anak usaha: PT Bukit Energi Investama dan PT Bukit Energi Servis Terpadu",
+     "ringkasan": "Penggabungan antar perusahaan terkendali dalam rangka penataan anak usaha BUMN sesuai arahan Danantara. Catatan: teks bahasa Indonesia menyebut PT BEI sebagai pihak yang menggabungkan diri dan PT BEST sebagai penerima, sedangkan teks bahasa Inggris menyebut sebaliknya.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Penggabungan PT Bukit Energi Investama dan PT Bukit Energi Servis Terpadu (30 Juni 2026)",
+       "url": "https://www.ptba.co.id/api/storage/1782874573614-99e6c29b-0284-4381-9392-161f70b80f97.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-22",
+     "jenis": "Buyback",
+     "judul": "Manajemen mengkaji opsi pembelian kembali saham",
+     "ringkasan": "Perseroan menyatakan sedang mengkaji berbagai langkah korporasi, termasuk kemungkinan buyback saham, untuk menjaga nilai perusahaan di tengah fluktuasi pasar. Belum ada keputusan, nilai, atau jadwal; perseroan akan menyampaikan keterbukaan informasi jika rencana dieksekusi.",
+     "sumber": [
+      {
+       "judul": "Siaran pers PTBA, 23 Oktober 2026: Kinerja Melesat, PTBA Siapkan Langkah Strategis Jaga Nilai Perusahaan",
+       "url": "https://www.ptba.co.id/id/media/press-release/detail/kinerja-melesat-ptba-siapkan-langkah-strategis-jaga-nilai-perusahaan",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-31",
+     "jenis": "Lainnya",
+     "judul": "Pembubaran dan likuidasi anak usaha PT Bukit Multi Properti",
+     "ringkasan": "Pemegang saham PT Bukit Multi Properti (anak usaha tidak langsung melalui PT Bukit Multi Investama) menyetujui pembubaran disertai likuidasi lewat keputusan sirkuler 31 Oktober 2026, sebagai bagian penataan anak usaha BUMN. Perseroan menyatakan tidak ada dampak material terhadap operasional maupun keuangan.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Pembubaran melalui Likuidasi PT Bukit Multi Properti (31 Oktober 2026)",
+       "url": "https://www.ptba.co.id/api/storage/1793591128454-8ac5ce09-db33-468a-a45c-e6f323f8fe78.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      51550907,
+      43917063
+     ],
+     "pendapatan": [
+      35201385,
+      31330296
+     ],
+     "beban_usaha": [
+      2337331,
+      2070561
+     ],
+     "laba_bersih": [
+      4410551,
+      1394026
+     ],
+     "liabilitas": [
+      24310473,
+      21300262
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan",
+     "beban_usaha": "Beban umum dan administrasi + beban penjualan dan pemasaran",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban umum dan administrasi (1.702.555; 2025: 1.511.177) + beban penjualan dan pemasaran (634.776; 2025: 559.384). Beban pokok pendapatan tidak termasuk.",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026",
+      "url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pemberhentian",
+     "nama": "Arsal Ismail",
+     "jabatan": "Direktur Utama",
+     "ringkasan": "RUPS Tahunan mengukuhkan pemberhentian dengan hormat sebagai Direktur Utama, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pemberhentian",
+     "nama": "Ihsanuddin Usman",
+     "jabatan": "Direktur Sumber Daya Manusia",
+     "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pemberhentian",
+     "nama": "Verisca Hutanto Oh",
+     "jabatan": "Direktur Komersial",
+     "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan, berlaku sejak penutupan rapat.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Perubahan jabatan",
+     "nama": "Bambang Ismawan",
+     "jabatan": "Direktur Utama (sebelumnya Komisaris Utama)",
+     "ringkasan": "Diberhentikan dengan hormat sebagai Komisaris Utama lalu diangkat sebagai Direktur Utama oleh RUPS Tahunan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pengangkatan",
+     "nama": "Hennita Sitepu",
+     "jabatan": "Direktur Sumber Daya Manusia dan Transformasi Korporasi",
+     "ringkasan": "Diangkat RUPS Tahunan. Nomenklatur jabatan diubah dari Direktur SDM menjadi Direktur SDM dan Transformasi Korporasi.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pengangkatan",
+     "nama": "Mochammad Rifqi Hari Muji",
+     "jabatan": "Direktur Komersial dan Supply Chain",
+     "ringkasan": "Diangkat RUPS Tahunan. Nomenklatur jabatan diubah dari Direktur Komersial menjadi Direktur Komersial dan Supply Chain.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Pengangkatan",
+     "nama": "Ida Bagus Putu Dunia",
+     "jabatan": "Komisaris Utama (Independen)",
+     "ringkasan": "Diangkat RUPS Tahunan menggantikan Bambang Ismawan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-11",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Setelah RUPS Tahunan: Komisaris Utama/Independen Ida Bagus Putu Dunia; Direktur Utama Bambang Ismawan. Direksi lainnya: Ilham Yacob, Hennita Sitepu, Mochammad Rifqi Hari Muji, Una Lindasari, Turino Yulianto.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPST Tahun Buku 2025 (Mata Acara Ketujuh)",
+       "url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Siaran pers PTBA, 11 Juni 2026",
+       "url": "https://www.ptba.co.id/id/media/press-release/detail/perkuat-struktur-bisnis-dan-tata-kelola-rupst-ptba-setujui-dividen-rp-1-32-triliun",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-13",
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Suko Hartono",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "Perseroan menerima pemberitahuan berakhirnya masa jabatan karena ia diangkat sebagai Direktur Penelitian, Pengembangan, dan Keberlanjutan MIND ID; UU BUMN melarang rangkap jabatan tersebut. Keterbukaan informasi bertanggal 15 Juni 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Pemberitahuan Berakhirnya Masa Jabatan Bapak Suko Hartono sebagai Komisaris Independen",
+       "url": "https://www.ptba.co.id/api/storage/1781496572638-f4871b76-7b76-4ae6-b328-7b850921f87b.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 42
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 43,
    "kode": "ITMG",
    "nama": "Indo Tambangraya Megah Tbk",
-   "sektor": "Batu bara"
+   "sektor": "Batu bara",
+   "situs_resmi": "https://www.itmg.co.id/investor",
+   "status_data": "sebagian",
+   "catatan": "Halaman keterbukaan informasi (www.itmg.co.id/governance/material-disclosure) membalas error 500/connection reset sehingga dokumen keterbukaan informasi aslinya (rencana buyback baru, ringkasan risalah RUPS) tidak bisa dibaca. Informasi buyback diambil dari catatan laporan keuangan 9M26; susunan pengurus dari siaran pers RUPS. Laporan keuangan dalam ribuan USD.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Dividen",
+     "judul": "Dividen final tahun buku 2025: Rp992 per saham (sisa USD65 juta)",
+     "ringkasan": "RUPS Tahunan 17 April 2026 menetapkan total dividen tahun buku 2025 USD115 juta, atau 60% dari laba bersih yang diatribusikan kepada pemilik entitas induk (USD191 juta). USD50 juta (Rp738 per saham) sudah dibayar sebagai dividen interim pada 26 November 2025; sisa USD65 juta dibayarkan 19 Mei 2026 kepada pemegang saham yang tercatat 29 April 2026. Nilai per saham Rp992 tercantum di halaman riwayat dividen.",
+     "sumber": [
+      {
+       "judul": "Siaran pers ITM, 17 April 2026: ITM Tetapkan Total Dividen Tunai 2025 USD115 Juta",
+       "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Dividend Information (riwayat pembayaran dividen)",
+       "url": "https://www.itmg.co.id/investor/dividend-information",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-09-30",
+     "jenis": "Buyback",
+     "judul": "Realisasi buyback Januari-September 2026: 54,8 juta saham senilai Rp1.308,5 miliar",
+     "ringkasan": "Pelaksanaan lanjutan program buyback yang disetujui RUPSLB 3 November 2025 (maksimal Rp2.490 miliar, jangka waktu 12 bulan). Sepanjang Januari-September 2026 perseroan membeli kembali 54.825.600 saham (4,9% saham beredar) senilai Rp1.308,5 miliar (sekitar USD73,9 juta). Tanggal entri adalah tanggal posisi laporan keuangan, bukan tanggal pengumuman.",
+     "sumber": [
+      {
+       "judul": "Laporan Keuangan Konsolidasian Interim 9M26 (Catatan 19 Modal Saham)",
+       "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-30",
+     "jenis": "Dividen",
+     "judul": "Dividen interim tahun buku 2026: Rp1.287 per saham (total USD74,2 juta)",
+     "ringkasan": "Dividen interim setara 70% laba bersih yang diatribusikan kepada pemilik entitas induk, berdasarkan keputusan Direksi yang disetujui Dewan Komisaris 30 Oktober 2026 dan diumumkan 3 November 2026. Cum dividen pasar reguler 10 November 2026, recording date 12 November 2026, pembayaran 18 November 2026. Nilai per saham dari halaman riwayat dividen.",
+     "sumber": [
+      {
+       "judul": "Press Release on ITM 2026 Interim Cash Dividend (3 November 2026)",
+       "url": "https://www.itmg.co.id/files/media/Press%20Release%20on%20ITM%202026%20Interim%20Cash%20Dividend.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Dividend Information (riwayat pembayaran dividen)",
+       "url": "https://www.itmg.co.id/investor/dividend-information",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-11-04",
+     "jenis": "Buyback",
+     "judul": "Program buyback baru hingga Rp2.311 miliar tanpa RUPS",
+     "ringkasan": "Setelah periode program buyback sebelumnya berakhir, perseroan mengumumkan program baru dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023), tanpa persetujuan RUPS. Periode 5 November 2026 sampai 4 Februari 2027, nilai maksimal Rp2.311 miliar (sekitar USD127,3 juta) dari kas internal. Total saham treasuri tidak akan melebihi 20% modal disetor. Sejak Oktober 2026 hingga tanggal laporan keuangan, perseroan telah membeli 21.253.000 saham senilai Rp531,6 miliar.",
+     "sumber": [
+      {
+       "judul": "Laporan Keuangan Konsolidasian Interim 9M26 (Catatan 36 Kejadian Setelah Periode Pelaporan)",
+       "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim; tidak disertai laporan auditor)",
+    "pos": {
+     "aset": [
+      2529097,
+      2406063
+     ],
+     "pendapatan": [
+      1601424,
+      1369216
+     ],
+     "beban_usaha": [
+      177165,
+      147089
+     ],
+     "laba_bersih": [
+      162930,
+      130586
+     ],
+     "liabilitas": [
+      620091,
+      497732
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan bersih",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (134.776; 2025: 120.099) + beban umum dan administrasi (42.389; 2025: 26.990). Beban pokok pendapatan, beban keuangan, dan lain-lain tidak termasuk. Dokumen tidak memuat laporan auditor/reviu; status audit tidak dinyatakan tegas.",
+    "sumber": [
+     {
+      "judul": "ITM Consolidated Financial Statements 9M26",
+      "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Pengunduran diri",
+     "nama": "Prof. Djoko Wintoro, PhD",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Komisaris Independen.",
+     "sumber": [
+      {
+       "judul": "Siaran pers ITM, 17 April 2026",
+       "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Pengangkatan",
+     "nama": "Gede Harja Wasistha",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "Diangkat RUPS Tahunan menggantikan Prof. Djoko Wintoro, efektif sejak rapat ditutup.",
+     "sumber": [
+      {
+       "judul": "Siaran pers ITM, 17 April 2026",
+       "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Susunan efektif sejak penutupan RUPS Tahunan: Komisaris Utama dan Komisaris Independen Prof. Djisman Simandjuntak; Direktur Utama Mulianto. Dewan Komisaris berisi 10 orang dan Direksi 9 orang.",
+     "sumber": [
+      {
+       "judul": "Siaran pers ITM, 17 April 2026",
+       "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 43
   },
   {
-   "status_data": "belum_dikumpulkan",
+   "kode": "UNVR",
+   "nama": "Unilever Indonesia Tbk",
+   "sektor": "Barang konsumsi",
+   "situs_resmi": "https://www.unilever.co.id/investor/",
+   "status_data": "tidak_dapat_diakses",
+   "catatan": "Seluruh permintaan ke www.unilever.co.id (beranda, halaman investor, dan PDF laporan keuangan Q3 2026 di /files/financial-statements-quarter-3-2026.pdf) dibalas 403 Access Denied oleh CDN (Akamai) pada 23 November 2026. Sesuai panduan, proteksi tidak ditembus dan tidak dicari jalur lain. Pencarian web menunjukkan laporan keuangan interim Q1, Q2, dan Q3 2026 tersedia di situs tersebut, tetapi isinya tidak dapat diverifikasi sehingga tidak ada angka yang dicatat.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
    "perubahan_manajemen": [],
-   "no": 44,
-   "kode": "UNVR",
-   "nama": "Unilever Indonesia Tbk",
-   "sektor": "Barang konsumsi"
+   "no": 44
   },
   {
    "status_data": "belum_dikumpulkan",
