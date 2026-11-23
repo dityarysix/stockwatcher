@@ -1,0 +1,116 @@
+{
+  "kode": "BBCA",
+  "nama": "Bank Central Asia Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://www.bca.co.id/id/tentang-bca/korporasi/hubungan-investor",
+  "status_data": "lengkap",
+  "catatan": "",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-28",
+      "jenis": "Buyback",
+      "judul": "Rencana pembelian kembali saham hingga Rp5 triliun",
+      "ringkasan": "Rencana buyback diumumkan lewat keterbukaan informasi 28 Januari 2026, lalu disetujui RUPS Tahunan 12 Maret 2026 dengan nilai maksimal Rp5 triliun, termasuk biaya perantara.",
+      "sumber": [
+        {"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Kelima)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-12",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: Rp336 per saham",
+      "ringkasan": "RUPS Tahunan menetapkan dividen tunai Rp336 per saham untuk tahun buku 2025. Rp55 sudah dibayar sebagai dividen interim pada 22 Desember 2025, jadi sisa yang dibayarkan Rp281 per saham. Laba bersih 2025 yang menjadi dasar pembagian Rp57,54 triliun.",
+      "sumber": [
+        {"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Kedua)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-05",
+      "jenis": "Dividen",
+      "judul": "Dividen interim kuartal II 2026: Rp20 per saham",
+      "ringkasan": "Termin pertama dari tiga rencana dividen interim tahun buku 2026, sebesar Rp20 per saham.",
+      "sumber": [
+        {"judul": "Pengumuman jadwal dan tata cara dividen interim Q2 2026", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260605-Pengumuman-Dividen-Interim-Q2-2026-ID.pdf", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers BCA, 19 November 2026", "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-20",
+      "jenis": "Dividen",
+      "judul": "Dividen interim kuartal III 2026: Rp25 per saham (total sekitar Rp3,07 triliun)",
+      "ringkasan": "Termin kedua dividen interim tahun buku 2026, dibayarkan 16 September 2026.",
+      "sumber": [
+        {"judul": "Siaran pers BCA, 20 Agustus 2026", "url": "https://www.bca.co.id/en/tentang-bca/media-riset/pressroom/siaran-pers/2026/08/20/03/33/tebar-rp307-triliun-bca-umumkan-pembayaran-dividen-interim", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers BCA, 19 November 2026", "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-19",
+      "jenis": "Dividen",
+      "judul": "Dividen interim kuartal IV 2026: Rp35 per saham",
+      "ringkasan": "Termin terakhir dividen interim 2026. Total interim tahun buku 2026 menjadi Rp80 per saham, naik 45,5% dari tahun sebelumnya. Cum dividen pasar reguler 27 November 2026, recording date 1 Desember 2026, pembayaran 16 Desember 2026.",
+      "sumber": [
+        {"judul": "Siaran pers BCA, 19 November 2026", "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "bank",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [1641511008, 1586828536],
+      "pendapatan": [76253235, 74129647],
+      "beban_usaha": [26793778, 25440919],
+      "laba_bersih": [45238712, 43413463],
+      "liabilitas": [1358091670, 1305362058]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bunga",
+      "beban_usaha": "Beban operasional (tenaga kerja, promosi, lainnya)",
+      "laba_bersih": "Laba bersih periode berjalan",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Format bank. Beban operasional dijumlahkan dari beban tenaga kerja, beban promosi, dan beban lainnya dalam laporan publikasi.",
+    "sumber": [
+      {"judul": "Financial Report September 2026 (publikasi)", "url": "https://pustaka.bca.co.id/-/media/Feature/Report/File/S8/Laporan-Triwulan/2026/20261027-financial-report-september-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-03-12",
+      "jenis": "Pengangkatan",
+      "nama": "David Formula",
+      "jabatan": "Direktur (Teknologi Informasi)",
+      "ringkasan": "Diangkat RUPS Tahunan setelah lulus fit and proper test OJK (KEP-R11/D.03/2026). Masa jabatan sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-03-12",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Rudy Susanto",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPS Tahunan menyampaikan terima kasih atas jasanya sebagai Direktur. Namanya tidak lagi tercantum dalam susunan direksi baru.",
+      "sumber": [{"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-03-12",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Cyrillus Harinowo",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "RUPS Tahunan menyampaikan terima kasih atas jasanya sebagai Komisaris Independen. Namanya tidak lagi tercantum dalam susunan dewan komisaris baru.",
+      "sumber": [{"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-03-12",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Pengurus diangkat kembali dengan masa jabatan sampai RUPS Tahunan 2029. Presiden Komisaris: Jahja Setiaatmadja. Presiden Direktur: Gregory Hendra Lembong. Wakil Presiden Direktur: Armand Wahyudi Hartono dan John Kosasih.",
+      "sumber": [{"judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)", "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

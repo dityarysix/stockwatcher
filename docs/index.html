@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stockwatcher: keterbukaan informasi 50 emiten</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a href="#/" class="brand">Stockwatcher</a>
+    <p class="lede">Aksi korporasi, laporan keuangan, dan perubahan manajemen 50 emiten sejak 1 Januari 2026, diringkas dari situs resmi masing-masing perusahaan.</p>
+    <nav class="tabs" aria-label="Bagian">
+      <a href="#/" data-tab="ringkasan">Ringkasan</a>
+      <a href="#/aksi" data-tab="aksi" class="c-aksi">Aksi korporasi</a>
+      <a href="#/keuangan" data-tab="keuangan" class="c-keu">Laporan keuangan</a>
+      <a href="#/manajemen" data-tab="manajemen" class="c-man">Perubahan manajemen</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="app" tabindex="-1">
+  <p class="muted">Memuat data…</p>
+</main>
+
+<footer class="wrap foot">
+  <p>Sumber: situs resmi masing-masing emiten. Setiap entri menautkan dokumen aslinya beserta tanggal akses. Angka laporan keuangan disalin dari laporan publikasi perusahaan; periksa dokumen aslinya sebelum mengambil keputusan.</p>
+  <p>Bukan saran investasi. Proyek pribadi non-komersial dan tidak berafiliasi dengan PT Bursa Efek Indonesia maupun emiten mana pun.</p>
+  <p class="muted" id="built"></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

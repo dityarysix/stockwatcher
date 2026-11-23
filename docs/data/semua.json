@@ -1,0 +1,683 @@
+{
+ "dibangun": "2026-11-23",
+ "emiten": [
+  {
+   "kode": "BBCA",
+   "nama": "Bank Central Asia Tbk",
+   "sektor": "Perbankan",
+   "situs_resmi": "https://www.bca.co.id/id/tentang-bca/korporasi/hubungan-investor",
+   "status_data": "lengkap",
+   "catatan": "",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-01-28",
+     "jenis": "Buyback",
+     "judul": "Rencana pembelian kembali saham hingga Rp5 triliun",
+     "ringkasan": "Rencana buyback diumumkan lewat keterbukaan informasi 28 Januari 2026, lalu disetujui RUPS Tahunan 12 Maret 2026 dengan nilai maksimal Rp5 triliun, termasuk biaya perantara.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Kelima)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-03-12",
+     "jenis": "Dividen",
+     "judul": "Dividen final tahun buku 2025: Rp336 per saham",
+     "ringkasan": "RUPS Tahunan menetapkan dividen tunai Rp336 per saham untuk tahun buku 2025. Rp55 sudah dibayar sebagai dividen interim pada 22 Desember 2025, jadi sisa yang dibayarkan Rp281 per saham. Laba bersih 2025 yang menjadi dasar pembagian Rp57,54 triliun.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Kedua)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-05",
+     "jenis": "Dividen",
+     "judul": "Dividen interim kuartal II 2026: Rp20 per saham",
+     "ringkasan": "Termin pertama dari tiga rencana dividen interim tahun buku 2026, sebesar Rp20 per saham.",
+     "sumber": [
+      {
+       "judul": "Pengumuman jadwal dan tata cara dividen interim Q2 2026",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260605-Pengumuman-Dividen-Interim-Q2-2026-ID.pdf",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Siaran pers BCA, 19 November 2026",
+       "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-08-20",
+     "jenis": "Dividen",
+     "judul": "Dividen interim kuartal III 2026: Rp25 per saham (total sekitar Rp3,07 triliun)",
+     "ringkasan": "Termin kedua dividen interim tahun buku 2026, dibayarkan 16 September 2026.",
+     "sumber": [
+      {
+       "judul": "Siaran pers BCA, 20 Agustus 2026",
+       "url": "https://www.bca.co.id/en/tentang-bca/media-riset/pressroom/siaran-pers/2026/08/20/03/33/tebar-rp307-triliun-bca-umumkan-pembayaran-dividen-interim",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Siaran pers BCA, 19 November 2026",
+       "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-11-19",
+     "jenis": "Dividen",
+     "judul": "Dividen interim kuartal IV 2026: Rp35 per saham",
+     "ringkasan": "Termin terakhir dividen interim 2026. Total interim tahun buku 2026 menjadi Rp80 per saham, naik 45,5% dari tahun sebelumnya. Cum dividen pasar reguler 27 November 2026, recording date 1 Desember 2026, pembayaran 16 Desember 2026.",
+     "sumber": [
+      {
+       "judul": "Siaran pers BCA, 19 November 2026",
+       "url": "https://www.bca.co.id/id/tentang-bca/media-riset/pressroom/siaran-pers/2026/11/20/09/48/pembagian-dividen-interim-dengan-akumulasi-tahun-2026-rp80-per-saham-naik-455-yoy",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "bank",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      1641511008,
+      1586828536
+     ],
+     "pendapatan": [
+      76253235,
+      74129647
+     ],
+     "beban_usaha": [
+      26793778,
+      25440919
+     ],
+     "laba_bersih": [
+      45238712,
+      43413463
+     ],
+     "liabilitas": [
+      1358091670,
+      1305362058
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan bunga",
+     "beban_usaha": "Beban operasional (tenaga kerja, promosi, lainnya)",
+     "laba_bersih": "Laba bersih periode berjalan",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Format bank. Beban operasional dijumlahkan dari beban tenaga kerja, beban promosi, dan beban lainnya dalam laporan publikasi.",
+    "sumber": [
+     {
+      "judul": "Financial Report September 2026 (publikasi)",
+      "url": "https://pustaka.bca.co.id/-/media/Feature/Report/File/S8/Laporan-Triwulan/2026/20261027-financial-report-september-2026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-03-12",
+     "jenis": "Pengangkatan",
+     "nama": "David Formula",
+     "jabatan": "Direktur (Teknologi Informasi)",
+     "ringkasan": "Diangkat RUPS Tahunan setelah lulus fit and proper test OJK (KEP-R11/D.03/2026). Masa jabatan sampai RUPS Tahunan 2029.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-03-12",
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Rudy Susanto",
+     "jabatan": "Direktur",
+     "ringkasan": "RUPS Tahunan menyampaikan terima kasih atas jasanya sebagai Direktur. Namanya tidak lagi tercantum dalam susunan direksi baru.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-03-12",
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Cyrillus Harinowo",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "RUPS Tahunan menyampaikan terima kasih atas jasanya sebagai Komisaris Independen. Namanya tidak lagi tercantum dalam susunan dewan komisaris baru.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-03-12",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "Pengurus diangkat kembali dengan masa jabatan sampai RUPS Tahunan 2029. Presiden Komisaris: Jahja Setiaatmadja. Presiden Direktur: Gregory Hendra Lembong. Wakil Presiden Direktur: Armand Wahyudi Hartono dan John Kosasih.",
+     "sumber": [
+      {
+       "judul": "Keputusan RUPS Tahunan BCA 12 Maret 2026 (Mata Acara Ketujuh)",
+       "url": "https://www.bca.co.id/-/media/Feature/Report/File/Berita-Investor/2026/20260312-pokok-pokok-keputusan-rups-tahunan-2026.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 1
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 2,
+   "kode": "BUMI",
+   "nama": "Bumi Resources Tbk",
+   "sektor": "Batu bara"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 3,
+   "kode": "BMRI",
+   "nama": "Bank Mandiri (Persero) Tbk",
+   "sektor": "Perbankan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 4,
+   "kode": "BBRI",
+   "nama": "Bank Rakyat Indonesia (Persero) Tbk",
+   "sektor": "Perbankan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 5,
+   "kode": "GOTO",
+   "nama": "GoTo Gojek Tokopedia Tbk",
+   "sektor": "Teknologi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 6,
+   "kode": "DEWA",
+   "nama": "Darma Henwa Tbk",
+   "sektor": "Jasa tambang"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 7,
+   "kode": "BNBR",
+   "nama": "Bakrie & Brothers Tbk",
+   "sektor": "Holding"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 8,
+   "kode": "TPIA",
+   "nama": "Chandra Asri Pacific Tbk",
+   "sektor": "Petrokimia"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 9,
+   "kode": "ANTM",
+   "nama": "Aneka Tambang (Persero) Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 10,
+   "kode": "PTRO",
+   "nama": "Petrosea Tbk",
+   "sektor": "Jasa tambang"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 11,
+   "kode": "TLKM",
+   "nama": "Telkom Indonesia (Persero) Tbk",
+   "sektor": "Telekomunikasi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 12,
+   "kode": "BRPT",
+   "nama": "Barito Pacific Tbk",
+   "sektor": "Holding"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 13,
+   "kode": "DSSA",
+   "nama": "Dian Swastatika Sentosa Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 14,
+   "kode": "BRMS",
+   "nama": "Bumi Resources Minerals Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 15,
+   "kode": "ASII",
+   "nama": "Astra International Tbk",
+   "sektor": "Holding"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 16,
+   "kode": "AMMN",
+   "nama": "Amman Mineral Internasional Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 17,
+   "kode": "CUAN",
+   "nama": "Petrindo Jaya Kreasi Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 18,
+   "kode": "BUVA",
+   "nama": "Bukit Uluwatu Villa Tbk",
+   "sektor": "Properti & pariwisata"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 19,
+   "kode": "BIPI",
+   "nama": "Astrindo Nusantara Infrastruktur Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 20,
+   "kode": "ARCI",
+   "nama": "Archi Indonesia Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 21,
+   "kode": "BBNI",
+   "nama": "Bank Negara Indonesia (Persero) Tbk",
+   "sektor": "Perbankan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 22,
+   "kode": "WIFI",
+   "nama": "Solusi Sinergi Digital Tbk",
+   "sektor": "Telekomunikasi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 23,
+   "kode": "TINS",
+   "nama": "Timah (Persero) Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 24,
+   "kode": "INCO",
+   "nama": "Vale Indonesia Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 25,
+   "kode": "NCKL",
+   "nama": "Trimegah Bangun Persada Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 26,
+   "kode": "INDY",
+   "nama": "Indika Energy Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 27,
+   "kode": "ADRO",
+   "nama": "Alamtri Resources Indonesia Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 28,
+   "kode": "BRIS",
+   "nama": "Bank Syariah Indonesia (Persero) Tbk",
+   "sektor": "Perbankan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 29,
+   "kode": "MBMA",
+   "nama": "Merdeka Battery Materials Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 30,
+   "kode": "MDKA",
+   "nama": "Merdeka Copper Gold Tbk",
+   "sektor": "Logam & mineral"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 31,
+   "kode": "BREN",
+   "nama": "Barito Renewables Energy Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 32,
+   "kode": "INET",
+   "nama": "Sinergi Inti Andalan Prima Tbk",
+   "sektor": "Telekomunikasi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 33,
+   "kode": "HRME",
+   "nama": "Menteng Heritage Realty Tbk",
+   "sektor": "Properti & pariwisata"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 34,
+   "kode": "COCO",
+   "nama": "Wahana Interfood Nusantara Tbk",
+   "sektor": "Makanan & minuman"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 35,
+   "kode": "PADI",
+   "nama": "Minna Padi Investama Sekuritas Tbk",
+   "sektor": "Jasa keuangan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 36,
+   "kode": "EMTK",
+   "nama": "Elang Mahkota Teknologi Tbk",
+   "sektor": "Media & teknologi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 37,
+   "kode": "DOID",
+   "nama": "Delta Dunia Makmur Tbk",
+   "sektor": "Jasa tambang"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 38,
+   "kode": "PGAS",
+   "nama": "Perusahaan Gas Negara Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 39,
+   "kode": "MEDC",
+   "nama": "Medco Energi Internasional Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 40,
+   "kode": "PGEO",
+   "nama": "Pertamina Geothermal Energy Tbk",
+   "sektor": "Energi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 41,
+   "kode": "ADMR",
+   "nama": "Adaro Minerals Indonesia Tbk",
+   "sektor": "Batu bara"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 42,
+   "kode": "PTBA",
+   "nama": "Bukit Asam Tbk",
+   "sektor": "Batu bara"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 43,
+   "kode": "ITMG",
+   "nama": "Indo Tambangraya Megah Tbk",
+   "sektor": "Batu bara"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 44,
+   "kode": "UNVR",
+   "nama": "Unilever Indonesia Tbk",
+   "sektor": "Barang konsumsi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 45,
+   "kode": "KLBF",
+   "nama": "Kalbe Farma Tbk",
+   "sektor": "Kesehatan"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 46,
+   "kode": "ICBP",
+   "nama": "Indofood CBP Sukses Makmur Tbk",
+   "sektor": "Makanan & minuman"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 47,
+   "kode": "INDF",
+   "nama": "Indofood Sukses Makmur Tbk",
+   "sektor": "Makanan & minuman"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 48,
+   "kode": "SMGR",
+   "nama": "Semen Indonesia (Persero) Tbk",
+   "sektor": "Material dasar"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 49,
+   "kode": "DCII",
+   "nama": "DCI Indonesia Tbk",
+   "sektor": "Teknologi"
+  },
+  {
+   "status_data": "belum_dikumpulkan",
+   "aksi_korporasi": [],
+   "laporan_keuangan": null,
+   "perubahan_manajemen": [],
+   "no": 50,
+   "kode": "BYAN",
+   "nama": "Bayan Resources Tbk",
+   "sektor": "Batu bara"
+  }
+ ]
+}
