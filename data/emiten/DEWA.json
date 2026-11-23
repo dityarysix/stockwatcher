@@ -1,0 +1,161 @@
+{
+  "kode": "DEWA",
+  "nama": "Darma Henwa Tbk",
+  "sektor": "Jasa tambang",
+  "situs_resmi": "https://www.ptdh.co.id/investor",
+  "status_data": "sebagian",
+  "catatan": "Daftar dokumen diambil dari halaman Investor ptdh.co.id (tab dimuat dari /investor/fetch/<tab>). Sebagian keterbukaan informasi 2026 (DEWA 007, 011, 020, 042, 058, 068) berupa PDF hasil pindaian tanpa lapisan teks, jadi isinya tidak bisa diekstrak; untuk entri terkait dipakai siaran pers resmi atau hanya judul dokumen. Ringkasan risalah RUPST 29 Juni 2026 tidak tercantum di situs. Siaran pers menyebut RUPST 'menyetujui susunan Dewan Komisaris dan Direksi', tetapi tanpa rincian nama, sehingga perubahan pengurus tidak dapat dipastikan dan perubahan_manajemen dibiarkan kosong. Keterbukaan 2 Oktober 2026 menyangkut perubahan Komite Audit, bukan Direksi/Dewan Komisaris (isinya tidak terbaca).",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-19",
+      "jenis": "Lainnya",
+      "judul": "Perpanjangan kontrak jasa pertambangan dengan Arutmin senilai sekitar Rp10,5 triliun",
+      "ringkasan": "Kontrak diteken 19 Januari 2026 untuk proyek Kintap dan Asam-Asam di Tanah Laut, Kalimantan Selatan, dan berlaku sejak Januari 2026. Lingkup kerja: pengupasan sekitar 252 juta bcm tanah penutup dan produksi sekitar 50 juta ton batubara selama masa operasi tambang.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Darma Henwa Menandatangani Kontrak Pertambangan Senilai Rp10,5 Triliun dengan Arutmin Indonesia (19 Januari 2026)",
+          "url": "https://www.ptdh.co.id/investor/press-release/darma-henwa-menandatangani-kontrak-pertambangan-senilai-rp105-triliun-dengan-arutmin-indonesia",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi DEWA 007 - Perpanjangan Kontrak Arutmin (19 Januari 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/disclosure/2026/DEWA%20007%20-%20Perpanjangan%20Kontrak%20Arutmin-.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-02-06",
+      "jenis": "Lainnya",
+      "judul": "Amandemen perjanjian penyelesaian utang dengan PT Madhani Talatah Nusantara dan PT Andhesti Tungkas Pratama",
+      "ringkasan": "Keterbukaan informasi 6 Februari 2026 tentang amandemen perjanjian penyelesaian utang dengan kedua pihak tersebut. Isi dokumen berupa pindaian yang tidak dapat diekstrak, sehingga rinciannya tidak dicatat.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan informasi DEWA 011 - Informasi Amandemen Perjanjian Penyelesaian (6 Februari 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/disclosure/2025-rev/DEWA%20011%20-%20Informasi%20Amandemen%20Perjanjian%20Penyelesaian.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-02-13",
+      "jenis": "Buyback",
+      "judul": "Pengakhiran program pembelian kembali saham",
+      "ringkasan": "Sepanjang Januari sampai Februari 2026 DEWA rutin melaporkan hasil buyback, lalu pada 13 Februari 2026 menerbitkan keterbukaan 'Pengakhiran Pembelian Kembali'. Jumlah saham dan dana yang terpakai tidak dicatat karena dokumennya berupa pindaian.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan informasi DEWA 020 - Pengakhiran Pembelian Kembali (13 Februari 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/disclosure/2026/DEWA%20020%20-%20Pengakhiran%20Pembelian%20Kembali.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai perdana tahun buku 2025: Rp1,5 per saham (total Rp58,57 miliar)",
+      "ringkasan": "Diputuskan RUPST 29 Juni 2026, dengan total Rp58.572.960.555. Cum dividen pasar reguler dan negosiasi 7 Juli 2026, recording date (DPS) 9 Juli 2026, dan pembayaran 31 Juli 2026. Menurut siaran pers, nilainya setara 11,4% dari laba inti 2025 sebesar Rp514,5 miliar.",
+      "sumber": [
+        {
+          "judul": "Pengumuman jadwal dan tata cara pembayaran dividen tunai tahun buku 2025 (1 Juli 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/PENGUMUMAN%20DIVIDEN%20TUNAI%20-%20DEWA-.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Siaran pers: PT Darma Henwa Tbk Bagikan Dividen Perdana Rp59 Miliar (29 Juni 2026)",
+          "url": "https://www.ptdh.co.id/investor/press-release/pt-darma-henwa-tbk-bagikan-dividen-perdana-rp59-miliar-perkuat-operasional-untuk-dukung-pertumbuhan-berkelanjutan",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Lainnya",
+      "judul": "Kontrak jasa pertambangan dari PT Sebuku Sejaka Coal sekitar US$1,3 miliar (Rp22 triliun)",
+      "ringkasan": "Anak usaha PT DH Kontraktama Batubara meneken Surat Penunjukan dan Perintah Kerja pada 29 Juni 2026 untuk tambang di Pulau Laut, Kalimantan Selatan, berjangka lima tahun dengan kapasitas hingga 55 juta bcm waste removal dan 5 juta ton batubara per tahun. Ini proyek pertama DEWA di luar grup. Kontrak jasa definitif direncanakan diteken paling lambat 30 September 2026.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Darma Henwa Raih Kontrak Tambang Rp22 Triliun dari PT Sebuku Sejaka Coal (29 Juni 2026)",
+          "url": "https://www.ptdh.co.id/investor/press-release/darma-henwa-raih-kontrak-tambang-rp-22-triliun-dari-pt-sebuku-sejaka-coal-kontrak-pertama-di-luar-grup-dorong-pertumbuhan-jangka-panjang",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi DEWA 042 - KI SPPK DHKB-SSC (30 Juni 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/DEWA%20042%20-%20KI%20SPPK%20DHKB-SSC.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-07-20",
+      "jenis": "Lainnya",
+      "judul": "Pembentukan tiga anak usaha baru",
+      "ringkasan": "DEWA membentuk PT DH Listrik (kelistrikan), PT DH Infrastruktur (infrastruktur dan logistik), dan PT DH Arunika Hospitality (penunjang site seperti staff housing) untuk memperkuat fungsi pendukung operasi.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: PT Darma Henwa Tbk Bentuk Tiga Anak Usaha (20 Juli 2026)",
+          "url": "https://www.ptdh.co.id/investor/press-release/pt-darma-henwa-tbk-bentuk-tiga-anak-usaha-untuk-perkuat-kapabilitas-operasional-fondasi-operasional-untuk-mendukung-pertumbuhan-jangka-panjang",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-22",
+      "jenis": "Lainnya",
+      "judul": "Pendirian anak usaha baru (DH Logistik)",
+      "ringkasan": "Keterbukaan informasi 22 Oktober 2026 tentang pendirian anak usaha baru; nama berkasnya menyebut DH Logistik. Isinya berupa pindaian yang tidak dapat diekstrak, sehingga modal dan kepemilikan tidak dicatat.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan informasi DEWA 068 - KI Pendirian DH Logistik (22 Oktober 2026)",
+          "url": "https://www.ptdh.co.id/assets/files/DEWA%20068%20-%20KI%20Pendirian%20DH%20Logistik.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025 (disajikan kembali)",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        18136812791,
+        16734972389
+      ],
+      "pendapatan": [
+        5102014681,
+        4650366326
+      ],
+      "beban_usaha": [
+        322352375,
+        181709238
+      ],
+      "laba_bersih": [
+        513084233,
+        239144133
+      ],
+      "liabilitas": [
+        9866814582,
+        8143839115
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan laba rugi DEWA hanya menyajikan beban umum dan administrasi sebagai beban usaha di luar beban pokok pendapatan (Rp4.067.226.463 ribu; 2025: Rp3.977.214.157 ribu). Neraca 31 Desember 2025 disajikan kembali (Catatan 3).",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (tidak diaudit)",
+        "url": "https://www.ptdh.co.id/assets/files/LK%20Konsol%20PTDH%2030%20Sep%202026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": []
+}

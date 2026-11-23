@@ -1,0 +1,33 @@
+{
+  "kode": "PADI",
+  "nama": "Minna Padi Investama Sekuritas Tbk",
+  "sektor": "Jasa keuangan",
+  "situs_resmi": "https://minnapadi.com/general-meeting-shareholders",
+  "status_data": "sebagian",
+  "catatan": "Situs resmi minnapadi.com mula-mula bisa diakses (daftar RUPS dan laporan keuangan dimuat lewat tabel AJAX), tetapi setelah beberapa unduhan situs mulai membalas halaman tantangan anti-bot ('One moment, please...'), sehingga pengambilan dihentikan sesuai aturan. Akibatnya laporan keuangan 30 September 2026 (tercantum di situs: 'Laporan Keuangan untuk periode 9 bulan yang berakhir 30 September 2026 (tidak diaudit)', diunggah 28 Oktober 2026) tidak dapat diunduh dan laporan_keuangan dikosongkan. Ringkasan risalah RUPST 2 April 2026, RUPST Kedua 17 April 2026 dan RUPSLB 7 Agustus 2026 ('RISALAH RUPSLB PSP 2026') juga tidak terunduh, sehingga keputusan dividen dan agenda RUPSLB Agustus tidak bisa diverifikasi. Halaman daftar keterbukaan informasi gagal dimuat (token kedaluwarsa). Catatan lain: jumlah saham bersuara naik dari 11.307.246.524 (RUPSLB Ketiga 10 Juli 2026) menjadi 13.568.695.829 (RUPSLB Kedua 21 Agustus 2026), mengindikasikan penambahan modal, tetapi dokumen sumbernya tidak berhasil diakses sehingga tidak dicatat sebagai aksi korporasi. Perubahan Pasal 3 anggaran dasar (penyesuaian KBLI 2025) baru disetujui pada RUPSLB Ketiga 10 Juli 2026 setelah RUPSLB 2 April dan 17 April tidak kuorum; ini tidak dicatat sebagai aksi korporasi.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-08-21",
+      "jenis": "Pengangkatan",
+      "nama": "Beba Hawah Ria",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPSLB Kedua 21 Agustus 2026 mengangkatnya sebagai Direktur, berlaku sejak lulus uji kemampuan dan kepatutan OJK; pengangkatan batal bila tidak lulus. Sebelumnya menjabat Risk Management di Perseroan sejak 2023.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB Kedua PADI (21 Agustus 2026), Mata Acara Kedua", "url": "https://minnapadi.com/files/pdf/1787564756RISALAH%20RUPSLB%20KEDUA%2021082026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Daftar Riwayat Hidup Calon Direksi (16 Juli 2026)", "url": "https://minnapadi.com/files/pdf/1784172459Daftar%20Riwayat%20Hidup%20Calon%20Direksi.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-21",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan sampai RUPS Tahunan 2031. Komisaris Utama (Independen): Poltak Sihotang; Komisaris: Wijaya Mulia. Direktur Utama: Djoko Joelijanto; Direktur: Martha Susanti dan Beba Hawah Ria (efektif setelah persetujuan OJK). Rapat yang sama menetapkan Djoko Joelijanto sebagai pengendali dan penerima manfaat akhir Perseroan.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB Kedua PADI (21 Agustus 2026)", "url": "https://minnapadi.com/files/pdf/1787564756RISALAH%20RUPSLB%20KEDUA%2021082026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

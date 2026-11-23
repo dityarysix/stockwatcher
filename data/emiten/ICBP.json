@@ -1,0 +1,11 @@
+{
+  "kode": "ICBP",
+  "nama": "Indofood CBP Sukses Makmur Tbk",
+  "sektor": "Makanan & minuman",
+  "situs_resmi": "https://www.indofoodcbp.com/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi www.indofoodcbp.com tidak dapat diakses dari lingkungan riset pada 23 November 2026: curl gagal verifikasi sertifikat TLS (verifikasi tidak dimatikan sesuai aturan proxy), dan WebFetch gagal resolve nama host (kemungkinan host tidak diizinkan oleh pengaturan jaringan sesi). Tidak ada data yang dicatat. Situs induk indofood.com tidak memuat dokumen RUPS/laporan keuangan ICBP.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

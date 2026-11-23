@@ -1,0 +1,46 @@
+{
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        59739193,
+        52530405
+      ],
+      "pendapatan": [
+        88480885,
+        72028124
+      ],
+      "beban_usaha": [
+        3506299,
+        3096441
+      ],
+      "laba_bersih": [
+        8838041,
+        5974579
+      ],
+      "liabilitas": [
+        18522020,
+        15930519
+      ]
+    },
+    "label": {
+      "pendapatan": "Penjualan dan pendapatan usaha",
+      "beban_usaha": "Beban usaha (penjualan + umum & administrasi)",
+      "laba_bersih": "Laba yang dapat diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha tidak termasuk beban pokok penjualan (Rp72,93 T pada 9M 2026).",
+    "sumber": [
+      {
+        "judul": "FinancialStatement-2026-III-ANTM.xlsx (laporan keuangan Q3 2026 dari halaman Laporan Keuangan dan Tahunan IDX, diunduh manual oleh pemilik proyek)",
+        "url": "https://www.idx.co.id/id/perusahaan-tercatat/laporan-keuangan-dan-tahunan",
+        "diakses": "2026-11-23"
+      }
+    ]
+  }
+}

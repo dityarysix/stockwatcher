@@ -1,0 +1,11 @@
+{
+  "kode": "KLBF",
+  "nama": "Kalbe Farma Tbk",
+  "sektor": "Kesehatan",
+  "situs_resmi": "https://www.kalbe.co.id/id/investor/informasi-investor",
+  "status_data": "sebagian",
+  "catatan": "Situs kalbe.co.id (Next.js) memuat daftar dokumen investor (RUPS, dividen, laporan keuangan) lewat API internal yang memerlukan kunci aplikasi; daftar itu tidak tampil di HTML dan tidak diakses. Pencarian web hanya menunjukkan bahwa ringkasan risalah RUPS Tahunan dan RUPSLB serta jadwal dividen tunai diumumkan 25 Mei 2026 (RUPS 21 Mei 2026, mata acara ketiga perubahan susunan pengurus), tetapi dokumen aslinya tidak ditemukan sehingga keputusan dividen dan perubahan pengurus tidak dicatat. PDF laporan keuangan 30 September 2026 juga tidak ditemukan. Siaran pers 30 Oktober 2026 hanya memuat persentase pertumbuhan (penjualan neto 9M26 naik 11,5% YoY; resep +6,5%, kesehatan konsumen +9,9%, nutrisi +4,1%, distribusi dan logistik +21,6%) tanpa angka absolut, sehingga laporan_keuangan dibiarkan null.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

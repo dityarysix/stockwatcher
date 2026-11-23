@@ -1,0 +1,54 @@
+{
+  "kode": "INDF",
+  "nama": "Indofood Sukses Makmur Tbk",
+  "sektor": "Makanan & minuman",
+  "situs_resmi": "https://www.indofood.com/investor-relation/general-meeting-of-shareholder",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 26 Juni 2026 tidak memuat mata acara perubahan pengurus, dan tidak ditemukan keterbukaan informasi perubahan manajemen di situs selama 2026. Daftar keterbukaan informasi di situs hanya memuat satu dokumen 2026 (rencana buyback).",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-26",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp290 per saham",
+      "ringkasan": "RUPS Tahunan 26 Juni 2026 menetapkan dividen tunai Rp290 per saham dari laba yang diatribusikan kepada pemilik entitas induk tahun 2025, serta menyisihkan Rp5 miliar sebagai dana cadangan. Cum dividen pasar reguler 6 Juli 2026, recording date 8 Juli 2026, pembayaran 29 Juli 2026.",
+      "sumber": [
+        {"judul": "Resolutions Summary of the AGM PT Indofood Sukses Makmur Tbk 2026", "url": "https://www.indofood.com/uploads/shareholder/ISM%20Ringkasan%20Risalah%20RUPST%202026%20(Eng)%20final.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-23",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp750 miliar tanpa RUPS",
+      "ringkasan": "Buyback dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023 dan Surat OJK S-112/D.04/2026), dengan dana kas internal maksimal Rp750 miliar di luar biaya transaksi. Periode pelaksanaan 26 Oktober sampai 31 Desember 2026 melalui bursa; jumlah saham tidak lebih dari 20% modal disetor.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Pembelian Kembali Saham PT Indofood Sukses Makmur Tbk (23 Oktober 2026)", "url": "https://www.indofood.com/uploads/document/ISM_KI_Rencana%20Pembelian%20Kembali%20Saham%202026_final.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [231365786, 217981765],
+      "pendapatan": [101489953, 90981090],
+      "beban_usaha": [14884861, 13228536],
+      "laba_bersih": [7865768, 7881347],
+      "liabilitas": [102240852, 97746518]
+    },
+    "label": {
+      "pendapatan": "Penjualan neto",
+      "beban_usaha": "Beban penjualan dan distribusi + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan dan distribusi (10.644.067; 2025: 9.348.140) + beban umum dan administrasi (4.240.794; 2025: 3.880.396). Beban operasi lain tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (bilingual)", "url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

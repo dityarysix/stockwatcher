@@ -1,0 +1,168 @@
+{
+  "kode": "INCO",
+  "nama": "Vale Indonesia Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://www.valeindonesia.com/indonesia/investors.html",
+  "status_data": "lengkap",
+  "catatan": "Situs IR berpindah dari vale.com/indonesia ke valeindonesia.com (halaman lama vale.com/indonesia/documents-and-reports membalas 404). Dokumen diambil dari valeindonesia.com (Documents and Reports, General Meeting of Shareholders). Laporan keuangan Perseroan disajikan sebagai 'Laporan Keuangan Interim' (bukan konsolidasian); tidak ada pemilahan laba ke kepentingan nonpengendali. Dokumen tidak memuat laporan auditor sehingga dianggap tidak diaudit. Ringkasan risalah RUPS Tahunan 2 Juni 2026 tidak ditemukan di halaman RUPS; keputusan RUPS Tahunan diambil dari siaran pers resmi Perseroan dan catatan laporan keuangan. Perubahan anggota Komite Audit (Retno Marsudi menggantikan Rudiantara, efektif 2 Juni 2026) tidak dicatat karena bukan perubahan direksi/komisaris.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-15",
+      "jenis": "Lainnya",
+      "judul": "RKAB 2026 disetujui setelah penghentian sementara operasi tambang",
+      "ringkasan": "Pada 2 Januari 2026 Perseroan mengumumkan penghentian sementara kegiatan penambangan di seluruh wilayah IUPK karena persetujuan RKAB 2026 belum terbit. Kementerian ESDM menyetujui RKAB 2026 pada 15 Januari 2026, dan Perseroan memulihkan operasi serta konstruksi di Sorowako, Pomalaa, dan Bahodopi secara bertahap.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material No. 00002/CORS-J/I/2026: perkembangan persetujuan RKAB 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/2026-01-Disclosure+Information_Update+RKAB+2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers: 2026 RKAB Approved (15 Januari 2026)", "url": "https://www.valeindonesia.com/documents/44618/1438416/20261501_EN+-+PTVI+-+Press+Release+-+RKAB+2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-25",
+      "jenis": "Transaksi material",
+      "judul": "Fasilitas kredit bergulir terkait keberlanjutan US$500 juta (opsi greenshoe US$250 juta)",
+      "ringkasan": "Perseroan menandatangani sustainability-linked revolving credit facility senilai US$500 juta dengan DBS, Mizuho, Bank Mizuho Indonesia, dan UOB sebagai mandated lead arrangers, ditambah opsi greenshoe hingga US$250 juta. Tenor 24 bulan dengan opsi perpanjangan 12 bulan, untuk keperluan umum termasuk belanja modal dan modal kerja. Keterbukaan 24 April 2026 menyatakan total US$750 juta (sekitar 27% ekuitas) merupakan transaksi material sekaligus transaksi afiliasi karena keikutsertaan BTN dan Bank SMBC Indonesia dalam sindikasi.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material No. 00551/CORS-J/III/2026 (25 Maret 2026)", "url": "https://www.valeindonesia.com/documents/44618/1438416/2026-03-PTVI_Keterbukaan+Informasi.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi Transaksi Material dan Transaksi Afiliasi: Perjanjian Sindikasi (24 April 2026)", "url": "https://www.valeindonesia.com/documents/44618/1438416/20260424-KI+POJK+17+-+Syndication+Agreement.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: US$0,00433 per saham (total US$45,64 juta)",
+      "ringkasan": "RUPS Tahunan 2 Juni 2026 menyetujui dividen tunai US$45.638.211, atau 60% dari laba bersih 2025 (US$76 juta). Recording date 12 Juni 2026, pembayaran 26 Juni 2026. Nilai per saham US$0,00433 (bruto) tercantum di catatan laporan keuangan.",
+      "sumber": [
+        {"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"},
+        {"judul": "Laporan Keuangan Interim PT Vale Indonesia Tbk 30 September 2026 (catatan dividen)", "url": "https://www.valeindonesia.com/documents/44618/1374000/PT+Vale+Indonesia+Tbk+Financial+Statements+30+September+2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Lainnya",
+      "judul": "RUPSLB menyetujui perubahan Pasal 3 Anggaran Dasar sesuai KBLI 2025",
+      "ringkasan": "Penyesuaian maksud, tujuan, dan kegiatan usaha dengan KBLI 2025, termasuk klasifikasi perdagangan besar bijih dan produk logam, penyediaan listrik, real estat, serta pengelolaan limbah.",
+      "sumber": [
+        {"judul": "Siaran pers RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Press-Release-EGMS-2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Summary-of-Minutes-EGMS-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (laporan keuangan interim, tidak disajikan sebagai konsolidasian)",
+    "pos": {
+      "aset": [3653075, 3345847],
+      "pendapatan": [896069, 705389],
+      "beban_usaha": [24952, 24605],
+      "laba_bersih": [147124, 52447],
+      "liabilitas": [778694, 570771]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba periode berjalan (tidak ada kepentingan nonpengendali)",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha diambil langsung dari pos 'Beban usaha' di laporan laba rugi (di luar beban pokok pendapatan dan pembagian laba bersih).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Interim PT Vale Indonesia Tbk 30 September 2026", "url": "https://www.valeindonesia.com/documents/44618/1374000/PT+Vale+Indonesia+Tbk+Financial+Statements+30+September+2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Pengunduran diri",
+      "nama": "Emily Olson",
+      "jabatan": "Wakil Presiden Komisaris",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Pengunduran diri",
+      "nama": "Christopher McCleave",
+      "jabatan": "Komisaris",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Pengangkatan",
+      "nama": "Kristina Gauthier",
+      "jabatan": "Wakil Presiden Komisaris",
+      "ringkasan": "Diangkat RUPS Tahunan.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Pengangkatan",
+      "nama": "Patricia Renee Pegues",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPS Tahunan.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Pengangkatan",
+      "nama": "Adam MacMillan",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPS Tahunan.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan. Presiden Komisaris: F.S. Multhazar. Presiden Direktur dan CEO: Bernardus Irmanto. Wakil Presiden Direktur: Abu Ashar.",
+      "sumber": [{"judul": "Siaran pers hasil RUPS Tahunan 2 Juni 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI+Press+Release+AGMS+June+2026+-+EN.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Pengunduran diri",
+      "nama": "Budiawansyah",
+      "jabatan": "Direktur dan Chief Sustainability and Corporate Affairs Officer",
+      "ringkasan": "Surat pengunduran diri diterima 20 Agustus 2026 dan diungkapkan 21 Agustus 2026. RUPSLB 18 November 2026 menerima pengunduran dirinya sejak penutupan rapat.",
+      "sumber": [
+        {"judul": "Siaran pers RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Press-Release-EGMS-2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Summary-of-Minutes-EGMS-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Pemberhentian",
+      "nama": "M. Jasman Panjaitan",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPSLB sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Summary-of-Minutes-EGMS-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Pengangkatan",
+      "nama": "Sahid Junaidi",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPSLB menggantikan M. Jasman Panjaitan, efektif sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Summary-of-Minutes-EGMS-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Pengangkatan",
+      "nama": "Basrie Kamba",
+      "jabatan": "Direktur dan Chief Sustainability and Corporate Affairs Officer",
+      "ringkasan": "Diangkat RUPSLB, efektif 1 Desember 2026 (di KTP tertulis Drs. K Basrie).",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Summary-of-Minutes-EGMS-2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB (dengan memperhitungkan tanggal efektif). Presiden Komisaris: F.S. Multhazar. Presiden Direktur dan CEO: Bernardus Irmanto.",
+      "sumber": [{"judul": "Siaran pers RUPSLB 18 November 2026", "url": "https://www.valeindonesia.com/documents/44618/1438416/PTVI-Press-Release-EGMS-2026.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}
