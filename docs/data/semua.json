@@ -4302,14 +4302,127 @@
    "no": 30
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 31,
    "kode": "BREN",
    "nama": "Barito Renewables Energy Tbk",
-   "sektor": "Energi"
+   "sektor": "Energi",
+   "situs_resmi": "https://baritorenewables.co.id/en/information-disclosure",
+   "status_data": "lengkap",
+   "catatan": "Sumber dari baritorenewables.co.id (Information Disclosure, General Meeting of Shareholders, Financial Report, Press Release). Keterbukaan rencana buyback 3 Februari 2026 berupa pindaian dan dibaca dari gambar halamannya. Jadwal pembayaran dividen tahun buku 2025 dan nilai per sahamnya tidak ditemukan di situs; nilai US$30,5 juta dikonfirmasi oleh catatan laporan keuangan Q3. Siaran pers 'Company Statement' 16 Oktober 2026 menyatakan Perseroan menghormati keputusan OJK dan BEI yang diumumkan hari itu tanpa menjelaskan isi keputusannya, sehingga tidak dicatat sebagai aksi korporasi. Laporan perubahan kepemilikan saham Barito Pacific (April 2026, turun dari 64,67% ke 64,64%) dan Green Era Energy (turun dari 22,93% ke 22,67%), transaksi afiliasi sewa alat berat (Mei 2026), dan pengangkatan Komite Audit (2 Juli 2026, dokumen pindaian) tidak dicatat sebagai aksi korporasi. Laporan laba rugi Perseroan disajikan berdasarkan sifat beban (tanpa pos beban pokok atau beban usaha terpisah).",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-02-03",
+     "jenis": "Buyback",
+     "judul": "Buyback saat pasar berfluktuasi signifikan hingga Rp2 triliun",
+     "ringkasan": "Rencana buyback tanpa RUPS berdasarkan POJK 13/2023 dengan dana maksimal Rp2 triliun dari kas internal, periode 4 Februari sampai 3 Mei 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi Rencana Pembelian Kembali Saham (3 Februari 2026)",
+       "url": "https://baritorenewables.co.id/uploads/2026/02/feaaf0204c1c1a70312e0643c3b050e4_56aef0ec0a9a599b30d65864afb28aa0.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-24",
+     "jenis": "Dividen",
+     "judul": "Dividen tunai tahun buku 2025: US$30,5 juta",
+     "ringkasan": "RUPS Tahunan menetapkan penggunaan laba bersih 2025 yang diatribusikan ke pemilik entitas induk (US$132,2 juta): US$1,32 juta (1%) untuk cadangan, US$30,5 juta (23%) sebagai dividen tunai, dan US$100,4 juta (76%) sebagai laba ditahan.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan 24 Juni 2026 (Mata Acara Kedua)",
+       "url": "https://baritorenewables.co.id/uploads/2026/06/be3b3e0ec65f9a24a9f672b6f4f80aa3_b306d69b2e5b714207c80d6f7b518252.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-07-17",
+     "jenis": "Transaksi material",
+     "judul": "Fasilitas pinjaman Bangkok Bank hingga US$300 juta untuk anak usaha SEGHPL",
+     "ringkasan": "Anak usaha Star Energy Geothermal Holdings Pte. Ltd. menandatangani perjanjian fasilitas pinjaman berjangka dengan Bangkok Bank senilai maksimal US$300 juta: Fasilitas A US$105 juta untuk biaya pra-konstruksi proyek Suoh Sekincau (Sumatera) dan Fasilitas B US$195 juta untuk konstruksi, termasuk penyertaan modal hingga US$105 juta ke PT Star Energy Suoh Sekincau dan pengembangan prospek panas bumi Hamiding (Maluku). Diungkapkan sebagai transaksi material pada 21 Juli 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi: Financing Facility from Bangkok Bank (21 Juli 2026)",
+       "url": "https://baritorenewables.co.id/uploads/2026/07/5dcbfac6088ac52144d28f38b3019aa5_438df571d35545eb2fdcb58b3b8218f2.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-19",
+     "jenis": "Buyback",
+     "judul": "Buyback saat pasar berfluktuasi signifikan hingga Rp1 triliun",
+     "ringkasan": "Rencana buyback tanpa RUPS berdasarkan POJK 13/2023 dan surat OJK 9 September 2026, dengan dana maksimal Rp1 triliun, periode 19 Oktober sampai 31 Desember 2026.",
+     "sumber": [
+      {
+       "judul": "Keterbukaan Informasi BREN - Buyback Fluktuatif (19 Oktober 2026)",
+       "url": "https://baritorenewables.co.id/uploads/2026/10/14838ebcf6e94cb9a2fb80f251179e75_66b5bd7234724f23f21f4635c4ddf212.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+     "aset": [
+      4110114,
+      3867410
+     ],
+     "pendapatan": [
+      500815,
+      457397
+     ],
+     "beban_usaha": [
+      128647,
+      126058
+     ],
+     "laba_bersih": [
+      132828,
+      106553
+     ],
+     "liabilitas": [
+      3101223,
+      2983891
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan",
+     "beban_usaha": "Beban depresiasi dan amortisasi + kompensasi karyawan + konsultan dan teknisi + tunjangan produksi kepada PGE",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan laba rugi disajikan berdasarkan sifat beban, tanpa pos 'beban usaha'. Beban usaha dihitung dari empat beban operasional: 2026 = 78.135 + 26.478 + 10.785 + 13.249; 2025 = 71.052 + 30.168 + 11.545 + 13.293. Beban keuangan, selisih kurs, pendapatan bunga, dan lain-lain tidak dimasukkan. Laba periode berjalan total US$160.645 ribu (2025: US$131.898 ribu).",
+    "sumber": [
+     {
+      "judul": "9M-2026 BREN Consolidated Financial Report (tidak diaudit)",
+      "url": "https://baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-24",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "RUPS Tahunan mengangkat kembali seluruh pengurus tanpa perubahan orang, untuk masa jabatan sampai RUPS Tahunan tahun ketiga berikutnya. Komisaris Utama: Agus Salim Pangestu. Direktur Utama: Tan Hendra Soetjipto. Direktur: Agus Sandy Widyanto, Kenneth Lee Riedel, Hsing Chee Chiam. Komisaris: Tan Suan Swee, David Kosasih, Merly; Komisaris Independen: Tan Ek Kia, Cholanat Yanaranop.",
+     "sumber": [
+      {
+       "judul": "Ringkasan Risalah RUPS Tahunan 24 Juni 2026 (Mata Acara Kelima)",
+       "url": "https://baritorenewables.co.id/uploads/2026/06/be3b3e0ec65f9a24a9f672b6f4f80aa3_b306d69b2e5b714207c80d6f7b518252.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 31
   },
   {
    "kode": "INET",
@@ -5544,14 +5657,119 @@
    "no": 40
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 41,
    "kode": "ADMR",
    "nama": "Adaro Minerals Indonesia Tbk",
-   "sektor": "Batu bara"
+   "sektor": "Batu bara",
+   "situs_resmi": "https://www.alamtriminerals.id/page/disclosure-of-information",
+   "status_data": "lengkap",
+   "catatan": "Perseroan kini bernama PT Alamtri Minerals Indonesia Tbk (kode tetap ADMR); situs resmi alamtriminerals.id. Dokumen yang tersedia di situs berbahasa Inggris. RUPST 17 April 2026 mengangkat kembali seluruh anggota dewan komisaris dan direksi tanpa perubahan orang. Keterbukaan 2 November 2026 tentang konfirmasi informasi pengendali Perseroan tidak dicatat sebagai aksi korporasi. Laporan keuangan 9M26 tidak memuat laporan auditor, sehingga dianggap tidak diaudit.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Dividen",
+     "judul": "Dividen final tahun buku 2025: US$120 juta (Rp50,62 per saham)",
+     "ringkasan": "RUPS Tahunan menetapkan dividen tunai US$120.000.000 (44,25% dari laba bersih 2025 yang diatribusikan ke entitas induk sebesar US$271.212.331). Dengan kurs tengah BI 29 April 2026 (Rp17.245/US$) total dividen menjadi Rp2.069.463.620.530 atau Rp50,62 per saham. Cum pasar reguler 27 April 2026, recording date 29 April 2026, pembayaran 6 Mei 2026.",
+     "sumber": [
+      {
+       "judul": "Summary Minutes of AGMS 2026 (17 April 2026), Second Agenda",
+       "url": "https://www.alamtriminerals.id/document/view/en/290NVVPqnsRsZY3fJM2rWHmnt03FsjYHGIwMFAig.pdf/Summary%20Minutes%20of%20AGMS%202026",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Conversion Exchange Rate for the Cash Dividend for the Fiscal Year of 2025 (29 April 2026)",
+       "url": "https://www.alamtriminerals.id/document/view/en/bR2CqVQfqVqhSW27onmMjRj3Fus6GN3RUmQZOxgi.pdf/Conversion%20Exchange%20Rate%20for%20the%20Cash%20Dividend%20for%20the%20Fiscal%20Year%20of%202025",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-07-02",
+     "jenis": "Transaksi material",
+     "judul": "Pinjaman revolving hingga US$300 juta kepada PT Kalimantan Aluminium Industry",
+     "ringkasan": "Pada 30 Juni 2026 Perseroan sebagai kreditur menandatangani perjanjian pinjaman revolving dan uncommitted hingga US$300.000.000 kepada PT Kalimantan Aluminium Industry (KAI) untuk pembiayaan proyek smelter aluminium, termasuk belanja modal dan pelunasan pinjaman bank. Dikategorikan transaksi afiliasi tanpa benturan kepentingan; penilai independen memberi opini wajar.",
+     "sumber": [
+      {
+       "judul": "Loan Agreement between PT Alamtri Minerals Indonesia Tbk dan PT Kalimantan Aluminium Industry (2 Juli 2026)",
+       "url": "https://www.alamtriminerals.id/document/view/en/zSlxekKc47ZWYp6oNbPpAWnEEiGC2wDe5dBXxnDv.pdf/Loan%20Agreement%20between%20PT%20Alamtri%20Minerals%20Indonesia%20Tbk%20dan%20PT%20Kalimantan%20Aluminium%20Industry",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-12",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Pencatatan Obligasi I Maruwai Coal Tahun 2026 senilai Rp2 triliun",
+     "ringkasan": "Anak usaha tidak langsung PT Maruwai Coal (99,99%) mencatatkan obligasi Rp2 triliun dalam dua seri: Seri A Rp1.219.765.000.000 bunga tetap 8,00% tenor 370 hari, dan Seri B Rp780.235.000.000 bunga tetap 8,75% tenor 3 tahun.",
+     "sumber": [
+      {
+       "judul": "Listing of Public Offering Maruwai Coal's Bond I of 2026 on Indonesia Stock Exchange (12 Oktober 2026)",
+       "url": "https://www.alamtriminerals.id/document/view/en/hEGZEUSXnm8JA5pexVTEMkNGgKw8sLYIS8voDZM2.pdf/Listing%20of%20Public%20Offering%20Maruwai%20Coal%E2%80%99s%20Bond%20I%20of%202026%20on%20Indonesia%20Stock%20Exchange",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      4145560,
+      2891276
+     ],
+     "pendapatan": [
+      1252979,
+      675144
+     ],
+     "beban_usaha": [
+      55880,
+      33063
+     ],
+     "laba_bersih": [
+      317531,
+      204184
+     ],
+     "liabilitas": [
+      2191982,
+      1173865
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan usaha",
+     "beban_usaha": "Beban usaha",
+     "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan menyajikan 'Beban usaha' sebagai satu pos, dipakai apa adanya.",
+    "sumber": [
+     {
+      "judul": "Financial Statements 9M26 (laporan keuangan konsolidasian interim 30 September 2026)",
+      "url": "https://www.alamtriminerals.id/document/view/en/7C71f93kmKOQ9YEPMNQplBvJGIz7lTjIiDMFEeSs.pdf/Financial%20Statements%209M26",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-04-17",
+     "jenis": "Susunan baru",
+     "nama": "Dewan Komisaris dan Direksi",
+     "jabatan": "Seluruh pengurus",
+     "ringkasan": "RUPS Tahunan mengangkat kembali seluruh pengurus sampai RUPS Tahunan 2031. Presiden Komisaris: Garibaldi Thohir; Komisaris: Michael W.P. Soeryadjaya, M. Syah Indra Aman; Komisaris Independen: Mohammad Effendi, Lindawati Gani. Presiden Direktur: Iwan Dewono Budiyuwono; Direktur: Hendri Tamrin, Heri Gunawan, Totok Azhariyanto, Wito Krisnahadi.",
+     "sumber": [
+      {
+       "judul": "Summary Minutes of AGMS 2026 (17 April 2026), Fifth Agenda",
+       "url": "https://www.alamtriminerals.id/document/view/en/290NVVPqnsRsZY3fJM2rWHmnt03FsjYHGIwMFAig.pdf/Summary%20Minutes%20of%20AGMS%202026",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 41
   },
   {
    "kode": "PTBA",
