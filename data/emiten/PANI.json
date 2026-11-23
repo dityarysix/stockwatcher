@@ -1,0 +1,73 @@
+{
+  "kode": "PANI",
+  "nama": "Pantai Indah Kapuk Dua Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.pantaiindahkapukdua.com/informationdisclosure2026.html",
+  "status_data": "lengkap",
+  "catatan": "Dokumen di situs resmi disimpan di storage.googleapis.com/panifiles (tautan dipasang langsung dari situs resmi). Keterbukaan informasi penambahan modal entitas anak (13 Maret, 1 Juli, dan 3 Juli 2026) berupa pindaian tanpa teks sehingga hanya judulnya yang dapat dibaca. RUPS Tahunan 4 Juni 2026 tidak memuat agenda perubahan pengurus dan halaman RUPSLB 2026 tidak berisi dokumen. Status audit laporan September 2026 tidak dinyatakan eksplisit di halaman utama laporan; diasumsikan tidak diaudit seperti laporan interim lazimnya.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-03-13",
+      "jenis": "Lainnya",
+      "judul": "Penambahan modal pada entitas anak PT PET, PT CISN, dan PT KUS",
+      "ringkasan": "Berdasarkan judul dokumen saja (isi berupa pindaian): keterbukaan informasi atau fakta material mengenai penambahan modal pada entitas anak PT PET, PT CISN, dan PT KUS tertanggal 13 Maret 2026. Nilai tidak dapat dibaca.",
+      "sumber": [
+        {"judul": "Disclosure of Information or Material Facts regarding the Increase of Capital in the Subsidiaries (PT PET, PT CISN, and PT KUS) 13-03-26", "url": "https://storage.googleapis.com/panifiles/pdf/Disclosure_of_Information_or_Material_Facts_regarding_the_Increase_of_Capital_in_the_Subsidiaries_(PT_PET,_PT_CISN,_and_PT_KUS)_13_03_26.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp5 per saham",
+      "ringkasan": "RUPS Tahunan 4 Juni 2026 menetapkan dividen tunai Rp5 per saham (total sekitar Rp90,59 miliar) dari laba bersih yang diatribusikan kepada pemilik entitas induk 2025 sebesar Rp1,15 triliun; Rp1 miliar untuk dana cadangan dan sisanya laba ditahan. Cum dividen pasar reguler 12 Juni 2026, recording date 17 Juni 2026, pembayaran 8 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PANI 2026 (termasuk jadwal pembagian dividen)", "url": "https://storage.googleapis.com/panifiles/pdf/PANI_Ringkasan_Risalah_RUPST_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-15",
+      "jenis": "Private placement",
+      "judul": "PMTHMETD IV: 72.476.600 saham baru pada Rp6.875 per saham (sekitar Rp498,28 miliar)",
+      "ringkasan": "Melanjutkan persetujuan RUPSLB 26 Juni 2024, perseroan menerbitkan 72.476.600 saham baru tanpa HMETD dengan harga pelaksanaan Rp6.875 per saham, seluruhnya diambil PT Victoria Wealth Management Ltd (bukan pihak terafiliasi). Dana untuk memperkuat permodalan entitas anak PT Panorama Eka Tunggal dan PT Karunia Utama Selaras. Jadwal: penerbitan 23 Juni 2026 dan pencatatan 24 Juni 2026; jumlah saham beredar naik menjadi 18.189.502.198. Nilai total dihitung dari jumlah saham dikali harga.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Pelaksanaan PMTHMETD IV (15 Juni 2026)", "url": "https://storage.googleapis.com/panifiles/pdf/PANI_KI_Rencana_Pelaksanaan_PMTHMETD_IV_(IND-ENG).pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-01",
+      "jenis": "Lainnya",
+      "judul": "Penambahan modal pada entitas anak PT Cahaya Inti Sentosa, PT Panorama Eka Tunggal, dan PT Karunia Utama Selaras",
+      "ringkasan": "Berdasarkan judul dokumen saja (isi berupa pindaian): dua keterbukaan informasi bertanggal 1 dan 3 Juli 2026 mengenai penambahan modal pada entitas anak PT Cahaya Inti Sentosa, serta PT Panorama Eka Tunggal dan PT Karunia Utama Selaras. Kemungkinan terkait penyaluran dana PMTHMETD IV, tetapi nilai tidak dapat dibaca.",
+      "sumber": [
+        {"judul": "Laporan Informasi dan Fakta Material 1 Juli 2026 (penambahan modal PT Cahaya Inti Sentosa)", "url": "https://storage.googleapis.com/panifiles/pdf/20260701_PANI_Laporan%20Informasi%20dan%20Fakta%20Material_32107252_lamp1.pdf", "diakses": "2026-11-23"},
+        {"judul": "Laporan Informasi dan Fakta Material 3 Juli 2026 (penambahan modal PT Panorama Eka Tunggal dan PT Karunia Utama Selaras)", "url": "https://storage.googleapis.com/panifiles/pdf/20260703_PANI_Laporan_Informasi_dan_Fakta_Material_32108410.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Konsolidasian interim (status audit tidak dinyatakan eksplisit; diasumsikan tidak diaudit)",
+    "pos": {
+      "aset": [51101390772, 50584512772],
+      "pendapatan": [3685458708, 3098880546],
+      "beban_usaha": [310170437, 303380257],
+      "laba_bersih": [1941863811, 791301025],
+      "liabilitas": [16944519987, 18920032517]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (61.071.112; 2025: 72.036.966) + beban umum dan administrasi (249.099.325; 2025: 231.343.291). Beban pajak final dan beban keuangan tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT PANI September 2026", "url": "https://storage.googleapis.com/panifiles/pdf/Digital_Report_PT_PANI_September_2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

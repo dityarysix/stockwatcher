@@ -1,0 +1,54 @@
+{
+  "kode": "TBIG",
+  "nama": "Tower Bersama Infrastructure Tbk",
+  "sektor": "Infrastruktur telekomunikasi",
+  "situs_resmi": "https://www.tower-bersama.com/id/hubungan-investor/rapat-umum-pemegang-saham",
+  "status_data": "lengkap",
+  "catatan": "Laporan keuangan 30 September 2026 belum tersedia di halaman Laporan Keuangan per 23 November 2026 (terbaru Q2 2026), sehingga dipakai laporan 30 Juni 2026. RUPST 9 Juni 2026 tidak memuat mata acara perubahan pengurus; susunan pengurus per 30 Juni 2026 sama dengan 31 Desember 2025 (Presiden Komisaris Edwin Soeryadjaya, Direktur Utama Herman Setya Budi). RUPSLB 24 Agustus 2026 menyetujui penambahan kegiatan usaha anak usaha PT Tower Bersama (jasa gerbang akses internet/Network Access Point) dan perubahan Pasal 3 Anggaran Dasar (KBLI 2025); tidak dicatat sebagai aksi korporasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-09",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp47 per saham",
+      "ringkasan": "RUPS Tahunan 9 Juni 2026 menetapkan dividen tunai sekitar Rp1,06 triliun atau sekitar 74,28% laba bersih 2025 (Rp1,43 triliun), setara Rp47 per saham, serta Rp500 juta untuk cadangan umum. Cum dividen pasar reguler 18 Juni 2026, recording date 22 Juni 2026, pembayaran 9 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 2026 PT Tower Bersama Infrastructure Tbk (Mata Acara 2 dan jadwal pembayaran dividen, 11 Juni 2026)", "url": "https://www.tower-bersama.com/api/file?name=files/2026/06/11/RUPST2026-_-Ringkasan-Risalah-Rapat-1780933443223.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-09",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Persetujuan rencana penerbitan global notes hingga USD900 juta",
+      "ringkasan": "RUPS Tahunan menyetujui rencana penerbitan surat utang (notes) dalam mata uang asing dengan pokok keseluruhan maksimal setara USD900 juta, dalam satu atau beberapa kali penerbitan dalam 12 bulan, ditawarkan kepada investor di luar Indonesia. Penerbitan ini tergolong transaksi material menurut POJK 17/2020; keterbukaan informasinya diumumkan 30 April 2026 dan diubah 8 Juni 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 2026 (Mata Acara 5)", "url": "https://www.tower-bersama.com/api/file?name=files/2026/06/11/RUPST2026-_-Ringkasan-Risalah-Rapat-1780933443223.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [48241918, 46247268],
+      "pendapatan": [3460331, 3450626],
+      "beban_usaha": [314587, 293191],
+      "laba_bersih": [835932, 822646],
+      "liabilitas": [34691915, 33521911]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha diambil dari satu baris 'Beban usaha' di laporan laba rugi (Catatan 33), di luar beban pokok pendapatan (990.165; 2025: 964.634).",
+    "sumber": [
+      {"judul": "TBIG Q2 2026 Financial Report (Laporan Keuangan Konsolidasian Interim 30 Juni 2026)", "url": "https://www.tower-bersama.com/api/file?name=files/2026/07/31/TBIG-Q22026-Financial-Report-1785091885690.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

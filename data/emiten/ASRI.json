@@ -1,0 +1,45 @@
+{
+  "kode": "ASRI",
+  "nama": "Alam Sutera Realty Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.alamsuterarealty.co.id/investor/investor.relation",
+  "status_data": "lengkap",
+  "catatan": "Situs korporat untuk investor adalah alamsuterarealty.co.id (situs alam-sutera.com hanya situs pemasaran). Halaman pengumuman hanya memuat dokumen RUPST untuk 2026; RUPS Tahunan 10 Juni 2026 tidak memuat agenda perubahan pengurus. Jadwal cum/pembayaran dividen tidak ditemukan di situs (keputusan RUPS menyerahkan penetapan jadwal kepada Direksi).",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-10",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp1,5 per saham",
+      "ringkasan": "RUPS Tahunan 10 Juni 2026 menetapkan dividen Rp1,5 per saham (total sekitar Rp29,47 miliar) dari laba komprehensif 2025 sebesar Rp319,11 miliar; Rp1 miliar disisihkan sebagai dana cadangan dan sisanya sekitar Rp288,63 miliar menjadi laba ditahan.",
+      "sumber": [
+        {"judul": "Pemberitahuan Hasil Keputusan RUPST ASRI 2026 (12 Juni 2026)", "url": "https://www.alamsuterarealty.co.id/public/assets/announcement/Pemberitahuan%20Hasil%20Keputusan%20RUPST%20ASRI%20V.IND%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [23257349392, 23157770142],
+      "pendapatan": [2096499690, 1657636593],
+      "beban_usaha": [383001543, 364412359],
+      "laba_bersih": [105812416, 7967110],
+      "liabilitas": [11522224910, 11502922902]
+    },
+    "label": {
+      "pendapatan": "Penjualan, pendapatan jasa dan usaha lainnya",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (81.590.998; 2025: 69.914.310) + beban umum dan administrasi (301.410.545; 2025: 294.498.049). Beban pajak final dan beban bunga tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim ASRI 30 September 2026", "url": "https://www.alamsuterarealty.co.id/public/assets/financialstatement/ASRI%20LK%2030%20September%202026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}
