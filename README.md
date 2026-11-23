@@ -31,4 +31,4 @@ python3 scripts/build.py
 - Hanya ringkasan dengan kata-kata sendiri. Dokumen asli tidak disalin ke repo ini.
 - Tidak mengambil data dari idx.co.id secara otomatis, karena Syarat Penggunaan IDX melarang scraping/crawling.
 
-Bukan saran investasi. Proyek pribadi non-komersial dan tidak berafiliasi dengan PT Bursa Efek Indonesia maupun emiten mana pun.
+Bukan saran investasi. Cek Saham dikelola secara independen, dapat menampilkan iklan, dan tidak berafiliasi dengan PT Bursa Efek Indonesia maupun emiten mana pun.
