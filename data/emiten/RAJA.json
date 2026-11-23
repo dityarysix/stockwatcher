@@ -1,0 +1,21 @@
+{
+  "kode": "RAJA",
+  "nama": "Rukun Raharja Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://www.raja.co.id/en/investor",
+  "status_data": "sebagian",
+  "catatan": "Halaman laporan keuangan, RUPS, dan laporan korporat di raja.co.id memuat daftar dokumen lewat API CMS internal (cms.raja.co.id) dari JavaScript; sesuai panduan API itu tidak dipakai. Satu dokumen 2026 ditemukan lewat pencarian di domain resmi dan diunduh dari CDN resmi cms.raja.co.id. Laporan keuangan 2026, hasil RUPS 23 Juni 2026 (termasuk dividen dan kepastian stock split), serta perubahan pengurus tidak dapat diverifikasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-13",
+      "jenis": "Stock split",
+      "judul": "Rencana pemecahan saham 1:5 (nominal Rp25 menjadi Rp5)",
+      "ringkasan": "Perseroan merencanakan stock split dengan rasio 1 saham lama menjadi 5 saham baru, sehingga nilai nominal turun dari Rp25 menjadi Rp5 per saham. BEI memberi persetujuan prinsip pada 5 Mei 2026; rencana diajukan ke RUPSLB yang dijadwalkan 23 Juni 2026. Hasil RUPSLB tidak dapat diverifikasi dari situs.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi dalam rangka Rencana Pemecahan Saham (Stock Split), 13 Mei 2026", "url": "https://cms.raja.co.id/uploads/RAJA_STOCK_SPLIT_2026_IND_af1b548911.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}
