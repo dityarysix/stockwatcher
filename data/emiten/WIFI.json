@@ -1,0 +1,211 @@
+{
+  "kode": "WIFI",
+  "nama": "Solusi Sinergi Digital Tbk",
+  "sektor": "Telekomunikasi",
+  "situs_resmi": "https://surge.co.id/investor-relation",
+  "status_data": "lengkap",
+  "catatan": "Semua data diambil dari surge.co.id (menu Investor Relation: Disclosure, RUPS, Financial Report). Beberapa judul di halaman Disclosure tertukar tautannya (misalnya judul 'Divestment of SISCM' menautkan ke PDF perubahan penggunaan dana dan sebaliknya); isi dicek langsung dari PDF. Keterbukaan transaksi afiliasi kecil (penjaminan SSD kepada IJE atas sewa pembiayaan KDB Tifa Rp30 miliar dan Mitsubishi HC Capital Rp20,8 miliar yang diungkap 9 Februari 2026, perjanjian pinjam pakai SSD-IJE, pembiayaan IJE dari Bank JTrust, dan addendum pinjaman pemegang saham SSD-KKD Rp8,5 miliar yang diungkap 29 Mei 2026) tidak dimasukkan sebagai aksi korporasi karena nilainya kecil atau merupakan transaksi lama. Perubahan data administrasi perusahaan (alamat, telepon) per 18 November 2026 juga tidak dimasukkan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-08",
+      "jenis": "Lainnya",
+      "judul": "RUPSLB I menyetujui perubahan penggunaan dana PMHMETD I",
+      "ringkasan": "RUPS Luar Biasa 8 April 2026 menyetujui perubahan penggunaan dana rights issue (PMHMETD I). Rp5,89 triliun disetorkan sebagai modal ke anak usaha PT Jaringan Infra Andalan, lalu diteruskan ke PT Telemedia Komunikasi Pratama untuk proyek FWA: sekitar Rp5,07 triliun untuk perangkat CPE dan RAN, Rp403,8 miliar untuk biaya IPFR tahun ke-2 pita frekuensi 1,4 GHz, dan Rp421 miliar untuk modal kerja proyek. Sisa dana dipakai untuk modal kerja Perseroan.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB I SSD 2026 (8 April 2026)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_I_2026-090426.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-30",
+      "jenis": "Divestasi",
+      "judul": "Pelepasan SISCM oleh anak usaha GMI",
+      "ringkasan": "Anak usaha PT Gawai Maju Indonesia mengalihkan seluruh 51 saham (senilai HKD51) di Surge International Supply Chain Management Co., Limited kepada PT Investasi Gemilang Maju, pihak ketiga tanpa hubungan afiliasi. SISCM tidak lagi dikonsolidasikan; Perseroan menyatakan dampaknya tidak signifikan. Diungkapkan 5 Mei 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi No. 045/CORSEC/SSD/V/2026 tentang pelepasan SISCM dari GMI", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/045-KI_Pelepasan_SISCM_dari_GMI.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Obligasi Berkelanjutan I dan Sukuk Ijarah Berkelanjutan I Tahap I 2026, masing-masing Rp1,25 triliun",
+      "ringkasan": "Penerbitan tahap I dari program obligasi dan sukuk ijarah berkelanjutan dengan target masing-masing Rp2,5 triliun. Penjatahan 24 Juni 2026, distribusi elektronik 26 Juni 2026, pencatatan 29 Juni 2026. Peringkat idA (obligasi) dan idA(sy) (sukuk) dari Pefindo, serta irA+ dan irA+(sy) dari KRI. Tiga seri: A (370 hari, 9,15%), B (2 tahun, 10,75%), C (3 tahun, 11,75%). Pembayaran bunga/imbalan pertama dilakukan 28 September 2026.",
+      "sumber": [
+        {"judul": "Prospektus ringkas Obligasi & Sukuk Ijarah PT Solusi Sinergi Digital Tbk 2026", "url": "https://surge.co.id/pdf/Investor%20Relations/Prospektus%20Short/Prosring_Obligasi_%26_Sukuk_Ijarah_PT_SOLUSI_SINERGI_DIGITAL_Tbk_2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi No. 121/CORSEC/SSD/IX/2026 tentang pembayaran bunga dan imbalan ke-1", "url": "https://surge.co.id/pdf/Investor%20Relations/121_-_KI_Bunga_OBB_I_dan_SIB_I_2026_SR_A-C_SSD_ES.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp2 per saham",
+      "ringkasan": "RUPS Tahunan 30 Juni 2026 menetapkan dividen Rp2 per saham dari laba bersih 2025 sebesar Rp632,9 miliar, serta cadangan wajib Rp1 miliar. Cum dividen pasar reguler 8 Juli 2026, recording date 10 Juli 2026, pembayaran 31 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST SSD 2026 dan jadwal pembagian dividen", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi aksi korporasi dividen tunai (1 Juli 2026)", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/Dividen_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-11",
+      "jenis": "Divestasi",
+      "judul": "Pelepasan seluruh saham di PT Jejaring Digital Utama (JDU)",
+      "ringkasan": "Perseroan mengalihkan seluruh 350 saham miliknya di anak usaha JDU kepada PT Investasi Berjaya Sejahtera. Perseroan menyatakan tidak ada dampak material terhadap operasional dan keuangan. Diungkapkan 13 Agustus 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi No. 104/CORSEC/SSD/VIII/2026 tentang divestasi saham JDU", "url": "https://surge.co.id/pdf/Investor%20Relations/104_-_KI_-_Pelepasan_JDU_SSD_ES.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Lainnya",
+      "judul": "RUPSLB II menyetujui penambahan kegiatan usaha konstruksi sentral telekomunikasi",
+      "ringkasan": "RUPS Luar Biasa II menyetujui studi kelayakan dan perubahan Pasal 3 Anggaran Dasar untuk menambah kegiatan usaha Konstruksi Sentral Telekomunikasi (KBLI 42206), serta perubahan Pasal 12 ayat (13) tentang wewenang Direksi.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (21 Oktober 2026)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [23482070099883, 15168091293968],
+      "pendapatan": [2962020574256, 1014907771046],
+      "beban_usaha": [253374688964, 155426637223],
+      "laba_bersih": [478222993289, 260092692907],
+      "liabilitas": [14324275981683, 6650146440951]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha - neto",
+      "beban_usaha": "Beban pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Laba neto periode berjalan yang diatribusikan kepada entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha 2026 = beban pemasaran Rp16.354.032.883 + beban umum dan administrasi Rp237.020.656.081. Periode 2025 tidak memiliki beban pemasaran. Laba neto periode berjalan total (termasuk kepentingan nonpengendali) Rp648.417.891.341 (2025: Rp330.186.243.333).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT Solusi Sinergi Digital Tbk 30 September 2026 (tidak diaudit)", "url": "https://surge.co.id/pdf/Investor%20Relations/Financial%20Report/Lapkeu%202026/Q3%202026/FS_Final_SSD_Group_Sept_30_2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pemberhentian",
+      "nama": "Hermansjah Haryono",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan sejak penutupan rapat, dengan pembebasan tanggung jawab untuk masa 1 Januari 2026 sampai tanggal rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Perubahan jabatan",
+      "nama": "Yune Marketatmo",
+      "jabatan": "Direktur (sebelumnya Direktur Utama)",
+      "ringkasan": "RUPS Tahunan menetapkan Yune Marketatmo, yang semula Direktur Utama, menjadi Direktur untuk sisa masa jabatan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Hashim Sujono Djojohadikusumo",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Komisaris Utama. Mengundurkan diri lewat surat 29 September 2026 dan pengunduran dirinya diterima RUPSLB II 21 Oktober 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Fadel Muhammad",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Komisaris, lalu ditetapkan menjadi Komisaris Utama oleh RUPSLB II 21 Oktober 2026.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Hendrik Tee",
+      "jabatan": "Direktur Utama",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur Utama. Pengunduran dirinya diterima RUPSLB II 21 Oktober 2026.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Henny Santoso",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur. Mengajukan pengunduran diri 1 Oktober 2026 yang diterima RUPSLB II 21 Oktober 2026.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan setelah RUPS Tahunan, berlaku sampai RUPS Tahunan 2028. Komisaris Utama: Hashim Sujono Djojohadikusumo. Direktur Utama: Hendrik Tee. Direktur: Shannedy Ong, Andrew, Yune Marketatmo, Mohammad Mustaghfirin, Henny Santoso. Komisaris: Fadel Muhammad; Komisaris Independen: Doni Satiaji Soetadi.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST SSD 2026 (Mata Acara Kelima)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPST_SSD_2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi perubahan susunan Direksi dan/atau Dewan Komisaris (30 Juni 2026)", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/KI-Perubahan_Pengurus_SSD.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Pengunduran diri",
+      "nama": "Hashim S. Djojohadikusumo",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Surat pengunduran diri bertanggal 29 September 2026 (diterima 30 September 2026). RUPSLB II 21 Oktober 2026 menerima pengunduran dirinya sejak penutupan rapat.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi No. 122/CORSEC/SSD/X/2026 tentang pengunduran diri anggota Dewan Komisaris dan Direksi", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/122-KI_Pengunduran_Diri_BOC_BOD_ES.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Pengunduran diri",
+      "nama": "Hendrik Tee",
+      "jabatan": "Direktur Utama",
+      "ringkasan": "RUPSLB II menerima pengunduran dirinya sebagai Direktur Utama sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Pengunduran diri",
+      "nama": "Henny Santoso",
+      "jabatan": "Direktur",
+      "ringkasan": "Surat pengunduran diri tertanggal 1 Oktober 2026. RUPSLB II menerima pengunduran dirinya sejak penutupan rapat.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi No. 122/CORSEC/SSD/X/2026 tentang pengunduran diri anggota Dewan Komisaris dan Direksi", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/122-KI_Pengunduran_Diri_BOC_BOD_ES.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Perubahan jabatan",
+      "nama": "Fadel Muhammad",
+      "jabatan": "Komisaris Utama (sebelumnya Komisaris)",
+      "ringkasan": "RUPSLB II menetapkan Fadel Muhammad menjadi Komisaris Utama untuk sisa masa jabatan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Perubahan jabatan",
+      "nama": "Shannedy Ong",
+      "jabatan": "Direktur Utama (sebelumnya Direktur)",
+      "ringkasan": "RUPSLB II menetapkan Shannedy Ong menjadi Direktur Utama untuk sisa masa jabatan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan setelah RUPSLB II, berlaku sampai RUPS Tahunan 2028. Komisaris Utama: Fadel Muhammad; Komisaris Independen: Doni Satiaji Soetadi. Direktur Utama: Shannedy Ong; Direktur: Andrew, Yune Marketatmo, Mohammad Mustaghfirin.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB II SSD 2026 (Mata Acara Ketiga)", "url": "https://surge.co.id/pdf/Investor%20Relations/Ringkasan_Risalah_RUPSLB_II_SSD_2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi penambahan KBLI dan perubahan susunan Direksi dan Dewan Komisaris (22 Oktober 2026)", "url": "https://surge.co.id/pdf/Investor%20Relations/KeterbukaanInformasi/130-KI_Perubahan_Pengurus-KBLI_SSD_Okt_2026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

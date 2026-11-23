@@ -1,0 +1,76 @@
+{
+  "kode": "DCII",
+  "nama": "DCI Indonesia Tbk",
+  "sektor": "Teknologi",
+  "situs_resmi": "https://dci-indonesia.com/investor-relations",
+  "status_data": "sebagian",
+  "catatan": "Dokumen investor di-host di CDN resmi situs (d2gr9f68xie3i0.cloudfront.net, ditautkan dari halaman Investor Relations). Laporan keuangan 30 September 2026 belum tersedia di situs per 23 November 2026, sehingga dipakai laporan 30 Juni 2026. RUPS Tahunan 30 Maret 2026 tidak membagikan dividen. Komposisi pengurus yang hadir di RUPS 2026 berbeda dari RUPS 2025 (Indri Koesindrijastoeti H. menjadi Direktur, Darwin Cyril Noerhadi Komisaris Independen), tetapi perubahan itu tidak terdokumentasi di dokumen 2026 yang tersedia sehingga tidak dicatat. Keterbukaan fasilitas kredit berupa PDF hasil pindai dan dibaca dari gambar halamannya.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-03-30",
+      "jenis": "Lainnya",
+      "judul": "Laba 2025 tidak dibagikan sebagai dividen; RUPS setujui penjaminan lebih dari 50% kekayaan bersih",
+      "ringkasan": "RUPS Tahunan menetapkan laba bersih 2025 sebesar Rp1.001,946 miliar: Rp5 miliar untuk cadangan umum dan Rp996,946 miliar sebagai laba ditahan untuk perluasan gedung pusat data (tanpa dividen). Rapat juga menyetujui penjaminan lebih dari 50% kekayaan bersih perseroan untuk pendanaan baru dari pihak ketiga, termasuk perbankan.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT DCI Indonesia Tbk 2026 (Mata Acara 2 dan 5)", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1775099058150-wu1h84.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-30",
+      "jenis": "Transaksi material",
+      "judul": "Tambahan fasilitas kredit investasi dari BCA hingga Rp17 triliun",
+      "ringkasan": "Perseroan memperoleh fasilitas kredit investasi dari PT Bank Central Asia Tbk dengan limit sampai Rp17 triliun (Perjanjian Kredit No. 13 tanggal 30 April 2026) untuk membiayai pembangunan dan penyelesaian fasilitas pusat data. Dikategorikan transaksi material yang dikecualikan dari kewajiban penilai dan persetujuan RUPS. Laporan disampaikan 5 Mei 2026.",
+      "sumber": [
+        {"judul": "DCII Keterbukaan Informasi terkait Fasilitas Kredit Investasi (5 Mei 2026)", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1777973423225-91m72n.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [8016886, 6648415],
+      "pendapatan": [1777421, 1334118],
+      "beban_usaha": [77165, 52331],
+      "laba_bersih": [732533, 616946],
+      "liabilitas": [3278777, 2642880]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan Q3 2026 belum ada di situs; dipakai laporan semester I 2026. Beban usaha = beban pemasaran (3.131; 2025: 1.838) + beban umum dan administrasi (74.034; 2025: 50.493). Beban operasi lain tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan per 30 Juni 2026", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1784731132589-ssacg5.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-03-30",
+      "jenis": "Pengangkatan",
+      "nama": "Lucas Adrian",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan untuk lima tahun sampai penutupan RUPS Tahunan tahun kelima berikutnya. Sebelumnya menjabat VP Operations perseroan.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT DCI Indonesia Tbk 2026 (Mata Acara 6)", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1775099058150-wu1h84.pdf", "diakses": "2026-11-23"},
+        {"judul": "CV Calon Anggota Direksi Perseroan", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1774610910516-m2eh1o.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-30",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan: Presiden Komisaris Marina Budiman; Presiden Direktur Otto Toto Sugiri. Direktur: Evelyn, Indri Koesindrijastoeti H., Lucas Adrian. Komisaris Independen: Darwin Cyril Noerhadi.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT DCI Indonesia Tbk 2026 (Mata Acara 6)", "url": "https://d2gr9f68xie3i0.cloudfront.net/uploads/media_libraries/1775099058150-wu1h84.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kode": "BMRI",
+  "nama": "Bank Mandiri (Persero) Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://www.bankmandiri.co.id/web/ir",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi www.bankmandiri.co.id tidak dapat diakses pada 23 November 2026: dua percobaan lewat HTTP/2 putus dengan INTERNAL_ERROR, dan satu percobaan HTTP/1.1 berakhir dengan balasan kosong (empty reply). Sesuai panduan, akses tidak dilanjutkan dan proteksi tidak ditembus. Pencarian web menunjukkan bahwa situs itu memuat laporan keuangan konsolidasian interim 30 September 2026, materi RUPS Tahunan 2026, dan siaran pers kinerja, tetapi tidak ada dokumen yang bisa diunduh dan diverifikasi, sehingga tidak ada angka atau fakta yang dicatat.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

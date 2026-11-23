@@ -1,0 +1,145 @@
+{
+  "kode": "PTRO",
+  "nama": "Petrosea Tbk",
+  "sektor": "Jasa tambang",
+  "situs_resmi": "https://petrosea.com/investor/",
+  "status_data": "sebagian",
+  "catatan": "Laporan keuangan 30 September 2026 belum tersedia di halaman Financial Statements Petrosea per 23 November 2026, jadi yang dipakai laporan 30 Juni 2026. RUPST 9 April 2026 memutuskan seluruh laba bersih 2025 dijadikan saldo laba, tanpa dividen. RUPSLB 23 November 2026 (agenda: rencana PMHMETD dan penjaminan aset di atas 50% aset bersih) jatuh pada hari pengumpulan data, dan hasilnya belum tersedia.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-20",
+      "jenis": "Akuisisi",
+      "judul": "Investasi convertible note Tolu Minerals senilai A$23,75 juta",
+      "ringkasan": "Proses binding offer dengan Tolu Minerals Limited (ASX: TOK), perusahaan emas-tembaga di Papua Nugini, rampung pada 20 April 2026. Petrosea memegang convertible note A$23,75 juta yang dapat dikonversi menjadi 14.615.385 saham baru pada harga A$1,625 per saham.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Petrosea Announces Completion of Binding Offer Related to Investment in Tolu (23 April 2026)",
+          "url": "https://petrosea.com/wp-content/uploads/2026/04/Press-Release-Petrosea-Announces-Completion-of-Binding-Offer-Related-to-Investment-in-Tolu.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-07-23",
+      "jenis": "Akuisisi",
+      "judul": "Ikut rights issue Singaraja Putra (SINI) sekitar Rp1,19 triliun; kepemilikan menjadi 19,88%",
+      "ringkasan": "Petrosea menuntaskan partisipasi dalam rights issue PT Singaraja Putra Tbk pada 23 Juli 2026 dengan setoran modal sekitar Rp1,19 triliun, sehingga kepemilikannya di SINI naik menjadi 19,88%.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Petrosea Strengthens Strategic Position in Mining Sector Through Investment in SINI (24 Juli 2026)",
+          "url": "https://petrosea.com/wp-content/uploads/2026/07/Press-Release-Petrosea-Strengthens-Strategic-Position-in-Mining-Sector-Through-Investment-in-SINI.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-07-23",
+      "jenis": "Divestasi",
+      "judul": "Pelepasan 99,99% saham PT Kemilau Mulia Sakti ke SINI",
+      "ringkasan": "Bersamaan dengan investasi di SINI, Petrosea melepas 99,99% saham PT Kemilau Mulia Sakti (KMS) kepada SINI. KMS memiliki kepentingan di PT Cristian Eka Pratama, pemegang IUP-OP batubara di Kutai Barat, Kalimantan Timur. Nilai divestasi tidak disebutkan dalam siaran pers.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Petrosea Strengthens Strategic Position in Mining Sector Through Investment in SINI (24 Juli 2026)",
+          "url": "https://petrosea.com/wp-content/uploads/2026/07/Press-Release-Petrosea-Strengthens-Strategic-Position-in-Mining-Sector-Through-Investment-in-SINI.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-15",
+      "jenis": "Rights issue",
+      "judul": "Rencana PMHMETD hingga 170.000.000 saham baru (diajukan ke RUPSLB 23 November 2026)",
+      "ringkasan": "Perseroan mengumumkan RUPSLB 23 November 2026 untuk menyetujui PMHMETD dengan penerbitan maksimal 170.000.000 saham baru bernominal Rp5, beserta perubahan Pasal 4 ayat (2) anggaran dasar. Agenda kedua adalah persetujuan menjaminkan aset senilai lebih dari 50% aset bersih. Hasil rapat belum tersedia.",
+      "sumber": [
+        {
+          "judul": "Pengumuman RUPSLB 23 November 2026 (15 Oktober 2026)",
+          "url": "https://petrosea.com/wp-content/uploads/2026/10/PTRO_Pngmmn-RUPSLB-23112026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Materi RUPSLB 23 November 2026",
+          "url": "https://petrosea.com/wp-content/uploads/2026/10/PTRO_Meeting-Material-EGMS-23-Nov-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-26",
+      "jenis": "Lainnya",
+      "judul": "Transaksi afiliasi: pembelian kapal work barge HAFAR GRAB senilai Rp5,46 miliar",
+      "ringkasan": "Anak usaha HDK membeli kapal milik HDS, keduanya 51% dimiliki entitas anak Perseroan. Nilai transaksi didasarkan pada penilaian KJPP Kusnanto & Rekan. Perseroan menyatakan transaksi ini bukan benturan kepentingan maupun transaksi material.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi Transaksi Afiliasi HDK-HDS, 26 Oktober 2026",
+          "url": "https://petrosea.com/wp-content/uploads/2026/10/PTRO_DOI-AT-HDK-HDS_26102026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Konsolidasian (dokumen berjudul 'dan Laporan Auditor Independen'; kolom pembanding 2025 tidak diaudit)",
+    "pos": {
+      "aset": [
+        1527857,
+        1582883
+      ],
+      "pendapatan": [
+        543983,
+        340937
+      ],
+      "beban_usaha": [
+        20072,
+        15410
+      ],
+      "laba_bersih": [
+        10787,
+        1076
+      ],
+      "liabilitas": [
+        1206572,
+        1275425
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan (operasi yang dilanjutkan)",
+      "beban_usaha": "Beban penjualan dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (termasuk operasi yang dihentikan)",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha langsung (direct costs) US$496.958 ribu tidak dihitung sebagai beban usaha. Laba bersih total US$9.170 ribu, termasuk laba operasi yang dihentikan US$7.620 ribu. Laporan September 2026 belum tersedia di situs.",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 Juni 2026",
+        "url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-09",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "RUPST mengangkat kembali seluruh anggota Dewan Komisaris dan Direksi tanpa pergantian orang. Presiden Komisaris (merangkap Komisaris Independen): Osman Sitorus. Presiden Direktur: Michael.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Hasil RUPST 9 April 2026",
+          "url": "https://petrosea.com/wp-content/uploads/2026/04/PTRO-Smmry-Rslt-AGMS-090426.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Siaran pers: Petrosea Conducts its Annual General Meeting of Shareholders (9 April 2026)",
+          "url": "https://petrosea.com/wp-content/uploads/2026/04/Press-Release-Petrosea-Conducts-its-Annual-General-Meeting-of-Shareholders.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

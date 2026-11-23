@@ -1,0 +1,194 @@
+{
+  "kode": "ASII",
+  "nama": "Astra International Tbk",
+  "sektor": "Holding",
+  "situs_resmi": "https://www.astra.co.id/investor-relations",
+  "status_data": "lengkap",
+  "catatan": "Beberapa keterbukaan 2026 di situs adalah PDF hasil pindaian tanpa teks (laporan hasil buyback 26 Februari dan 15 Juni 2026, penghentian buyback, keterbukaan penawaran tender sukarela 31 Agustus 2026), jadi isinya tidak bisa dibaca langsung. Rincian tender offer Astra Otoparts diambil dari siaran pers dan presentasi hasil 9M 2026 di situs resmi. Total saham hasil buyback per periode diambil dari keterbukaan MSOP (10 Juni dan 15 Juli 2026). URL laporan keuangan 30 September 2026 mengikuti pola nama file laporan Maret 2026 di r2.astra.co.id.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-15",
+      "jenis": "Buyback",
+      "judul": "Buyback periode 2 hingga Rp2 triliun dalam kondisi pasar berfluktuasi",
+      "ringkasan": "Buyback tanpa RUPS (POJK 13/2023) senilai maksimal Rp2 triliun di luar biaya perantara, periode 19 Januari sampai 25 Februari 2026. Menurut keterbukaan MSOP, periode ini merealisasikan pembelian 104.850.800 saham.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana buyback, 15 Januari 2026", "url": "https://r2.astra.co.id/files/5/Project%20Ascend%20-%20KI%20Share%20Buyback%20Tranche%202.pdf", "diakses": "2026-11-23"},
+        {"judul": "Perubahan Keterbukaan Informasi program MSOP, 15 Juli 2026", "url": "https://r2.astra.co.id/files/5/Perubahan%20KI%20Progam%20MSOP%202026-15%20Juli%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-13",
+      "jenis": "Buyback",
+      "judul": "Buyback periode 3 hingga Rp2 triliun",
+      "ringkasan": "Buyback tanpa RUPS dalam kondisi pasar berfluktuasi senilai maksimal Rp2 triliun, periode 16 Maret sampai 15 Juni 2026. Realisasinya 153.427.400 saham.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana buyback, 13 Maret 2026", "url": "https://r2.astra.co.id/files/5/(13%20Maret%202026)%20Rencana%20Pembelian%20Kembali%20Saham%20dalam%20Kondisi%20Pasar%20Yang%20Berfluktuasi%20Secara%20Signifikan.pdf", "diakses": "2026-11-23"},
+        {"judul": "Perubahan Keterbukaan Informasi program MSOP, 15 Juli 2026", "url": "https://r2.astra.co.id/files/5/Perubahan%20KI%20Progam%20MSOP%202026-15%20Juli%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: Rp292 per saham (total Rp390)",
+      "ringkasan": "RUPS Tahunan menetapkan dividen tunai Rp390 per saham (maksimal Rp15,67 triliun) dari laba bersih 2025 Rp32,77 triliun. Rp98 sudah dibayar sebagai interim pada 31 Oktober 2025, sisanya Rp292. Cum dividen pasar reguler 4 Mei 2026, recording date 6 Mei 2026, pembayaran 25 Mei 2026.",
+      "sumber": [
+        {"judul": "Pemberitahuan Ringkasan Risalah RUPST dan Pembagian Dividen Final 2026", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-17",
+      "jenis": "Lainnya",
+      "judul": "Pengalihan hingga 100 juta saham treasuri untuk program MSOP",
+      "ringkasan": "RUPSLB menyetujui pengalihan sebagian saham hasil buyback periode 3, paling banyak 100.000.000 saham, untuk program kepemilikan saham manajemen (MSOP). Harga pelaksanaan ditetapkan Komite Nominasi dan Remunerasi.",
+      "sumber": [
+        {"judul": "Pemberitahuan Ringkasan Risalah RUPSLB 2026", "url": "https://r2.astra.co.id/files/5/ID%20-%20RUPSLB%202026%20-%20Ringkasan%20Risalah.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi rencana pengalihan saham untuk MSOP, 10 Juni 2026", "url": "https://r2.astra.co.id/files/5/1.%20Disclosure-MSOP%20Program%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-17",
+      "jenis": "Buyback",
+      "judul": "Buyback hingga Rp8 triliun disetujui RUPSLB",
+      "ringkasan": "RUPSLB menyetujui buyback berdasarkan POJK 29/2023 senilai maksimal Rp8 triliun di luar biaya. Rencana diumumkan 10 Juni 2026 dengan periode pelaksanaan 20 Juli 2026 sampai 16 Juli 2027.",
+      "sumber": [
+        {"judul": "Pemberitahuan Ringkasan Risalah RUPSLB 2026 (Mata Acara Kedua)", "url": "https://r2.astra.co.id/files/5/ID%20-%20RUPSLB%202026%20-%20Ringkasan%20Risalah.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi rencana pembelian kembali saham, 10 Juni 2026", "url": "https://r2.astra.co.id/files/5/2.%20Disclosure%20-%20Share%20Buyback%20Plan.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-31",
+      "jenis": "Akuisisi",
+      "judul": "Penawaran tender sukarela hingga 4,95% saham Astra Otoparts",
+      "ringkasan": "Astra menawar maksimal 4,95% saham Astra Otoparts pada Rp3.600 per saham (nilai maksimal sekitar Rp858 miliar), masa penawaran 13 Oktober sampai 11 November 2026. Jika terpenuhi, kepemilikan naik dari 80% menjadi 84,95%. Hasil akhir tender belum ditemukan di situs.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material - Pengajuan tawaran untuk membeli efek perusahaan terbuka, 31 Agustus 2026 (PDF pindaian)", "url": "https://r2.astra.co.id/files/5/ASII%20-%20Penawaran%20Tender%20Sukarela.pdf", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers Astra, 28 Oktober 2026 (Laporan Keuangan Kuartal III 2026)", "url": "https://www.astra.co.id/press-release/28-oktober-2026-pt-astra-international-tbk-perseroan-atau-astra-laporan-keuangan-kuartal-iii-tahun-2026", "diakses": "2026-11-23"},
+        {"judul": "9M 2026 Results Presentation", "url": "https://r2.astra.co.id/financial-reports/9M26%20AI%20Business%20Update.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-10",
+      "jenis": "Dividen",
+      "judul": "Dividen interim tahun buku 2026: Rp98 per saham",
+      "ringkasan": "Diputuskan Direksi 10 September 2026 dan efektif disetujui Dewan Komisaris 30 September 2026. Cum dividen pasar reguler 12 Oktober 2026, recording date 14 Oktober 2026, pembayaran 30 Oktober 2026.",
+      "sumber": [
+        {"judul": "Pemberitahuan kepada Pemegang Saham tentang Pembagian Dividen Interim, 2 Oktober 2026", "url": "https://r2.astra.co.id/files/5/(2%20Oktober%202026)%20Pemberitahuan%20kepada%20Pemegang%20Saham%20%E2%80%93%20Pembagian%20Dividen%20Interim.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "miliar rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [525718, 507366],
+      "pendapatan": [243869, 243608],
+      "beban_usaha": [27353, 23857],
+      "laba_bersih": [21602, 24473],
+      "liabilitas": [227826, 216554]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (10.412; 2025: 8.501) + beban umum dan administrasi (16.941; 2025: 15.356). Beban pokok pendapatan tidak dimasukkan.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian PT Astra International Tbk 30 September 2026 (tidak diaudit)", "url": "https://r2.astra.co.id/financial-reports/Astra%20Account%20September%202026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Perubahan jabatan",
+      "nama": "Rudy",
+      "jabatan": "Wakil Presiden Direktur menjadi Presiden Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Presiden Direktur sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Djony Bunarto Tjondro",
+      "jabatan": "Presiden Direktur",
+      "ringkasan": "Hadir sebagai Presiden Direktur saat RUPS, tetapi tidak tercantum dalam susunan Direksi baru.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Henry Tanoto",
+      "jabatan": "Direktur",
+      "ringkasan": "Tidak tercantum dalam susunan Direksi baru hasil RUPS Tahunan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Hamdani Dzulkarnaen Salim",
+      "jabatan": "Direktur",
+      "ringkasan": "Tidak tercantum dalam susunan Direksi baru hasil RUPS Tahunan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Pengangkatan",
+      "nama": "Siswadi",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Pengangkatan",
+      "nama": "Djap Tet Fa",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Direktur sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Pengangkatan",
+      "nama": "Muhamad Chatib Basri",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Tahunan sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Pengangkatan",
+      "nama": "Pariya Tangtongpairoth",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Tahunan sampai RUPS Tahunan 2029.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Apinont Suchewaboripont",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Hadir sebagai Komisaris Independen saat RUPS, tetapi tidak tercantum dalam susunan Dewan Komisaris baru.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Benjamin Herrenden Birks",
+      "jabatan": "Komisaris",
+      "ringkasan": "Hadir sebagai Komisaris saat RUPS, tetapi tidak tercantum dalam susunan Dewan Komisaris baru.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan: Presiden Komisaris Prijono Sugiarto; Presiden Direktur Rudy. Masa jabatan sampai RUPS Tahunan 2029, kecuali Stephen Patrick Gore, Lincoln Lin Feng Pan dan Lee Liang Whye sampai RUPS Tahunan 2028.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPST Astra 23 April 2026 (Mata Acara Ketiga)", "url": "https://r2.astra.co.id/files/6/Pemberitahuan%20Ringkasan%20Risalah%20RUPST%20dan%20Pembagian%20Dividen%20Final.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

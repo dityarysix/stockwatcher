@@ -1,0 +1,58 @@
+{
+  "kode": "COCO",
+  "nama": "Wahana Interfood Nusantara Tbk",
+  "sektor": "Makanan & minuman",
+  "situs_resmi": "https://wahana-interfood.com/information-disclosure/",
+  "status_data": "sebagian",
+  "catatan": "Situs resmi wahana-interfood.com (Win&Co Group) dapat diakses. Situs merek chocolatemonggo.com membalas 403/Cloudflare dan tidak dipakai. Dokumen keterbukaan rinci untuk rencana akuisisi PT Sari Murni Abadi (Momogi Group) tidak ditemukan di situs; yang ada hanya artikel berita perusahaan (CSPA ditandatangani 6 Mei 2026) dan uraian penggunaan dana di prospektus PMHMETD III. Per 30 September 2026 akuisisi belum tercermin di laporan keuangan. RUPST 12 Juni 2026 memutuskan tidak membagikan dividen dan tidak ada mata acara perubahan pengurus. Ringkasan risalah RUPST yang tersedia hanya versi bahasa Inggris.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Rights issue",
+      "judul": "PMHMETD III: hingga 10,68 miliar saham baru di harga Rp120, dana sekitar Rp1,28 triliun",
+      "ringkasan": "RUPSLB 17 April 2026 menyetujui kenaikan modal dasar dari Rp400 miliar menjadi Rp3 triliun dan PMHMETD III dengan disertai Waran Seri I. Menurut prospektus, rasio 1 saham lama mendapat 3 HMETD, harga pelaksanaan Rp120 per saham (dana maksimal Rp1.281.404.132.640), dengan 355.945.592 Waran Seri I (harga pelaksanaan Rp800). Pernyataan efektif 30 Juni 2026, recording date 10 Juli 2026, periode perdagangan HMETD 14-21 Juli 2026. Sekitar Rp1,17 triliun direncanakan untuk mengambil alih PT Sari Murni Abadi (Momogi Group), sisanya modal kerja. Siaran berita perusahaan 4 Agustus 2026 menyatakan seluruh saham baru terserap dan pemesanan tambahan 2,65 kali.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi PMHMETD III (Maret 2026)", "url": "https://wahana-interfood.com/wp-content/uploads/2026/03/KI-HMETD-PT-WAHANA-INTERFOOD-NUSANTARA-Tbk.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPSLB 17 April 2026", "url": "https://wahana-interfood.com/wp-content/uploads/2026/04/1.-Ringkasan-RUPSLB-17-04-2026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Informasi tambahan dan/atau perbaikan atas Prospektus Ringkas PMHMETD III (Juli 2026)", "url": "https://wahana-interfood.com/wp-content/uploads/2026/07/RI-COCO-2026-Informasi-tambahan-dan-atau-perbaikan-atas-Intam-Ringkas.pdf", "diakses": "2026-11-23"},
+        {"judul": "Win&Co Group (COCO) Raises Rp1.28 Trillion Through Rights Issue (4 Agustus 2026)", "url": "https://wahana-interfood.com/winco-rights-issue-2026/", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-06",
+      "jenis": "Akuisisi",
+      "judul": "Rencana akuisisi PT Sari Murni Abadi (Momogi Group) dan akses ke Bibica Vietnam",
+      "ringkasan": "Perseroan menandatangani perjanjian jual beli saham bersyarat (CSPA) pada 6 Mei 2026 untuk mengambil alih Momogi Group (PT Sari Murni Abadi), yang membawahi Bibica Corporation di Vietnam. Transaksi dibiayai terutama dari dana PMHMETD III dan baru berjalan setelah syarat-syarat terpenuhi. Nilai transaksi tidak disebut di dokumen yang tersedia di situs.",
+      "sumber": [
+        {"judul": "Berita perusahaan: Win&Co Group perkuat strategi bisnis regional (29 Juli 2026)", "url": "https://wahana-interfood.com/winco-vietnam-expansion/", "diakses": "2026-11-23"},
+        {"judul": "Informasi tambahan dan/atau perbaikan atas Prospektus Ringkas PMHMETD III (penggunaan dana)", "url": "https://wahana-interfood.com/wp-content/uploads/2026/07/RI-COCO-2026-Informasi-tambahan-dan-atau-perbaikan-atas-Intam-Ringkas.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [1707316361928, 542271331895],
+      "pendapatan": [121083357635, 111457612368],
+      "beban_usaha": [37413206201, 27505266199],
+      "laba_bersih": [-38051642403, -103617496707],
+      "liabilitas": [356254629591, 429483373508]
+    },
+    "label": {
+      "pendapatan": "Penjualan",
+      "beban_usaha": "Beban penjualan + beban penelitian dan pengembangan + beban umum dan administrasi",
+      "laba_bersih": "Rugi neto periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (Rp17.799.555.159; 2025: Rp3.442.752.538) + beban penelitian dan pengembangan (Rp789.123.784; 2025: Rp237.974.195) + beban umum dan administrasi (Rp18.824.527.258; 2025: Rp23.824.539.466). Rugi 9 bulan 2025 dipengaruhi beban operasi lain-lain neto Rp63,13 miliar. Kenaikan aset terutama dari kas hasil PMHMETD III.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (tidak diaudit)", "url": "https://wahana-interfood.com/wp-content/uploads/2026/10/COCO-FS-30-SEPTEMBER-2026-UNAUDITED.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

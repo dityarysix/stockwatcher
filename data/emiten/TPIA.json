@@ -1,0 +1,11 @@
+{
+  "kode": "TPIA",
+  "nama": "Chandra Asri Pacific Tbk",
+  "sektor": "Petrokimia",
+  "situs_resmi": "https://www.chandra-asri.com/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi www.chandra-asri.com dan chandra-asri.com gagal diakses pada 23 November 2026 karena verifikasi sertifikat TLS gagal ('unable to get local issuer certificate'), dalam tiga percobaan lewat proxy resmi sesi ini. Sesuai panduan, verifikasi TLS tidak dimatikan dan tidak dicari jalur lain. Domain alternatif www.capcx.com tidak dapat dihubungi (502). Karena itu tidak ada data yang dicatat.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

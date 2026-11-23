@@ -1,0 +1,63 @@
+{
+  "kode": "AMMN",
+  "nama": "Amman Mineral Internasional Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://www.amman.co.id/investor-relations",
+  "status_data": "sebagian",
+  "catatan": "Ringkasan risalah RUPS Tahunan 19 Mei 2026 tidak tersedia di halaman RUPS situs resmi (hanya pengumuman RUPST), sehingga keputusan RUPST (penggunaan laba, persetujuan pengalihan saham buyback untuk ESOP/MSOP, dan kemungkinan perubahan direksi) tidak dapat diverifikasi. Ada indikasi perubahan direksi yang tidak bisa dipastikan: daftar hadir RUPSLB 17 November 2026 mencantumkan David Alexander Gibbs dan Irwin Ka Pui Wan sebagai direktur, tetapi susunan direksi yang ditetapkan RUPSLB yang sama berisi Arief Widyawan Sidarto, Anthony R. Mathias, Aditya Sasmito, dan Lal Naveen Chandra. Karena tidak ada dokumen yang menjelaskan perubahan itu, tidak dibuat entri terpisah.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-10",
+      "jenis": "Lainnya",
+      "judul": "Rencana pengalihan 105,8 juta saham hasil buyback untuk program ESOP/MSOP",
+      "ringkasan": "Perseroan berencana mengalihkan sebagian atau seluruh 105.803.800 saham treasuri hasil buyback 2025 (biaya Rp788,29 miliar atau sekitar US$48,43 juta) untuk program kepemilikan saham karyawan dan/atau direksi. Rencana ini diajukan ke RUPS 19 Mei 2026; tambahan informasi diterbitkan 13 Mei 2026. Hasil persetujuan RUPS tidak ditemukan di situs.",
+      "sumber": [
+        {"judul": "Disclosure of Information on the Buyback Share Transfer for ESOP-MSOP Program, 10 April 2026", "url": "https://www.amman.co.id/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1540eea5b01110d5dc32247aeb03d188908b5099/DISCLOSURE%20OF%20INFORMATION%20ON%20THE%20BUYBACK%20SHARE%20TRANSFER%20FOR%20ESOP-MSOP%20PROGRAM.pdf?disposition=inline", "diakses": "2026-11-23"},
+        {"judul": "Additional Information to Disclosure of Information on the Buyback Share Transfer for ESOP-MSOP Program, 13 Mei 2026", "url": "https://www.amman.co.id/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--213f80da94de7af245742c935d39b7d5188f64a9/AMMN-Additional%20DI%20Buyback%20Share%20Transfer(Eng).pdf?disposition=inline", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [14043420, 13870648],
+      "pendapatan": [3237686, 545332],
+      "beban_usaha": [113608, 108947],
+      "laba_bersih": [871465, -178536],
+      "liabilitas": [7759496, 8439536]
+    },
+    "label": {
+      "pendapatan": "Penjualan bersih",
+      "beban_usaha": "Jumlah beban operasional (akresi, eksplorasi, pemasaran, umum dan administrasi)",
+      "laba_bersih": "Laba (rugi) periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha memakai 'Jumlah Beban Operasional' di laporan laba rugi: beban akresi 19.234, beban eksplorasi 18.079, beban pemasaran, umum dan administrasi 76.295. Periode 2025 mencatat rugi, ditulis negatif.",
+    "sumber": [
+      {"judul": "Financial Statement PT Amman Mineral Internasional Tbk 30 September 2026", "url": "https://www.amman.co.id/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d478c656877d26f1638b84d1b2d36e4fcdb94bab/Financial%20Statement%20-%20PT%20Amman%20Mineral%20Interasional%20Tbk%20-%2030%20September%202026.pdf?disposition=inline", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-11-17",
+      "jenis": "Pemberhentian",
+      "nama": "M. Teguh Pamuji",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPSLB terhitung 17 November 2026, dengan pembebasan tanggung jawab (acquit et de charge).",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB AMMN 17 November 2026", "url": "https://www.amman.co.id/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6ff80781c3b081c6fdb1ff0455f27e9023baef3a/AMMN%20%E2%80%93%20EGMS%20Minutes%20Summary%202026.pdf?disposition=attachment", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-17",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB: Komisaris Utama Agoes Projosasmito; Direktur Utama Arief Widyawan Sidarto. Dewan Komisaris kini empat orang dan Direksi empat orang.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB AMMN 17 November 2026", "url": "https://www.amman.co.id/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6ff80781c3b081c6fdb1ff0455f27e9023baef3a/AMMN%20%E2%80%93%20EGMS%20Minutes%20Summary%202026.pdf?disposition=attachment", "diakses": "2026-11-23"}]
+    }
+  ]
+}

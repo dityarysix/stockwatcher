@@ -1,0 +1,260 @@
+{
+  "kode": "BUMI",
+  "nama": "Bumi Resources Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.bumiresources.com/en/investor-relations",
+  "status_data": "sebagian",
+  "catatan": "Laporan keuangan (termasuk Juni 2026), risalah RUPST/RUPSLB 22 Juni 2026, dan seluruh siaran pers 2026 di situs BUMI hanya bisa diunduh setelah mengisi reCAPTCHA, jadi tidak diambil. Laporan keuangan 30 September 2026 tidak tercantum di situs. Data keuangan di bawah diambil dari ikhtisar laporan keuangan 31 Maret 2026 (tidak diaudit) yang dimuat dalam dokumen Informasi Tambahan obligasi Tahap V, yang dapat diunduh bebas. Keputusan RUPS 2026 (termasuk ada/tidaknya dividen tahun buku 2025) tidak dapat diverifikasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-23",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Obligasi Berkelanjutan I BUMI Tahap IV Tahun 2026 senilai Rp612,75 miliar",
+      "ringkasan": "Bagian dari PUB Obligasi Berkelanjutan I dengan target Rp5 triliun. Satu seri, bunga tetap 7,25% per tahun, tenor 3 tahun, dibayar penuh saat jatuh tempo 20 Februari 2029. Peringkat idA+ dari Pefindo. Tanggal emisi 20 Februari 2026 dan pencatatan di BEI 23 Februari 2026. Menurut laporan realisasi Juli 2026, dananya dipakai untuk modal kerja dan pembayaran pinjaman Perseroan.",
+      "sumber": [
+        {
+          "judul": "Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I BUMI Tahap IV Tahun 2026 (23 Januari 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/01/d9a4b8609760acd1f492db552a9a8ce9_88edf435f228ff03794f6b83395992bb.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap IV Tahun 2026 (12 Februari 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/3b7a34c42ba102391e0df25428f6399b_80d3ad57a19f730768d01bfe6760f502.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan Realisasi Penggunaan Dana PUB I BUMI Tahap II-V, Juli 2026 (revisi, diunggah 8 Oktober 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/10/437af5b4a0c39260c7f0a3b7664b1746_977661376a3584f9b022a78f918f4f0e.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-04-30",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 senilai Rp1,84 triliun",
+      "ringkasan": "Total pokok Rp1.839,875 miliar dalam tiga seri: Seri A Rp600,04 miliar (7,50%, 370 hari), Seri B Rp905,975 miliar (8,75%, 3 tahun), dan Seri C Rp333,86 miliar (9,05%, 5 tahun). Menurut perbaikan 21 Mei 2026, tanggal emisi 26 Mei 2026 dan pencatatan 29 Mei 2026. Laporan realisasi Juli 2026 menyebut sebagian besar dana (sekitar 83%) dialokasikan untuk pinjaman modal kerja kepada PT Arutmin.",
+      "sumber": [
+        {
+          "judul": "Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 (30 April 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/04/80f2d1fa584b9826d0116e54260f8892_dff932c966e97f639323c3821a5c3fd1.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan Realisasi Penggunaan Dana PUB I BUMI Tahap II-V, Juli 2026 (revisi, diunggah 8 Oktober 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/10/437af5b4a0c39260c7f0a3b7664b1746_977661376a3584f9b022a78f918f4f0e.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Divestasi",
+      "judul": "Pengalihan saham Citra Palu Mineral ke anak usaha Bumi Resources Minerals",
+      "ringkasan": "Siaran pers 29 Juni 2026 berjudul 'Bumi Resources Divests Stake in Citra Palu Mineral to Subsidiary Bumi Resources Minerals'. Isi siaran pers (nilai dan porsi saham) tidak dapat dibaca karena unduhan dilindungi reCAPTCHA; entri ini hanya berdasarkan judul yang tampil di situs.",
+      "sumber": [
+        {
+          "judul": "Halaman Press Release BUMI (daftar judul; berkas unduhan dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "31 Maret 2026 (3 bulan)",
+    "pembanding_lr": "31 Maret 2025 (3 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        4461157393,
+        4218609825
+      ],
+      "pendapatan": [
+        417655285,
+        348777533
+      ],
+      "beban_usaha": [
+        33784318,
+        23334933
+      ],
+      "laba_bersih": [
+        24146266,
+        17866112
+      ],
+      "liabilitas": [
+        1541319388,
+        1330687156
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Bukan laporan keuangan lengkap: angka diambil dari Ikhtisar Data Keuangan Penting dalam Informasi Tambahan obligasi Tahap V (perbaikan 21 Mei 2026). Laporan keuangan Juni 2026 tercantum di situs tetapi dilindungi reCAPTCHA; laporan September 2026 belum tercantum. Laba periode berjalan total (termasuk kepentingan nonpengendali) USD41.090.908 vs USD30.068.049.",
+    "sumber": [
+      {
+        "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+        "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-22",
+      "jenis": "Pengangkatan",
+      "nama": "Donny Iskandar Maramis",
+      "jabatan": "Direktur",
+      "ringkasan": "Tercantum sebagai Direktur di profil Direksi situs BUMI, padahal belum ada dalam susunan pengurus di Informasi Tambahan 21 Mei 2026. Profilnya menyebut ia bergabung sebagai Chief Financial Officer pada 1 Februari 2026. Tanggal 22 Juni 2026 dipakai sebagai tanggal RUPS: pada tanggal itu situs BUMI memuat siaran pers 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' dan ringkasan risalah RUPST/RUPSLB 2026. Tanggal keputusan yang pasti tidak dapat diverifikasi karena kedua dokumen itu dilindungi reCAPTCHA.",
+      "sumber": [
+        {
+          "judul": "Profil Direksi di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-directors",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Press Release BUMI: 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Media/GMS BUMI: Summary Minutes of AGMS dan EGMS Bumi Resources 2026 (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media#rups",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-22",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Kanaka Puradiredja",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Masih tercantum dalam susunan Dewan Komisaris di Informasi Tambahan 21 Mei 2026, tetapi tidak lagi ada di profil Dewan Komisaris situs BUMI. Tanggal 22 Juni 2026 dipakai sebagai tanggal RUPS: pada tanggal itu situs BUMI memuat siaran pers 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' dan ringkasan risalah RUPST/RUPSLB 2026. Tanggal keputusan yang pasti tidak dapat diverifikasi karena kedua dokumen itu dilindungi reCAPTCHA.",
+      "sumber": [
+        {
+          "judul": "Profil Dewan Komisaris di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Press Release BUMI: 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Media/GMS BUMI: Summary Minutes of AGMS dan EGMS Bumi Resources 2026 (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media#rups",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-22",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Thomas Myer Kearney",
+      "jabatan": "Komisaris",
+      "ringkasan": "Masih tercantum dalam susunan Dewan Komisaris di Informasi Tambahan 21 Mei 2026, tetapi tidak lagi ada di profil Dewan Komisaris situs BUMI. Tanggal 22 Juni 2026 dipakai sebagai tanggal RUPS: pada tanggal itu situs BUMI memuat siaran pers 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' dan ringkasan risalah RUPST/RUPSLB 2026. Tanggal keputusan yang pasti tidak dapat diverifikasi karena kedua dokumen itu dilindungi reCAPTCHA.",
+      "sumber": [
+        {
+          "judul": "Profil Dewan Komisaris di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Press Release BUMI: 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Media/GMS BUMI: Summary Minutes of AGMS dan EGMS Bumi Resources 2026 (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media#rups",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-22",
+      "jenis": "Perubahan jabatan",
+      "nama": "Anton Setianto Soedarsono",
+      "jabatan": "Komisaris (sebelumnya Komisaris Independen)",
+      "ringkasan": "Di Informasi Tambahan 21 Mei 2026 tercatat sebagai Komisaris Independen; di profil situs saat ini tercatat sebagai Komisaris. Tanggal 22 Juni 2026 dipakai sebagai tanggal RUPS: pada tanggal itu situs BUMI memuat siaran pers 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' dan ringkasan risalah RUPST/RUPSLB 2026. Tanggal keputusan yang pasti tidak dapat diverifikasi karena kedua dokumen itu dilindungi reCAPTCHA.",
+      "sumber": [
+        {
+          "judul": "Profil Dewan Komisaris di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi I BUMI Tahap V Tahun 2026 (21 Mei 2026)",
+          "url": "https://www.bumiresources.com/uploads/2026/05/9dc93f29a3ab87a924780d3946f04178_91f0df343fd44112358a20cffc96f94e.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Press Release BUMI: 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Media/GMS BUMI: Summary Minutes of AGMS dan EGMS Bumi Resources 2026 (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media#rups",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-22",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Menurut profil di situs per 23 November 2026: Presiden Komisaris (merangkap Komisaris Independen) Sharif Cicip Sutardjo; Presiden Direktur Adika Nuraga Bakrie; Wakil Presiden Direktur Agoes Projosasmito. Direksi berjumlah 13 orang dan Dewan Komisaris 5 orang. Tanggal 22 Juni 2026 dipakai sebagai tanggal RUPS: pada tanggal itu situs BUMI memuat siaran pers 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' dan ringkasan risalah RUPST/RUPSLB 2026. Tanggal keputusan yang pasti tidak dapat diverifikasi karena kedua dokumen itu dilindungi reCAPTCHA.",
+      "sumber": [
+        {
+          "judul": "Profil Direksi di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-directors",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Profil Dewan Komisaris di situs BUMI",
+          "url": "https://www.bumiresources.com/en/about-us/board-of-commissioners",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Press Release BUMI: 'Bumi Resources Conducts Annual and Extraordinary General Meetings of Shareholders 2026' (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media/press-release",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Halaman Media/GMS BUMI: Summary Minutes of AGMS dan EGMS Bumi Resources 2026 (22 Juni 2026; berkas dilindungi reCAPTCHA)",
+          "url": "https://www.bumiresources.com/en/media#rups",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "kode": "ITMG",
+  "nama": "Indo Tambangraya Megah Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.itmg.co.id/investor",
+  "status_data": "sebagian",
+  "catatan": "Halaman keterbukaan informasi (www.itmg.co.id/governance/material-disclosure) membalas error 500/connection reset sehingga dokumen keterbukaan informasi aslinya (rencana buyback baru, ringkasan risalah RUPS) tidak bisa dibaca. Informasi buyback diambil dari catatan laporan keuangan 9M26; susunan pengurus dari siaran pers RUPS. Laporan keuangan dalam ribuan USD.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: Rp992 per saham (sisa USD65 juta)",
+      "ringkasan": "RUPS Tahunan 17 April 2026 menetapkan total dividen tahun buku 2025 USD115 juta, atau 60% dari laba bersih yang diatribusikan kepada pemilik entitas induk (USD191 juta). USD50 juta (Rp738 per saham) sudah dibayar sebagai dividen interim pada 26 November 2025; sisa USD65 juta dibayarkan 19 Mei 2026 kepada pemegang saham yang tercatat 29 April 2026. Nilai per saham Rp992 tercantum di halaman riwayat dividen.",
+      "sumber": [
+        {"judul": "Siaran pers ITM, 17 April 2026: ITM Tetapkan Total Dividen Tunai 2025 USD115 Juta", "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf", "diakses": "2026-11-23"},
+        {"judul": "Dividend Information (riwayat pembayaran dividen)", "url": "https://www.itmg.co.id/investor/dividend-information", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Buyback",
+      "judul": "Realisasi buyback Januari-September 2026: 54,8 juta saham senilai Rp1.308,5 miliar",
+      "ringkasan": "Pelaksanaan lanjutan program buyback yang disetujui RUPSLB 3 November 2025 (maksimal Rp2.490 miliar, jangka waktu 12 bulan). Sepanjang Januari-September 2026 perseroan membeli kembali 54.825.600 saham (4,9% saham beredar) senilai Rp1.308,5 miliar (sekitar USD73,9 juta). Tanggal entri adalah tanggal posisi laporan keuangan, bukan tanggal pengumuman.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian Interim 9M26 (Catatan 19 Modal Saham)", "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-30",
+      "jenis": "Dividen",
+      "judul": "Dividen interim tahun buku 2026: Rp1.287 per saham (total USD74,2 juta)",
+      "ringkasan": "Dividen interim setara 70% laba bersih yang diatribusikan kepada pemilik entitas induk, berdasarkan keputusan Direksi yang disetujui Dewan Komisaris 30 Oktober 2026 dan diumumkan 3 November 2026. Cum dividen pasar reguler 10 November 2026, recording date 12 November 2026, pembayaran 18 November 2026. Nilai per saham dari halaman riwayat dividen.",
+      "sumber": [
+        {"judul": "Press Release on ITM 2026 Interim Cash Dividend (3 November 2026)", "url": "https://www.itmg.co.id/files/media/Press%20Release%20on%20ITM%202026%20Interim%20Cash%20Dividend.pdf", "diakses": "2026-11-23"},
+        {"judul": "Dividend Information (riwayat pembayaran dividen)", "url": "https://www.itmg.co.id/investor/dividend-information", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jenis": "Buyback",
+      "judul": "Program buyback baru hingga Rp2.311 miliar tanpa RUPS",
+      "ringkasan": "Setelah periode program buyback sebelumnya berakhir, perseroan mengumumkan program baru dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023), tanpa persetujuan RUPS. Periode 5 November 2026 sampai 4 Februari 2027, nilai maksimal Rp2.311 miliar (sekitar USD127,3 juta) dari kas internal. Total saham treasuri tidak akan melebihi 20% modal disetor. Sejak Oktober 2026 hingga tanggal laporan keuangan, perseroan telah membeli 21.253.000 saham senilai Rp531,6 miliar.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian Interim 9M26 (Catatan 36 Kejadian Setelah Periode Pelaporan)", "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim; tidak disertai laporan auditor)",
+    "pos": {
+      "aset": [2529097, 2406063],
+      "pendapatan": [1601424, 1369216],
+      "beban_usaha": [177165, 147089],
+      "laba_bersih": [162930, 130586],
+      "liabilitas": [620091, 497732]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (134.776; 2025: 120.099) + beban umum dan administrasi (42.389; 2025: 26.990). Beban pokok pendapatan, beban keuangan, dan lain-lain tidak termasuk. Dokumen tidak memuat laporan auditor/reviu; status audit tidak dinyatakan tegas.",
+    "sumber": [
+      {"judul": "ITM Consolidated Financial Statements 9M26", "url": "https://www.itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%209M26.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Pengunduran diri",
+      "nama": "Prof. Djoko Wintoro, PhD",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sebagai Komisaris Independen.",
+      "sumber": [{"judul": "Siaran pers ITM, 17 April 2026", "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Pengangkatan",
+      "nama": "Gede Harja Wasistha",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Tahunan menggantikan Prof. Djoko Wintoro, efektif sejak rapat ditutup.",
+      "sumber": [{"judul": "Siaran pers ITM, 17 April 2026", "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan efektif sejak penutupan RUPS Tahunan: Komisaris Utama dan Komisaris Independen Prof. Djisman Simandjuntak; Direktur Utama Mulianto. Dewan Komisaris berisi 10 orang dan Direksi 9 orang.",
+      "sumber": [{"judul": "Siaran pers ITM, 17 April 2026", "url": "https://www.itmg.co.id/files/media/SIARAN%20PERS%20-%20ITM%20Tetapkan%20Total%20Dividen%20Tunai%202025.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

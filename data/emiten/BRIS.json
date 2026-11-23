@@ -1,0 +1,11 @@
+{
+  "kode": "BRIS",
+  "nama": "Bank Syariah Indonesia (Persero) Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://ir.bankbsi.co.id/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi ir.bankbsi.co.id dan www.bankbsi.co.id membalas HTTP 403 dengan halaman proteksi Incapsula (Imperva) untuk permintaan curl dengan user-agent jujur pada 23 November 2026. Sesuai panduan, pengambilan data dihentikan tanpa upaya menembus proteksi; tidak ada data yang dicatat agar tidak memakai sumber selain situs resmi.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

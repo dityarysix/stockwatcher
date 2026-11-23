@@ -1,0 +1,55 @@
+{
+  "kode": "NCKL",
+  "nama": "Trimegah Bangun Persada Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://tbpnickel.com/id/investor",
+  "status_data": "lengkap",
+  "catatan": "Halaman haritanickel.com/id/investor menampilkan halaman tunggu/anti-bot ('One moment, please...'), jadi tidak diteruskan. Data diambil dari tbpnickel.com/id/investor (domain resmi Perseroan yang dapat diakses biasa) dan dokumen di api.tbpnickel.com. Beberapa keterbukaan berupa hasil pindaian (tanpa teks), dibaca dari gambar halamannya: transaksi afiliasi entitas asosiasi PT Obi Nickel Cobalt (ONC) dengan PT Agrinas Palma Nusantara untuk survei geolistrik/MASW TSF Obi-3 senilai Rp1,9 miliar (11 Februari 2026) dan jasa konsultansi/desain TSF Obi-3 senilai Rp2,11 miliar (18 Maret 2026); keduanya kecil dan tidak dimasukkan sebagai aksi korporasi. Pada 31 Maret 2026 Perseroan memohon penundaan penyampaian laporan keuangan audit 2025 ke OJK karena proses audit belum selesai (laporan auditor akhirnya bertanggal 25 Mei 2026). Tidak ditemukan perubahan direksi/komisaris sepanjang 2026 di situs; RUPS Tahunan 30 Juni 2026 tidak memiliki mata acara perubahan pengurus.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp42,64 per saham (total Rp2,69 triliun)",
+      "ringkasan": "RUPS Tahunan menetapkan dividen Rp42,64 per saham, total Rp2.685,8 miliar untuk 62.987.866.700 saham beredar (di luar saham treasuri), serta cadangan wajib Rp18 miliar. Cum dividen pasar reguler 8 Juli 2026, recording date 10 Juli 2026, pembayaran 31 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT Trimegah Bangun Persada Tbk 30 Juni 2026 (Agenda Ketiga dan jadwal dividen)", "url": "https://api.tbpnickel.com/storage/images/PDF/RUPS/2026/Summary%20Minutes%20of%20AGMS%2030%20June%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Buyback",
+      "judul": "Lanjutan pembelian kembali saham hingga Rp1 triliun",
+      "ringkasan": "Rencana diumumkan lewat keterbukaan informasi 22 Mei 2026, lalu disetujui RUPS Tahunan 30 Juni 2026: buyback saham dari publik maksimal Rp1 triliun (termasuk biaya perantara) dalam 12 bulan sejak rapat. Per tanggal RUPS, Perseroan sudah menguasai 110.733.300 saham treasuri.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Pembelian Kembali Saham 2026 (22 Mei 2026)", "url": "https://api.tbpnickel.com/storage/images/PDF/keterbukaan%20informasi/2026/Disclosure%20of%20Information%20on%20Buyback%202026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026 (Agenda Keenam)", "url": "https://api.tbpnickel.com/storage/images/PDF/RUPS/2026/Summary%20Minutes%20of%20AGMS%2030%20June%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [73647451, 61770103],
+      "pendapatan": [26868299, 22402580],
+      "beban_usaha": [1045937, 929913],
+      "laba_bersih": [8689913, 6446724],
+      "liabilitas": [17658650, 15014238]
+    },
+    "label": {
+      "pendapatan": "Pendapatan dari kontrak dengan pelanggan",
+      "beban_usaha": "Beban penjualan, umum, dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan menyajikan beban penjualan, umum, dan administrasi sebagai satu pos. Laba periode berjalan total (termasuk kepentingan nonpengendali) Rp9.150.454 juta (2025: Rp8.003.334 juta); bagian laba entitas asosiasi Rp4.445.597 juta.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT Trimegah Bangun Persada Tbk 30 September 2026", "url": "https://api.tbpnickel.com/storage/images/investor/laporan%20keuangan/Trimegah%20Bangun%20Persada%20Tbk%20Laporan%20Keuangan%2030%20Sep%202026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

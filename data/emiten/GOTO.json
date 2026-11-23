@@ -1,0 +1,172 @@
+{
+  "kode": "GOTO",
+  "nama": "GoTo Gojek Tokopedia Tbk",
+  "sektor": "Teknologi",
+  "situs_resmi": "https://www.gotocompany.com/investor-relations",
+  "status_data": "lengkap",
+  "catatan": "Dokumen diunduh dari content.goinfra.co.id, CDN dokumen yang ditautkan langsung dari halaman Hubungan Investor GoTo. RUPS Tahunan 18 Juni 2026 tidak membahas pembagian dividen.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-18",
+      "jenis": "Buyback",
+      "judul": "Pembelian kembali saham 2026-2027 hingga Rp3,5 triliun",
+      "ringkasan": "Rencana buyback diumumkan lewat keterbukaan informasi 11 Mei 2026 (dengan tambahan informasi 15 Juni 2026), lalu disetujui RUPSLB 18 Juni 2026. Dana maksimal Rp3,5 triliun, dengan periode pembelian 19 Juni 2026 sampai 18 Juni 2027.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi rencana pembelian kembali saham, 11 Mei 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-05-11/Keterbukaan%20Informasi%2011052026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Tambahan Informasi atas Keterbukaan Informasi pembelian kembali saham, 15 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-15/Revisi%20Keterbukaan%20Informasi%2015%20Juni%202026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Informasi/Fakta Material perubahan Dewan Komisaris dan persetujuan pembelian kembali saham, 18 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-18/GOTO%20-%20Informasi%20Fakta%20Material%20perubahan%20Dewan%20Komisaris%20Perseroan%20dan%20Persetujuan%20Pembelian%20Kembali%20Saham.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-18",
+      "jenis": "Lainnya",
+      "judul": "Persetujuan ulang penerbitan saham baru untuk Program Kepemilikan Saham",
+      "ringkasan": "RUPSLB memperbarui persetujuan penerbitan saham baru sebanyak-banyaknya 1,5% dari modal ditempatkan dan disetor bagi direksi, komisaris, dan karyawan Perseroan serta anak usaha melalui Program Kepemilikan Saham. RUPSLB juga menyetujui perubahan anggaran dasar terkait program ini dan penyesuaian Pasal 3 (maksud dan tujuan) dengan KBLI 2025.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-14",
+      "jenis": "Lainnya",
+      "judul": "Pengurangan modal lewat penarikan 32,19 miliar saham treasuri",
+      "ringkasan": "RUPSLB 14 Oktober 2026 menyetujui penarikan 32.186.417.803 saham Seri A hasil buyback periode 12 Juni 2024 sampai 11 Juni 2025. Modal ditempatkan dan disetor turun menjadi 1.158.958.579.417 saham, dan Pasal 4 ayat (2) anggaran dasar diubah.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        48562884,
+        45757642
+      ],
+      "pendapatan": [
+        16549006,
+        13295481
+      ],
+      "beban_usaha": [
+        9131183,
+        7885511
+      ],
+      "laba_bersih": [
+        1164528,
+        -775550
+      ],
+      "liabilitas": [
+        19110473,
+        17045985
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Beban usaha di luar beban pokok pendapatan (umum & administrasi, penjualan & pemasaran, pengembangan produk, operasional & pendukung, penyusutan & amortisasi)",
+      "laba_bersih": "Laba/(rugi) periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "GoTo tidak menyajikan pos 'beban usaha' tersendiri. Angka beban_usaha adalah jumlah biaya dan beban (Rp15.415.750 juta; 2025: Rp13.517.850 juta) dikurangi beban pokok pendapatan (Rp6.284.567 juta; 2025: Rp5.632.339 juta). Laba periode berjalan total Rp864.173 juta (2025: rugi Rp996.975 juta).",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (tidak diaudit)",
+        "url": "https://content.goinfra.co.id/asts/InvestorRelation/FinancialInformation/2026-10-29/LKFS%2030%20Sep%202026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-18",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "RUPSLB mengangkat kembali Agus D.W. Martowardojo sebagai Komisaris Utama, Marjorie Tiu Lao sebagai Komisaris Independen, dan Santoso Kartono sebagai Komisaris karena masa jabatan mereka berakhir. Tidak ada pergantian orang. Komisaris Utama: Agus D.W. Martowardojo. Direktur Utama: Hans Patuwo. Wakil Direktur Utama: Catherine Hindra Sutjahyo.",
+      "sumber": [
+        {
+          "judul": "Informasi/Fakta Material perubahan Dewan Komisaris dan persetujuan pembelian kembali saham, 18 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-06-18/GOTO%20-%20Informasi%20Fakta%20Material%20perubahan%20Dewan%20Komisaris%20Perseroan%20dan%20Persetujuan%20Pembelian%20Kembali%20Saham.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa 18 Juni 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-06-19/Ringkasan%20Risalah%20EGMS.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-08-28",
+      "jenis": "Pengunduran diri",
+      "nama": "Catherine Hindra Sutjahyo",
+      "jabatan": "Wakil Direktur Utama",
+      "ringkasan": "Perseroan menerima surat pengunduran diri pada 28 Agustus 2026 dengan alasan pribadi/keluarga. RUPSLB 14 Oktober 2026 menyetujuinya, berlaku sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Laporan Informasi atau Fakta Material, 28 Agustus 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-08-28/Laporan%20Informasi%20atau%20Fakta%20Material%2028082026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan Informasi atau Fakta Material, 14 Oktober 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-10-14/Laporan%20Informasi%20atau%20Fakta%20Material%2014102026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-14",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB: Komisaris Utama Agus D.W. Martowardojo, Direktur Utama Hans Patuwo. Posisi Wakil Direktur Utama tidak lagi ada. Direksi beranggotakan enam orang: Hans Patuwo, Simon Tak Leung Ho, Sudhanshu Raheja, R.A. Koesoemohadiani, Wuzhen (William) Xiong, dan Monica Lynn Mulyanto.",
+      "sumber": [
+        {
+          "judul": "Laporan Informasi atau Fakta Material, 14 Oktober 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/Disclosure/2026-10-14/Laporan%20Informasi%20atau%20Fakta%20Material%2014102026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Ringkasan Risalah RUPSLB 14 Oktober 2026",
+          "url": "https://content.goinfra.co.id/asts/InvestorRelation/GMS/2026-10-19/Ringkasan%20Risalah%20RUPSLB%20Oktober%202026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kode": "MEDC",
+  "nama": "Medco Energi Internasional Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://www.medcoenergi.com/en/investors/overview/",
+  "status_data": "lengkap",
+  "catatan": "Laporan keuangan 30 September 2026 belum diunggah di halaman Financial Statement (terbaru 1H26, diunggah 21 September 2026), sehingga dipakai laporan 30 Juni 2026 yang diaudit. Ringkasan risalah RUPST yang diunggah hanya versi bahasa Inggris. Rencana akuisisi 10% PI di empat PSC Kutei Basin dari Eni hanya bersumber dari siaran pers (nilai transaksi tidak disebut). Penandatanganan PSC/blok baru dan perjanjian jual beli gas tidak dimasukkan sebagai aksi korporasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-28",
+      "jenis": "Lainnya",
+      "judul": "Rencana pengalihan 150 juta saham treasuri hasil buyback untuk program kepemilikan saham",
+      "ringkasan": "Perseroan mengumumkan rencana mengalihkan 150.000.000 saham dari buyback 2025 (bagian dari 455.609.908 saham treasuri, 1,81% modal) melalui program kepemilikan saham karyawan/manajemen. Disetujui RUPS Tahunan 4 Juni 2026 (Mata Acara Keenam).",
+      "sumber": [
+        {"judul": "Disclosure of Information to Shareholders in Relation to the Transfer of Shares Resulting from the Share Buyback (28 April 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/532/English%20Keterbukaan%20Informasi%20(English)%20Medco%20Pengalihan%20Saham%20Buyback%20(RUPST%202026)%20(v2)%20clean%2022-30.pdf", "diakses": "2026-11-23"},
+        {"judul": "Summary of AGMS Resolutions and Cash Dividend Distribution Schedule (5 Juni 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: US$45 juta (US$0,0018 atau Rp32,2520 per saham)",
+      "ringkasan": "RUPS Tahunan menetapkan total dividen tahun buku 2025 US$87 juta (86,20% dari laba US$100.923.998), termasuk interim US$42 juta yang dibayar 28 November 2025, sehingga sisa dividen final US$45 juta atau US$0,0018 per saham. Dengan kurs BI 17 Juni 2026 (Rp17.719) setara Rp32,2520 per saham. Cum pasar reguler 12 Juni 2026, recording date 17 Juni 2026, pembayaran 3 Juli 2026.",
+      "sumber": [
+        {"judul": "Summary of AGMS Resolutions and Cash Dividend Distribution Schedule (5 Juni 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pengumuman Kurs Tengah Dividen Final 2025 (18 Juni 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Pengumuman%20Kurs%20Tengah%20Dividen%20Final%202025.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-09",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Pelunasan dipercepat (call option) Obligasi Berkelanjutan V Tahap I 2023 Seri B senilai Rp260 miliar",
+      "ringkasan": "Perseroan menggunakan opsi beli atas seluruh Seri B dengan pokok Rp260 miliar pada 7 Juli 2026; dana yang dipakai Rp274,235 miliar termasuk bunga berjalan.",
+      "sumber": [{"judul": "Call Option Result IDR Bonds V Phase I B (9 Juli 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Call%20Option%20Result%20IDR%20Bonds%20V%20Phase%20I%20B.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-10-12",
+      "jenis": "Akuisisi",
+      "judul": "Rencana akuisisi 10% participating interest di empat PSC Kutei Basin dari Eni",
+      "ringkasan": "MedcoEnergi mencapai kesepakatan dengan Eni S.p.A. untuk membeli 10% participating interest non-operator di empat PSC di Cekungan Kutei, Kalimantan Timur. Nilai transaksi tidak diungkapkan dalam siaran pers.",
+      "sumber": [{"judul": "Press Release: MedcoEnergi to Acquire 10% Participating Interest in Kutei Basin PSCs from Eni (12 Oktober 2026)", "url": "https://www.medcoenergi.com/uploads/pressreleases/551/Press%20Release_MedcoEnergi%20to%20Acquire%20Participating%20Interest%20in%20Kutei%20Basin%20PSCs%20from%20Eni_VF.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-11-02",
+      "jenis": "Dividen",
+      "judul": "Dividen interim tahun buku 2026: US$30 juta (US$0,0012 atau Rp22,0252 per saham)",
+      "ringkasan": "Dewan Komisaris dan Direksi memutuskan dividen interim US$30 juta. Recording date 12 November 2026; dengan kurs BI Rp18.154 setara Rp22,0252 per saham; pembayaran paling lambat 2 Desember 2026.",
+      "sumber": [
+        {"judul": "2026 Interim Dividend Announcement (2 November 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/2026%20Interim%20Dividen%20Announcement_ENG_021126.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pengumuman Kurs Tengah Dividen Interim 2026 (13 November 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Pengumuman%20Kurs%20Tengah%20Dividen%20Interim%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Penerbitan surat utang US$300 juta bunga 8,875% jatuh tempo 2032",
+      "ringkasan": "Anak usaha Medco Redwood Tree Limited menerbitkan notes US$300.000.000 berbunga 8,875% jatuh tempo 2032 pada 17 November 2026, dijamin Perseroan. Dana antara lain untuk melunasi utang termasuk Senior Notes jatuh tempo 2028.",
+      "sumber": [
+        {"judul": "Report on Material Information of Facts Related to Bond Issuance of US$300 million (18 November 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/POJK%2031%20-%20MEDC%20Menerbitkan%20Surat%20Utang%20USD%20300juta.pdf", "diakses": "2026-11-23"},
+        {"judul": "Press Release: MedcoEnergi Announces Successful US$300 Million Bond Issuance Due 2032", "url": "https://www.medcoenergi.com/uploads/pressreleases/551/Press%20Release_MedcoEnergi%20Issues%20US$300%20Million%20Bond.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian interim); kolom 30 Juni 2025 tidak diaudit",
+    "pos": {
+      "aset": [9033306792, 8362663065],
+      "pendapatan": [1385469169, 1123001948],
+      "beban_usaha": [120034326, 98570572],
+      "laba_bersih": [275317089, 30706678],
+      "liabilitas": [6504465585, 6002551559]
+    },
+    "label": {
+      "pendapatan": "Pendapatan dari kontrak dengan pelanggan",
+      "beban_usaha": "Beban penjualan, umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Pendapatan memakai pos 'Pendapatan dari kontrak dengan pelanggan' (operasi yang dilanjutkan), tidak termasuk pendapatan keuangan; jumlah pendapatan termasuk pendapatan keuangan adalah US$1.414.745.271 (2025: US$1.146.915.832). Laporan Q3 2026 belum tersedia di situs.",
+    "sumber": [{"judul": "MedcoEnergi Financial Statement 1H26 (laporan keuangan konsolidasian interim auditan 30 Juni 2026)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf", "diakses": "2026-11-23"}]
+  },
+  "perubahan_manajemen": [
+    {"tanggal": "2026-06-04", "jenis": "Pemberhentian", "nama": "Anthony Robert Mathias", "jabatan": "Direktur", "ringkasan": "Diberhentikan dengan hormat dari jabatan Direktur oleh RUPS Tahunan, efektif 4 Juni 2026, disertai ucapan terima kasih dan pembebasan tanggung jawab.", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]},
+    {"tanggal": "2026-06-04", "jenis": "Perubahan jabatan", "nama": "Roberto Lorato", "jabatan": "Komisaris (sebelumnya Direktur)", "ringkasan": "Diberhentikan dengan hormat sebagai Direktur dan pada rapat yang sama diangkat sebagai Komisaris sampai RUPS Tahunan tahun buku 2030.", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]},
+    {"tanggal": "2026-06-04", "jenis": "Pengangkatan", "nama": "Benny Setiawan", "jabatan": "Direktur", "ringkasan": "Diangkat sebagai Direktur sampai RUPS Tahunan tahun buku 2030 (diselenggarakan 2031).", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]},
+    {"tanggal": "2026-06-04", "jenis": "Pengangkatan", "nama": "Sanjeev Bansal", "jabatan": "Direktur", "ringkasan": "Diangkat sebagai Direktur sampai RUPS Tahunan tahun buku 2030 (diselenggarakan 2031).", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]},
+    {"tanggal": "2026-06-04", "jenis": "Pengangkatan", "nama": "Royke Tumilaar", "jabatan": "Komisaris Independen", "ringkasan": "Diangkat sebagai Komisaris Independen sampai RUPS Tahunan tahun buku 2030.", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]},
+    {"tanggal": "2026-06-04", "jenis": "Susunan baru", "nama": "Dewan Komisaris dan Direksi", "jabatan": "Seluruh pengurus", "ringkasan": "Berlaku sampai RUPS Tahunan tahun buku 2030. Presiden Komisaris: Yani Y. Panigoro; Komisaris: Yaser Raimi Panigoro, Roberto Lorato; Komisaris Independen: Marsillam Simandjuntak, Royke Tumilaar. Presiden Direktur: Hilmi Panigoro (diangkat kembali); Direktur: Ronald Gunawan, Amri Siahaan (diangkat kembali), Benny Setiawan, Sanjeev Bansal.", "sumber": [{"judul": "Summary of AGMS Resolutions (Mata Acara Keempat)", "url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf", "diakses": "2026-11-23"}]}
+  ]
+}

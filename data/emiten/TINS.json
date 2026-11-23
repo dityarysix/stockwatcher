@@ -1,0 +1,110 @@
+{
+  "kode": "TINS",
+  "nama": "Timah (Persero) Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://timah.com/blog/general/investor-relations.html",
+  "status_data": "lengkap",
+  "catatan": "Sumber dari timah.com (Information Disclosure, RUPS Tahunan Tahun Buku 2025, Financial Report). Penyampaian perubahan Anggaran Dasar (Akta No. 16 tanggal 14 Januari 2026, disampaikan 13 Februari 2026) merupakan tindak lanjut RUPSLB Desember 2025 sehingga tidak dicatat sebagai aksi korporasi baru. Fasilitas pinjaman jangka pendek Bank Mandiri dengan limit Rp50 miliar (6 Juli 2026, Perseroan sebagai co-borrower MIND ID) juga tidak dimasukkan karena nilainya kecil. Dokumen laporan keuangan Q3 tidak memuat laporan auditor; status 'tidak diaudit' disimpulkan dari sifatnya sebagai laporan interim.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp88,189 per saham (total Rp656,8 miliar)",
+      "ringkasan": "RUPS Tahunan 12 Juni 2026 menetapkan 50% laba bersih 2025 (Rp1,31 triliun), yaitu Rp656,8 miliar, sebagai dividen tunai, setara indikasi Rp88,189 per saham. Sisa 50% menjadi saldo laba ditahan. Cum dividen pasar reguler 23 Juni 2026, recording date 25 Juni 2026, pembayaran 10 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Kedua) dan jadwal dividen", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"},
+        {"judul": "Jadwal dan Tata Cara Pembagian Dividen PT TIMAH (15 Juni 2026)", "url": "https://timah.com/userfiles/post/2606176A320DAF4B57D.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Lainnya",
+      "judul": "RUPS Tahunan menyetujui perubahan Anggaran Dasar",
+      "ringkasan": "RUPS Tahunan menyetujui perubahan Pasal 3 Anggaran Dasar (maksud, tujuan, dan kegiatan usaha) untuk penyesuaian KBLI 2025, serta mendelegasikan persetujuan RJPP 2026-2030 dan RKAP 2027 kepada Dewan Komisaris dengan persetujuan tertulis Pemegang Saham Seri B Terbanyak.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Kelima dan Keenam)", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-20",
+      "jenis": "Lainnya",
+      "judul": "Fasilitas kredit talangan DHE-SDA dari Bank Mandiri hingga Rp4 triliun",
+      "ringkasan": "Penandatanganan fasilitas kredit talangan Devisa Hasil Ekspor Sumber Daya Alam dengan Bank Mandiri, limit maksimal Rp4 triliun, untuk keperluan umum termasuk modal kerja terkait kewajiban penempatan DHE-SDA. Fasilitas revolving 12 bulan; tiap penarikan bertenor 3 sampai 12 bulan.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material: Penandatanganan Fasilitas Kredit DHE-SDA dengan Bank Mandiri (20 Oktober 2026)", "url": "https://timah.com/userfiles/post/2610216AD8AA2FE6A41.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [17258212, 13643395],
+      "pendapatan": [16149278, 6607740],
+      "beban_usaha": [948702, 657044],
+      "laba_bersih": [4121355, 602420],
+      "liabilitas": [5285877, 5234656]
+    },
+    "label": {
+      "pendapatan": "Pendapatan dari kontrak dengan pelanggan",
+      "beban_usaha": "Beban umum dan administrasi + beban penjualan",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha 2026 = beban umum dan administrasi 883.165 + beban penjualan 65.537; 2025 = 610.699 + 46.345.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT TIMAH 30 September 2026", "url": "https://timah.com/userfiles/post/2611106AF28CB9DB361.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-20",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Suhendra Yusuf Ratuprawiranegara",
+      "jabatan": "Direktur Pengembangan Usaha",
+      "ringkasan": "Tidak lagi menjabat sejak 20 April 2026 karena diangkat sebagai direktur di PT Pelindo Jasa Maritim; pemberitahuan diterima Perseroan 21 April 2026. RUPS Tahunan 12 Juni 2026 mengukuhkan pemberhentiannya dengan hormat terhitung 20 April 2026.",
+      "sumber": [
+        {"judul": "Laporan Informasi: Pemberitahuan berakhirnya masa jabatan Direktur Pengembangan Usaha (21 April 2026)", "url": "https://timah.com/userfiles/post/25101668F074006095C.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-23",
+      "jenis": "Perubahan jabatan",
+      "nama": "Harry Budi Sidharta",
+      "jabatan": "Wakil Direktur Utama, Plt. Direktur Pengembangan Usaha",
+      "ringkasan": "Dewan Komisaris menunjuk Wakil Direktur Utama Harry Budi Sidharta sebagai Pelaksana Tugas Sementara Direktur Pengembangan Usaha sampai ada pejabat definitif.",
+      "sumber": [
+        {"judul": "Laporan Informasi: Penunjukan Plt. Direktur Pengembangan Usaha (23 April 2026)", "url": "https://timah.com/userfiles/post/26042369E9F0AF1C7BC.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Perubahan jabatan",
+      "nama": "Harry Budi Sidharta",
+      "jabatan": "Direktur Strategi Korporasi dan Pengembangan Usaha (sebelumnya Wakil Direktur Utama)",
+      "ringkasan": "RUPS Tahunan menghapus jabatan Wakil Direktur Utama dan mengalihkan tugas Harry Budi Sidharta menjadi Direktur Strategi Korporasi dan Pengembangan Usaha untuk sisa masa jabatan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Perubahan jabatan",
+      "nama": "Ratih Mayasari",
+      "jabatan": "Direktur Sumber Daya Manusia dan Transformasi Korporasi (sebelumnya Direktur Sumber Daya Manusia)",
+      "ringkasan": "Perubahan nomenklatur dan pengalihan tugas oleh RUPS Tahunan, melanjutkan sisa masa jabatan.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan setelah RUPS Tahunan. Komisaris Utama (Independen): Agus Rohman. Direktur Utama: Restu Widiyantoro. Direksi lain: Harry Budi Sidharta, Fina Eliani (Keuangan & Manajemen Risiko), Handy Geniardi (Operasi), Ilhamsyah (Produksi dan Komersial), Ratih Mayasari. Komisaris: Yuslih Ihza, Rizani Usman, M. Hita Tunggal, Eniya Listiani Dewi.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan PT TIMAH Tahun Buku 2025 (Mata Acara Ketujuh)", "url": "https://timah.com/userfiles/post/2606156A301F773ECF6.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

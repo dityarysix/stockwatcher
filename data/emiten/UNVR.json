@@ -1,0 +1,11 @@
+{
+  "kode": "UNVR",
+  "nama": "Unilever Indonesia Tbk",
+  "sektor": "Barang konsumsi",
+  "situs_resmi": "https://www.unilever.co.id/investor/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Seluruh permintaan ke www.unilever.co.id (beranda, halaman investor, dan PDF laporan keuangan Q3 2026 di /files/financial-statements-quarter-3-2026.pdf) dibalas 403 Access Denied oleh CDN (Akamai) pada 23 November 2026. Sesuai panduan, proteksi tidak ditembus dan tidak dicari jalur lain. Pencarian web menunjukkan laporan keuangan interim Q1, Q2, dan Q3 2026 tersedia di situs tersebut, tetapi isinya tidak dapat diverifikasi sehingga tidak ada angka yang dicatat.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

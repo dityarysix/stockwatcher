@@ -1,0 +1,103 @@
+{
+  "kode": "ADRO",
+  "nama": "Alamtri Resources Indonesia Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://www.alamtri.com/pages/read/8/30/Information%20Disclosure",
+  "status_data": "lengkap",
+  "catatan": "Sumber dari alamtri.com (Information Disclosure, AGMs and EGMs, Kinerja Perusahaan). Dokumen yang dipakai adalah versi bahasa Inggris yang tersedia di situs. Domain lama adaro.com sedang 'Under Maintenance'. Dividen interim tahun buku 2025 diumumkan Desember 2025 sehingga tidak dicatat sebagai entri tersendiri; kurs konversinya (Rp16.720/US$, setara Rp145,14 per saham) diumumkan 2 Januari 2026. Dokumen laporan keuangan Q3 tidak memuat laporan auditor; dianggap tidak diaudit sebagai laporan interim. Tidak ditemukan perubahan direksi/komisaris sepanjang 2026; RUPS Tahunan 17 April 2026 tidak memiliki mata acara perubahan pengurus.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Buyback",
+      "judul": "Penghentian buyback 2025",
+      "ringkasan": "Perseroan menghentikan pelaksanaan buyback berdasarkan persetujuan RUPS Tahunan 2 Juni 2025 (periode semula sampai 2 Juni 2026) agar tidak tumpang tindih dengan program buyback baru yang diajukan ke RUPS Tahunan 17 April 2026.",
+      "sumber": [
+        {"judul": "Penghentian Pembelian Kembali Saham PT Alamtri Resources Indonesia Tbk (16 April 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2358/ADRO-Penghentian%20Pembelian%20Kembali%20Saham%202025_eng.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: total US$447,5 juta; final US$197,5 juta (Rp118,26 per saham)",
+      "ringkasan": "RUPS Tahunan menetapkan US$447,5 juta (99,96% laba bersih 2025 US$447,69 juta) sebagai dividen tunai, termasuk US$250 juta dividen interim yang sudah dibayar. Sisa US$197,5 juta dibagikan sebagai dividen final. Dengan kurs BI Rp17.245/US$ pada recording date, dividen final setara Rp3,41 triliun atau Rp118,26 per saham. Cum dividen pasar reguler 27 April 2026, recording date 29 April 2026, pembayaran 8 Mei 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 2026 (Mata Acara Kedua dan jadwal dividen final)", "url": "https://www.alamtri.com/files/news/berkas_eng/2359/ADRO-Ringkasan%20Risalah%20RUPST%202026_english.pdf", "diakses": "2026-11-23"},
+        {"judul": "Kurs Konversi Dividen Tunai Final TB2025 (29 April 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2360/ADRO_KI%20Kurs%20Dividen%20Tunai%20Final%20TB2025_english.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Buyback",
+      "judul": "Buyback saham 2026 hingga Rp5 triliun",
+      "ringkasan": "Rencana diumumkan 11 Maret 2026 (semula maksimal Rp4 triliun), direvisi 2 April 2026 menjadi maksimal Rp5 triliun, lalu disetujui RUPS Tahunan 17 April 2026. Periode pelaksanaan paling lama 12 bulan sejak 18 April 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Pembelian Kembali Saham (11 Maret 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2350/ADRO_KI%20Rencana%20Pembelian%20Kembali%20Saham%20Perseroan_English.pdf", "diakses": "2026-11-23"},
+        {"judul": "Perubahan Informasi Rencana Buyback Saham (2 April 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2357/ADRO_Perubahan%20Informasi%20Rencana%20Buyback%20Saham_Eng.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPS Tahunan 2026 (Mata Acara Keenam)", "url": "https://www.alamtri.com/files/news/berkas_eng/2359/ADRO-Ringkasan%20Risalah%20RUPST%202026_english.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-17",
+      "jenis": "Lainnya",
+      "judul": "Pengurangan modal: penarikan 589,2 juta saham hasil buyback",
+      "ringkasan": "RUPS Tahunan menyetujui pengurangan modal ditempatkan dan disetor dengan menarik seluruh 589.195.200 saham hasil buyback (berdasarkan POJK 13 dan RUPS Tahunan 2025), sehingga modal ditempatkan menjadi 28.800.494.200 saham. RUPS juga menyetujui penyesuaian Pasal 3 Anggaran Dasar dengan KBLI 2025.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 2026 (Mata Acara Kelima dan Ketujuh)", "url": "https://www.alamtri.com/files/news/berkas_eng/2359/ADRO-Ringkasan%20Risalah%20RUPST%202026_english.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Lainnya",
+      "judul": "Transaksi afiliasi: amandemen pinjaman AREI kepada BSS hingga Rp300 miliar",
+      "ringkasan": "Anak usaha PT Alamtri Renewables Indonesia menambah limit kredit Tranche B kepada PT Batam Sarana Surya (65,17% dimiliki grup) hingga Rp300 miliar, bunga tetap 6,5%, jatuh tempo diubah menjadi 31 Desember 2031. Diungkapkan 2 Juli 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Transaksi Afiliasi Amandemen Perjanjian Pinjaman AREI - BSS (2 Juli 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2362/ADRO_Keterbukaan%20Informasi_AREI-BSS_English.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-02",
+      "jenis": "Lainnya",
+      "judul": "Transaksi afiliasi: jaminan Perseroan untuk transaksi lindung nilai KAI hingga US$100 juta",
+      "ringkasan": "Perseroan memberikan jaminan atas kewajiban PT Kalimantan Aluminium Industry (55,26% dimiliki tidak langsung) berdasarkan perjanjian lindung nilai, dengan nilai maksimal US$100 juta.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Transaksi Afiliasi Pemberian Jaminan AlamTri - KAI (2 Juli 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2363/ADRO_Keterbukaan%20Informasi_AlamTri%20-%20KAI_English.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-10",
+      "jenis": "Lainnya",
+      "judul": "PT Adaro Strategic Investments mengalihkan seluruh 48,77% sahamnya, tanpa perubahan pengendali",
+      "ringkasan": "ASI mengalihkan seluruh kepemilikannya (48,7680%) melalui pasar negosiasi kepada PT Trinugraha Thohir (9,1358%), PT Saratoga Investama Sedaya Tbk (12,7776%), PT Persada Capital Investama (12,2255%), dan PT Triputra Investindo Arya (14,6291%). Perseroan menyatakan tidak ada perubahan pengendali. Sebelumnya, 2 November 2026, Perseroan menegaskan informasi pengendali dan pemilik manfaat atas permintaan OJK.",
+      "sumber": [
+        {"judul": "Informasi atau Fakta Material: pengalihan saham pemegang saham tanpa perubahan pengendali (10 November 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2373/ADRO_Material%20Information%20and%20Facts%2010%20Nov%202026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi Penegasan Informasi Pengendali Perseroan (2 November 2026)", "url": "https://www.alamtri.com/files/news/berkas_eng/2371/ADRO_KI%20Penegasan%20Informasi%20Pengendali%20Perseroan_en.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [8188614, 6816993],
+      "pendapatan": [1901504, 1348178],
+      "beban_usaha": [94950, 87380],
+      "laba_bersih": [516555, 301590],
+      "liabilitas": [2575613, 1813040]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha diambil langsung dari pos 'Beban usaha'. Laba periode berjalan total (termasuk kepentingan nonpengendali) US$606.651 ribu (2025: US$332.515 ribu).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT Alamtri Resources Indonesia Tbk 30 September 2026", "url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

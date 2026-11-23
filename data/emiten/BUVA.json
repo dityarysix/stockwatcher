@@ -1,0 +1,71 @@
+{
+  "kode": "BUVA",
+  "nama": "Bukit Uluwatu Villa Tbk",
+  "sektor": "Properti & pariwisata",
+  "situs_resmi": "https://buvagroup.com/investor-relations/",
+  "status_data": "sebagian",
+  "catatan": "Domain bukituluwatuvilla.com tidak dapat dijangkau (proxy 502); situs resmi yang aktif adalah buvagroup.com. Satu dokumen, 'KI Afiliasi Jual Beli Lahan BBP-EPMS' (diunggah April 2026), dilindungi halaman challenge (memuat ulang otomatis) sehingga tidak diunduh dan transaksi afiliasi itu tidak dicatat. RUPS Tahunan 11 Juni 2026 memutuskan tidak membagikan dividen: laba bersih 2025 Rp99,75 miliar seluruhnya untuk operasional. Laporan 30 September 2026 tidak menyebut status audit di halaman judul; diasumsikan tidak diaudit karena tidak ada laporan auditor di dokumen.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-26",
+      "jenis": "Rights issue",
+      "judul": "PMHMETD II: 6,15 miliar saham baru pada Rp250, dana Rp1,54 triliun",
+      "ringkasan": "RUPSLB 26 Februari 2026 menyetujui PMHMETD II hingga 50 miliar saham baru bernominal Rp50. Pelaksanaannya: 6.154.263.660 saham baru (sekitar 20% modal setelah PMHMETD II) dengan rasio 4 saham lama mendapat 1 HMETD, harga pelaksanaan Rp250, dana Rp1,54 triliun. Pernyataan pendaftaran efektif 5 Oktober 2026, recording date 14 Oktober 2026, perdagangan dan pelaksanaan HMETD 19 sampai 30 Oktober 2026. Pengendali PT Nusantara Utama Investama melaksanakan sebagian HMETD dan ada empat pembeli siaga. Sebagian dana untuk pengambilalihan PT Royal Uluwatu Residence melalui entitas anak.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB BUVA 26 Februari 2026 (Mata Acara Pertama)", "url": "https://buvagroup.com/wp-content/uploads/2026/03/BUVA_Ringkasan-Risalah-RUPSLB_26022026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Tambahan dan/atau perubahan Informasi PMHMETD II, 5 Oktober 2026", "url": "https://buvagroup.com/wp-content/uploads/2026/10/BUVA-Informasi-HMETD-05102026-vf.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [2747755091132, 2706316948281],
+      "pendapatan": [315746279312, 288708143823],
+      "beban_usaha": [148990934254, 140961864808],
+      "laba_bersih": [40571649368, 108582045331],
+      "liabilitas": [558828899671, 556123162834]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban usaha (penjualan, umum dan administrasi, operasional properti/pemeliharaan/energi, manajemen dan lisensi)",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha dijumlahkan dari empat pos di bawah judul 'Beban Usaha': penjualan 19.280.927.031, umum dan administrasi 94.507.552.226, operasional/properti/pemeliharaan/energi 19.762.749.135, manajemen dan lisensi 15.439.705.862. Pendapatan operasional lain tidak dikurangkan. Dana PMHMETD II (Oktober 2026) belum tercermin di neraca 30 September 2026.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian PT Bukit Uluwatu Villa Tbk 30 September 2026", "url": "https://buvagroup.com/wp-content/uploads/2026/11/FS-BUVA-30-September-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-02-26",
+      "jenis": "Pemberhentian",
+      "nama": "Hendry Utomo",
+      "jabatan": "Direktur",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPSLB efektif sejak penutupan rapat, dengan acquit et de charge.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB BUVA 26 Februari 2026 (Mata Acara Kedua)", "url": "https://buvagroup.com/wp-content/uploads/2026/03/BUVA_Ringkasan-Risalah-RUPSLB_26022026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-02-26",
+      "jenis": "Pengangkatan",
+      "nama": "Timothy Eugene Alamsyah",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPSLB menggantikan Hendry Utomo untuk sisa masa jabatan sampai RUPS Tahunan 2028.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB BUVA 26 Februari 2026 (Mata Acara Kedua)", "url": "https://buvagroup.com/wp-content/uploads/2026/03/BUVA_Ringkasan-Risalah-RUPSLB_26022026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-02-26",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB: Komisaris Utama Astini Bernawati Oudang; Direktur Utama Satrio. Direktur: Cindy Budijono dan Timothy Eugene Alamsyah. Masa jabatan sampai RUPS Tahunan 2028.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB BUVA 26 Februari 2026 (Mata Acara Kedua)", "url": "https://buvagroup.com/wp-content/uploads/2026/03/BUVA_Ringkasan-Risalah-RUPSLB_26022026.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

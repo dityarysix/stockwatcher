@@ -1,0 +1,390 @@
+{
+  "kode": "TLKM",
+  "nama": "Telkom Indonesia (Persero) Tbk",
+  "sektor": "Telekomunikasi",
+  "situs_resmi": "https://www.telkom.co.id/sites/hubungan-investor/id_ID",
+  "status_data": "lengkap",
+  "catatan": "Ringkasan risalah RUPST tidak mencantumkan dividen per saham, hanya totalnya. RUPSLB yang direncanakan April 2026 dibatalkan (pengumuman 14 April 2026). Keterbukaan 4 Juni 2026 tentang penetapan seorang komisaris (Wakil Menteri Imigrasi dan Pemasyarakatan) sebagai tersangka oleh KPK tidak menyebut nama; pada hari yang sama RUPST memberhentikan Silmy Karim terhitung 4 Juni 2026, tetapi dokumen tidak menyatakan alasan pemberhentiannya.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-02",
+      "jenis": "Divestasi",
+      "judul": "Pelepasan 100% saham AdMedika kepada Fullerton",
+      "ringkasan": "Pada 2 Juni 2026 TelkomMetra (99,99%) dan MDI (0,01%) menjual seluruh 452.330 saham PT Administrasi Medika (AdMedika) kepada Fullerton Global Assistance & Healthcare Singapore sebagai bagian dari streamlining portofolio non-inti. Nilai transaksi tidak disebutkan.",
+      "sumber": [
+        {
+          "judul": "Pelepasan Seluruh Saham (Divestasi) milik TelkomMetra di AdMedika (3 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780452036849_original_20260603-Pelepasan-Seluruh-Saham-Divestasi-milik-TelkomMetra-di-AdMedika.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025 sebesar Rp22,0 triliun (payout 123,5%)",
+      "ringkasan": "RUPST 8 Juni 2026 menetapkan dividen tunai total Rp21.999.902.180.685. Rinciannya: seluruh laba bersih 2025 sebesar Rp17,81 triliun ditambah Rp4,19 triliun dari saldo laba. Cum dividen pasar reguler 17 Juni 2026, recording date 19 Juni 2026, pembayaran paling lambat 10 Juli 2026.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Buyback",
+      "judul": "Pembelian kembali saham hingga Rp4 triliun",
+      "ringkasan": "Rencana buyback diumumkan 1 Mei 2026 dengan nilai maksimal Rp1 triliun, dinaikkan menjadi Rp4 triliun lewat pengkinian 4 Juni 2026, lalu disetujui RUPST 8 Juni 2026. Periode pelaksanaan 9 Juni 2026 sampai 8 Juni 2027, didanai kas internal.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi rencana Pembelian Kembali Saham Telkom 2026 (1 Mei 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1777642521577_original_20260501-Keterbukaan-Informasi-Keterbukaan-Informasi-dalam-rangka-Pembelian-Kembali-Saham-PT-Telkom-Indonesia-Persero-Tbk-Telkom-Tahun-2026-Bahasa-1.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Pengkinian Keterbukaan Informasi Buyback Telkom (4 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780585830633_original_Pengkinian-Buyback-Telkom.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Lainnya",
+      "judul": "Perubahan anggaran dasar: KBLI 2025 dan reklasifikasi saham Seri B menjadi Seri A Dwiwarna",
+      "ringkasan": "RUPST menyetujui penyesuaian Pasal 3 dengan KBLI 2025 dan perubahan Pasal 4 terkait reklasifikasi 516.023.535 saham Seri B milik negara melalui BP BUMN menjadi saham Seri A Dwiwarna, sesuai UU No. 16 Tahun 2025.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-17",
+      "jenis": "Akuisisi",
+      "judul": "Pembelian 19,19% saham Telkom Data Ekosistem dari Telkomsigma",
+      "ringkasan": "Telkom membeli saham TDE milik Telkomsigma (19,19%) sehingga kepemilikan Telkom di TDE menjadi 100%. Ini transaksi intra-grup untuk mendukung kemitraan strategis bisnis data center (Unlock DC Co).",
+      "sumber": [
+        {
+          "judul": "Transaksi Pembelian Seluruh Saham Telkomsigma di PT Telkom Data Ekosistem (18 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1789723507315_original_KI-Pembelian-Saham-TDE-IND.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Lainnya",
+      "judul": "Pemisahan segmen wholesale fiber connectivity tahap 2 ke PT Telkom Infrastruktur Indonesia (nilai Rp49,86 triliun)",
+      "ringkasan": "Rancangan pemisahan diumumkan 7 Agustus 2026, dengan nilai segmen Rp49.858 miliar (sekitar 33% ekuitas per akhir 2025). RUPSLB 30 September 2026 menyetujuinya, dan akta pemisahan diteken pada hari yang sama. Peningkatan modal TIF diharapkan efektif 1 Oktober 2026.",
+      "sumber": [
+        {
+          "judul": "Rancangan Pemisahan dan Keterbukaan Informasi Infraco Tahap 2 (7 Agustus 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1786097552187_original_INFRACO-2-0-IND.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Penandatanganan Akta Pemisahan Segmen Usaha Wholesale Fiber Connectivity ke TIF (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790787777155_original_Signing-Infraco-Tahap-2.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-10-02",
+      "jenis": "Buyback",
+      "judul": "Pembelian kembali saham pemegang saham yang tidak setuju pemisahan (Pasal 62 UUPT)",
+      "ringkasan": "Terkait pemisahan tahap 2, Telkom membeli kembali 15.956.199 saham pada Rp2.290 per saham, senilai bruto Rp36.539.695.710. Penyelesaian pembayaran dilakukan 20 Oktober 2026.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi Pembelian Kembali Saham (Pasal 62 UUPT) terkait Pemisahan Tahap 2 (2 Oktober 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790956008513_original_Buyback-Infraco-Tahap-2-ID.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan Hasil Pelaksanaan Pembelian Kembali Saham Pasal 62 UUPT (22 Oktober 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1792682176998_original_Laporan-Hasil-Buyback.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "miliar rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        279814,
+        287759
+      ],
+      "pendapatan": [
+        113502,
+        109617
+      ],
+      "beban_usaha": [
+        8504,
+        7381
+      ],
+      "laba_bersih": [
+        14446,
+        15031
+      ],
+      "liabilitas": [
+        139352,
+        137222
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban umum dan administrasi + beban pemasaran",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Telkom tidak memisahkan beban pokok pendapatan dari beban usaha. Sesuai panduan, beban_usaha diisi beban umum & administrasi (5.961; 2025: 5.003) ditambah beban pemasaran (2.543; 2025: 2.378). Jika semua pos biaya dan beban dijumlahkan (operasi/pemeliharaan, penyusutan, karyawan, umum & administrasi, interkoneksi, pemasaran), totalnya Rp83.785 miliar (2025: Rp81.225 miliar).",
+    "sumber": [
+      {
+        "judul": "Laporan Keuangan Konsolidasian 30 September 2026 (tidak diaudit)",
+        "url": "https://www.telkom.co.id/minio/show/data/lampiran/1793379436846_original_Laporan-Keuangan-Unaudited-3Q-2026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pemberhentian",
+      "nama": "Rionald Silaban",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPST, berlaku sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Pengurus TLKM (8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780929653714_original_Perubahan-Pengurus-TLKM.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pemberhentian",
+      "nama": "Silmy Karim",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diberhentikan oleh RUPST terhitung sejak 4 Juni 2026 (tanpa frasa 'dengan hormat' di ringkasan risalah).",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Pengurus TLKM (8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780929653714_original_Perubahan-Pengurus-TLKM.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pengangkatan",
+      "nama": "Edwin Hidayat Abdullah",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPST dengan masa jabatan paling lama sampai penutupan RUPS Tahunan ke-5 sejak pengangkatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Pengurus TLKM (8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780929653714_original_Perubahan-Pengurus-TLKM.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Pengangkatan",
+      "nama": "Anthony Leong",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPST dengan masa jabatan paling lama sampai penutupan RUPS Tahunan ke-5 sejak pengangkatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Pengurus TLKM (8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1780929653714_original_Perubahan-Pengurus-TLKM.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPST: Komisaris Utama Angga Raka Prabowo, Direktur Utama Dian Siswarini. Direksi berjumlah 9 orang dan Dewan Komisaris 8 orang.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPS Tahunan Tahun Buku 2025 (RUPS 8 Juni 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1781109804774_original_Ringkasan-Risalah-ID.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Pemberhentian",
+      "nama": "Dian Siswarini",
+      "jabatan": "Direktur Utama",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPSLB, berlaku sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Pemberhentian",
+      "nama": "Faizal Rochmad Djoemadi",
+      "jabatan": "Direktur IT Digital",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPSLB, berlaku sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Perubahan jabatan",
+      "nama": "Nanang Hendarno",
+      "jabatan": "Direktur Utama (sebelumnya Direktur Network)",
+      "ringkasan": "Dialihkan tugasnya menjadi Direktur Utama dengan meneruskan sisa masa jabatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Perubahan jabatan",
+      "nama": "Budi Satria Dharma Purba",
+      "jabatan": "Direktur Network (sebelumnya Direktur Wholesale & International Service)",
+      "ringkasan": "Dialihkan tugasnya menjadi Direktur Network dengan meneruskan sisa masa jabatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Pengangkatan",
+      "nama": "Radita Ali Putra",
+      "jabatan": "Direktur Wholesale & International Service",
+      "ringkasan": "Diangkat RUPSLB dengan masa jabatan paling lama sampai penutupan RUPS Tahunan ke-5 sejak pengangkatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Pengangkatan",
+      "nama": "Kharim I. G. Siregar",
+      "jabatan": "Direktur IT Digital",
+      "ringkasan": "Diangkat RUPSLB dengan masa jabatan paling lama sampai penutupan RUPS Tahunan ke-5 sejak pengangkatan.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi Perubahan Susunan Pengurus Perseroan (30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790788097426_original_Perubahan-Susunan-Pengurus-Perseroan.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPSLB: Komisaris Utama Angga Raka Prabowo (tidak berubah), Direktur Utama Nanang Hendarno.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Ringkasan Risalah RUPSLB Tahun 2026 (RUPS 30 September 2026)",
+          "url": "https://www.telkom.co.id/minio/show/data/lampiran/1790931092119_original_Ringkasan-Risalah-RUPSLB-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

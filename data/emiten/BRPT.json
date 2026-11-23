@@ -1,0 +1,73 @@
+{
+  "kode": "BRPT",
+  "nama": "Barito Pacific Tbk",
+  "sektor": "Holding",
+  "situs_resmi": "https://www.barito-pacific.com/investors",
+  "status_data": "lengkap",
+  "catatan": "Tidak ditemukan keterbukaan informasi perubahan pengurus sepanjang 2026 di situs resmi; RUPST 25 Juni 2026 tidak memiliki mata acara perubahan pengurus. Transaksi afiliasi sewa ruang kantor antaranak usaha (Juni 2026) dicatat sebagai 'Lainnya' karena nilainya kecil.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-03",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp1 triliun dalam kondisi pasar berfluktuasi",
+      "ringkasan": "Buyback tanpa RUPS berdasarkan POJK 13/2023 dengan dana internal maksimal Rp1 triliun (termasuk biaya). Periode pelaksanaan 4 Februari sampai 3 Mei 2026 melalui PT Sucor Sekuritas.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana buyback BRPT, 3 Februari 2026", "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-260204090137BRPT%20-%20KI-Buyback%20Fluktuatif%202026%20Ind..pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-10",
+      "jenis": "Lainnya",
+      "judul": "Transaksi afiliasi sewa ruang kantor antara PT Griya Idola dan PT Indo Raya Tenaga",
+      "ringkasan": "Dua entitas anak menandatangani perjanjian sewa ruang kantor di Wisma Barito Pacific II pada 8 Juni 2026 untuk 5 tahun mulai 1 Juli 2026, dengan nilai total sekitar Rp18,06 miliar.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi transaksi afiliasi entitas anak, 10 Juni 2026", "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-260611040004BRPT%20KI%20Lease%20Agr%202026%20GI%20IRT.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-25",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: US$8,5 juta (perkiraan Rp1,63 per saham)",
+      "ringkasan": "RUPS Tahunan 25 Juni 2026 menyetujui dividen tunai US$8,5 juta atau 1,7% dari laba bersih 2025 sebesar US$489,8 juta. Perkiraan Rp1,63 per saham, bisa berubah sesuai kurs tengah BI pada recording date. Cum dividen pasar reguler 3 Juli 2026, recording date 7 Juli 2026, pembayaran 29 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST BRPT 25 Juni 2026 (Mata Acara Kedua)", "url": "https://www.barito-pacific.com/uploads/investors/general-meeting-of-shareholders-260629073852BRPT%20-%20Ringkasan%20Risalah%20RUPST%2025%20Juni%202026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Jadwal dan tata cara pembagian dividen tunai tahun buku 2025", "url": "https://www.barito-pacific.com/uploads/investors/general-meeting-of-shareholders-260629073505BRPT%20Jadwal%20Tata%20Cara%20Pembagian%20Dividen%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-19",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham kedua 2026 hingga Rp1 triliun",
+      "ringkasan": "Buyback baru dalam kondisi pasar berfluktuasi dengan dana internal maksimal Rp1 triliun (termasuk biaya), periode 19 Oktober sampai 31 Desember 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana buyback BRPT, 19 Oktober 2026", "url": "https://www.barito-pacific.com/uploads/investors/information-disclosure-2610191002502026-19-Okt.%20BRPT%20-%20KI-Buyback%20Fluktuatif%20%28Okt%202026%29%20Final.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [19578343, 17353211],
+      "pendapatan": [8694012, 5563632],
+      "beban_usaha": [258958, 203297],
+      "laba_bersih": [228537, 582146],
+      "liabilitas": [12948143, 11307579]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (69.247; 2025: 57.806) + beban umum dan administrasi (189.711; 2025: 145.491). Beban penyusutan/amortisasi dan bahan baku/produksi tidak dimasukkan. Laba 9M 2025 termasuk keuntungan pembelian dengan diskon US$1.812.175 ribu.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT Barito Pacific Tbk 30 September 2026", "url": "https://www.barito-pacific.com/uploads/investors/financial-report-261030051050Financial%20Statement%20PT%20Barito%20Pacific%20Tbk%20-%2030%20September%202026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

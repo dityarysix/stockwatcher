@@ -1,0 +1,46 @@
+{
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "bank",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        2588298318,
+        2829948026
+      ],
+      "pendapatan": [
+        110231433,
+        122297205
+      ],
+      "beban_usaha": [
+        40312760,
+        49906275
+      ],
+      "laba_bersih": [
+        45534001,
+        37730142
+      ],
+      "liabilitas": [
+        2285500952,
+        2212925204
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bunga",
+      "beban_usaha": "Beban operasional (umum & administrasi, sewa & pemeliharaan, provisi & komisi, lainnya)",
+      "laba_bersih": "Laba yang dapat diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas (tanpa dana syirkah temporer)"
+    },
+    "catatan": "Format bank. Perbandingan tidak setara: pada 31 Des 2025 neraca masih memuat dana syirkah temporer Rp289,6 T, sedangkan per 30 Sep 2026 pos itu tidak ada lagi. Investasi pada entitas asosiasi juga naik dari Rp2,3 T menjadi Rp29,9 T, dan kepentingan non-pengendali turun dari Rp33,7 T menjadi Rp8,8 T. Pola ini mengindikasikan perubahan struktur grup (entitas anak syariah kemungkinan tidak lagi dikonsolidasi). Penurunan aset dan pendapatan bunga sebagian besar dipengaruhi hal ini, bukan murni kinerja.",
+    "sumber": [
+      {
+        "judul": "FinancialStatement-2026-III-BMRI.xlsx (laporan keuangan Q3 2026 dari halaman Laporan Keuangan dan Tahunan IDX, diunduh manual oleh pemilik proyek)",
+        "url": "https://www.idx.co.id/id/perusahaan-tercatat/laporan-keuangan-dan-tahunan",
+        "diakses": "2026-11-23"
+      }
+    ]
+  }
+}

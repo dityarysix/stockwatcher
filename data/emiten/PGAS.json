@@ -1,0 +1,71 @@
+{
+  "kode": "PGAS",
+  "nama": "Perusahaan Gas Negara Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://pgn.co.id/investor-relations",
+  "status_data": "lengkap",
+  "catatan": "Sumber dari pgn.co.id (dokumen diunduh dari corporateweb-api.pgn.co.id milik PGN). Sejak 29 Januari 2026 nama resmi menjadi PT Perusahaan Gas Negara (Persero) Tbk. Pengumuman perolehan kontrak penting (jual beli gas, Mei dan Oktober 2026) tidak dimasukkan sebagai aksi korporasi karena merupakan kontrak usaha. Mata acara perubahan susunan pengurus pada RUPST 22 Mei 2026 dibatalkan sehingga tidak ada perubahan direksi/komisaris dari RUPS; perubahan Komite Audit dan pengangkatan Chief Audit Executive tidak dimasukkan. Laporan keuangan 9M-2026 di situs berlabel 'Consolidated Financial Statements' tetapi isinya dwibahasa.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-02",
+      "jenis": "Lainnya",
+      "judul": "Perubahan nama menjadi PT Perusahaan Gas Negara (Persero) Tbk dan perubahan anggaran dasar",
+      "ringkasan": "Menindaklanjuti RUPSLB 29 Desember 2025, perubahan anggaran dasar (termasuk nama) disetujui Menteri Hukum melalui Keputusan AHU-0004617.AH.01.02.TAHUN 2026 tanggal 29 Januari 2026.",
+      "sumber": [
+        {"judul": "Laporan Perubahan Nama Emiten (2 Februari 2026)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52084", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi atas Fakta Material Perubahan Anggaran Dasar (2 Februari 2026)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51591", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-22",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: USD172,29 juta (Rp125,61 per saham)",
+      "ringkasan": "RUPS Tahunan 22 Mei 2026 menetapkan 80% laba bersih 2025 yang diatribusikan ke entitas induk (USD215.364.799), yakni USD172.291.839, sebagai dividen tunai yang dibayar dalam rupiah. Nilai per saham Rp125,607435231667. Cum dividen pasar reguler 4 Juni 2026, recording date 8 Juni 2026, pembayaran 24 Juni 2026.",
+      "sumber": [
+        {"judul": "Pengumuman Ringkasan Risalah RUPST PGN Tahun Buku 2025", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51808", "diakses": "2026-11-23"},
+        {"judul": "Aksi Korporasi - Dividen Tunai PGAS 2026", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51810", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-22",
+      "jenis": "Lainnya",
+      "judul": "Penambahan kegiatan usaha anak usaha PT Pertamina Gas dan penugasan pengelolaan Jargas APBN",
+      "ringkasan": "RUPS Tahunan menyetujui penambahan kegiatan usaha industri gas industri (KBLI 20112) pada PT Pertamina Gas sesuai POJK 17/2020 (rencana diumumkan 15 April 2026 dan diperbarui Mei 2026), serta penugasan khusus kepada Perseroan untuk mengelola jaringan gas bumi APBN dengan penggantian biaya dan margin wajar.",
+      "sumber": [
+        {"judul": "Pengumuman Ringkasan Risalah RUPST PGN Tahun Buku 2025 (Mata Acara 7 dan 8)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51808", "diakses": "2026-11-23"},
+        {"judul": "Rencana Transaksi Perubahan Kegiatan Usaha (15 April 2026)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51709", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-27",
+      "jenis": "Lainnya",
+      "judul": "Putusan arbitrase parsial LCIA dalam perkara Gunvor Singapore",
+      "ringkasan": "Pada 26 Agustus 2026 Perseroan menerima putusan arbitrase parsial London Court of International Arbitration atas gugatan Gunvor Singapore Pte. Ltd. yang mewajibkan Perseroan membayar kompensasi. Nilainya tidak disebut; Perseroan sedang menelaah putusan dan menyiapkan langkah hukum.",
+      "sumber": [{"judul": "Laporan Informasi atau Fakta Material (27 Agustus 2026)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52052", "diakses": "2026-11-23"}]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [6016408353, 6232384211],
+      "pendapatan": [3019216814, 2922901281],
+      "beban_usaha": [118167337, 122798505],
+      "laba_bersih": [292950759, 237892510],
+      "liabilitas": [2382729589, 2624548641]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan laba rugi PGN hanya menyajikan beban umum dan administrasi sebagai beban operasi di luar beban pokok pendapatan (tanpa pos beban penjualan terpisah); pos itu yang dipakai sebagai beban usaha.",
+    "sumber": [{"judul": "9M-2026 Consolidated Financial Statements (laporan keuangan konsolidasian interim 30 September 2026)", "url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183", "diakses": "2026-11-23"}]
+  },
+  "perubahan_manajemen": []
+}
