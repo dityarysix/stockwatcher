@@ -1,0 +1,41 @@
+{
+  "kode": "PGEO",
+  "nama": "Pertamina Geothermal Energy Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://pertaminapge.com/investor-relation",
+  "status_data": "sebagian",
+  "catatan": "Situs lama pge.pertamina.com kini dialihkan ke pertaminapge.com, dan tautan PDF lama (termasuk laporan keuangan Q2 2026 dan risalah RUPS) ikut dialihkan ke beranda sehingga tidak bisa diunduh. Situs baru dibangun dengan Blazor Server: daftar keterbukaan informasi, RUPS, dan laporan keuangan baru dimuat secara interaktif lewat koneksi websocket, sehingga tidak bisa diambil dengan curl biasa. Yang terbaca langsung dari HTML resmi hanya tabel Informasi Dividen dan Ikhtisar Keuangan (dalam juta USD, dibulatkan dua desimal, tanpa kolom pembanding 6M 2025 dan tanpa pos beban usaha). Hasil pencarian web menyebut RUPSLB 22 Januari 2026 (pengangkatan Andi Joko Nugroho sebagai Direktur Operasi) dan RUPST 21 April 2026 (Fransetya Hutabarat menggantikan Yurizki Rio sebagai Direktur Keuangan), tetapi dokumen aslinya tidak dapat diunduh untuk verifikasi sehingga tidak dicatat di perubahan_manajemen. Laporan keuangan 30 September 2026 tidak ditemukan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-30",
+      "jenis": "Dividen",
+      "judul": "Dividen tahun buku 2025: Rp49,44 per saham",
+      "ringkasan": "Tabel Informasi Dividen di situs resmi mencantumkan dividen tahun buku 2025 sebesar Rp49,44 per saham, imbal hasil 5,05%, tanggal ex-dividen 30 April 2026. Tanggal keputusan RUPS (dicatat sebagai 21 April 2026 menurut hasil pencarian) belum terverifikasi, sehingga tanggal entri ini memakai tanggal ex-dividen; total dividen tidak tercantum.",
+      "sumber": [{"judul": "Kinerja Saham - Informasi Dividen (pertaminapge.com)", "url": "https://pertaminapge.com/stock-performance?section=dividend", "diakses": "2026-11-23"}]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": null,
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta USD",
+    "format": "umum",
+    "audit": "Tidak diketahui (angka dari tabel Ikhtisar Keuangan di situs, konsolidasian)",
+    "pos": {
+      "aset": [2966.88, 3034.45],
+      "pendapatan": [235.03, null],
+      "beban_usaha": [null, null],
+      "laba_bersih": [79.62, null],
+      "liabilitas": [961.18, 988.89]
+    },
+    "label": {
+      "pendapatan": "Jumlah pendapatan usaha (operasi sendiri + production allowance)",
+      "beban_usaha": "Tidak tersedia",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Diambil dari tabel Ikhtisar Keuangan (kolom 6M 2026 dan 2025) di halaman Kinerja Keuangan, bukan dari dokumen laporan keuangan, karena PDF laporan keuangan tidak dapat diunduh. Tabel tidak memuat kolom 6M 2025 sehingga pembanding laba rugi dikosongkan, dan tidak memuat beban usaha. Laba usaha 6M 2026 tercatat US$114,56 juta; beban pokok pendapatan US$104,59 juta.",
+    "sumber": [{"judul": "Kinerja Keuangan - Ikhtisar Keuangan (pertaminapge.com)", "url": "https://pertaminapge.com/financial-performance?section=financial-statements", "diakses": "2026-11-23"}]
+  },
+  "perubahan_manajemen": []
+}

@@ -1,0 +1,118 @@
+{
+  "kode": "MBMA",
+  "nama": "Merdeka Battery Materials Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://merdekabattery.com/id/investor/announcements/information-disclosure",
+  "status_data": "lengkap",
+  "catatan": "Sumber dari merdekabattery.com dan CDN dokumennya assets.merdekabattery.com. RUPS Tahunan 23 Juni 2026 tidak membagikan dividen: laba bersih 2025 dialokasikan US$1.000 ke dana cadangan dan sisanya (US$100,5 juta) menjadi saldo laba. Tanggal penerbitan Obligasi dan Sukuk Mudharabah Berkelanjutan I Tahap IV 2026 tidak ditemukan di situs; yang tersedia hanya laporan realisasi penggunaan dana per 30 Juni 2026 (dipublikasikan 15 Juli 2026), sehingga entri itu memakai tanggal laporan. Pelunasan seri-seri obligasi/sukuk 2025 yang jatuh tempo (April, Juli, Agustus 2026) dan transaksi afiliasi jasa antar-anak usaha (2 Januari dan 2 April 2026) tidak dicatat sebagai aksi korporasi tersendiri. RUPSLB untuk PMTHMETD II dijadwalkan 8 Desember 2026, setelah tanggal pengumpulan data.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-03-16",
+      "jenis": "Buyback",
+      "judul": "Buyback saat pasar berfluktuasi signifikan (tahap I): hingga Rp1,7 triliun",
+      "ringkasan": "Rencana buyback tanpa RUPS maksimal 1,8 miliar saham dengan dana hingga Rp1,7 triliun, periode 17 Maret sampai 16 Juni 2026. Hingga akhir periode Perseroan membeli kembali 492.683.100 saham dengan dana Rp237,6 miliar.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Buyback dalam Kondisi Pasar Berfluktuasi Signifikan (16 Maret 2026)", "url": "https://assets.merdekabattery.com/dist/documents/023.%20OJK_KI_Buyback%20MBMA.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi Berakhirnya Periode Pelaksanaan Buyback (17 Juni 2026)", "url": "https://assets.merdekabattery.com/dist/documents/094.%20KI_Berakhirnya%20Periode%20Pelaksanaan%20Buyback.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-16",
+      "jenis": "Buyback",
+      "judul": "Buyback saat pasar berfluktuasi signifikan (tahap II): hingga Rp1,46 triliun",
+      "ringkasan": "Rencana buyback lanjutan maksimal 1.548.000.000 saham dengan dana hingga Rp1,462 triliun, periode 17 Juni sampai 16 September 2026. Keterbukaan 17 September 2026 menyatakan pelaksanaan telah selesai, tanpa menyebut jumlah saham yang dibeli.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Buyback II dalam Kondisi Pasar Berfluktuasi Signifikan (16 Juni 2026)", "url": "https://assets.merdekabattery.com/dist/documents/093.%20OJK_KI%20Rencana%20Buyback%20II%20Berfluktuasi.pdf", "diakses": "2026-11-23"},
+        {"judul": "Keterbukaan Informasi Berakhirnya Periode Pelaksanaan Buyback (17 September 2026)", "url": "https://assets.merdekabattery.com/dist/documents/156.%20KI_Berakhirnya%20Periode%20Pelaksanaan%20Buyback.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-15",
+      "jenis": "Obligasi/sukuk",
+      "judul": "Obligasi Berkelanjutan I Tahap IV 2026 (Rp5 triliun) dan Sukuk Mudharabah Berkelanjutan I Tahap IV 2026 (Rp622,1 miliar)",
+      "ringkasan": "Menurut laporan realisasi penggunaan dana per 30 Juni 2026, penawaran obligasi tahap IV menghasilkan Rp5 triliun (bersih Rp4,98 triliun), dipakai untuk membayar pinjaman bank dan biaya keuangan; sukuk mudharabah tahap IV menghasilkan Rp622,1 miliar (bersih Rp617,9 miliar). Tanggal emisi tidak tercantum di situs.",
+      "sumber": [
+        {"judul": "Laporan Realisasi Penggunaan Dana Obligasi Berkelanjutan I Tahap IV 2026 (15 Juli 2026)", "url": "https://assets.merdekabattery.com/dist/documents/LRPD%20-%20Obligasi%20Berkelanjutan%201.4.pdf", "diakses": "2026-11-23"},
+        {"judul": "Laporan Realisasi Penggunaan Dana Sukuk Mudharabah Berkelanjutan I Tahap IV 2026 (15 Juli 2026)", "url": "https://assets.merdekabattery.com/dist/documents/LRPD%20-%20Sukuk%20Mudharabah%20Berkelanjutan%201.4.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-16",
+      "jenis": "Buyback",
+      "judul": "Buyback saat pasar berfluktuasi signifikan (tahap III): hingga Rp1,38 triliun",
+      "ringkasan": "Rencana buyback tanpa RUPS maksimal 1.465.000.000 saham dengan dana hingga Rp1,383 triliun, dalam jangka waktu paling lama 3 bulan setelah keterbukaan.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Buyback III dalam Kondisi Pasar Berfluktuasi Signifikan (16 September 2026)", "url": "https://assets.merdekabattery.com/dist/documents/155.%20OJK_KI%20Rencana%20Buyback%20III%20Berfluktuasi.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-30",
+      "jenis": "Private placement",
+      "judul": "Rencana PMTHMETD II hingga 10% saham (10,8 miliar saham baru)",
+      "ringkasan": "Rencana penambahan modal tanpa HMETD sebanyak-banyaknya 10.799.541.990 saham (maksimal 10% modal disetor), dengan persetujuan pemegang saham independen pada RUPSLB 8 Desember 2026. Sekitar 25% dana untuk modal kerja dan sisanya untuk pengembangan usaha grup, termasuk belanja modal dan akuisisi. Informasi diperbarui 17 November 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana PMTHMETD II (30 Oktober 2026)", "url": "https://assets.merdekabattery.com/dist/documents/171.%20KI_PMTHMETD%20II_MBMA.pdf", "diakses": "2026-11-23"},
+        {"judul": "Perubahan dan/atau Tambahan Keterbukaan Informasi PMTHMETD II (17 November 2026)", "url": "https://assets.merdekabattery.com/dist/documents/186.%20OJK_Penyesuaian%20KI_PMTHMETD%20II%20MBMA%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian interim, opini wajar dalam semua hal yang material)",
+    "pos": {
+      "aset": [4315052757, 3735333962],
+      "pendapatan": [1780025926, 934991816],
+      "beban_usaha": [40304992, 23842575],
+      "laba_bersih": [146194588, 25305289],
+      "liabilitas": [1660933963, 1387279897]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha",
+      "beban_usaha": "Beban penjualan dan pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha 2026 = 4.162.905 + 36.142.087; 2025 = 3.248.427 + 20.594.148. Laporan keuangan interim ini disertai laporan auditor independen No. 00853/2.1068/AU.1/05/0119-5/1/XI/2026. Laba periode berjalan total US$313.679.433 (2025: US$62.786.504).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim MBMA 30 September 2026", "url": "https://assets.merdekabattery.com/dist/documents/MBMA%20300926%20-%20Financial%20Statements.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Pengunduran diri",
+      "nama": "Anthony Kartono Tan",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya sejak penutupan rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan MBMA 23 Juni 2026 (Mata Acara 5)", "url": "https://assets.merdekabattery.com/dist/documents/Ringkasan%20Risalah%20RUPST%20MBMA_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Pengangkatan",
+      "nama": "James Nicholas",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sejak penutupan rapat sampai RUPS Tahunan 2027.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan MBMA 23 Juni 2026 (Mata Acara 5)", "url": "https://assets.merdekabattery.com/dist/documents/Ringkasan%20Risalah%20RUPST%20MBMA_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Pengangkatan",
+      "nama": "Ashutosh Srivastava",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat RUPS Tahunan sejak penutupan rapat sampai RUPS Tahunan 2027.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan MBMA 23 Juni 2026 (Mata Acara 5)", "url": "https://assets.merdekabattery.com/dist/documents/Ringkasan%20Risalah%20RUPST%20MBMA_2026.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Presiden Komisaris: Winato Kartono; Komisaris: Michael W.P. Soeryadjaya; Komisaris Independen: Prof. Dr. Didi Achjari. Presiden Direktur: Teddy Nuryanto Oetomo; Direktur: Titien Supeno, James Nicholas, Ashutosh Srivastava.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan MBMA 23 Juni 2026 (Mata Acara 5)", "url": "https://assets.merdekabattery.com/dist/documents/Ringkasan%20Risalah%20RUPST%20MBMA_2026.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}
