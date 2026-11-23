@@ -1,0 +1,11 @@
+{
+  "kode": "BNGA",
+  "nama": "Bank CIMB Niaga Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://investor.cimbniaga.co.id/?lang=id",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs Hubungan Investor (investor.cimbniaga.co.id, ditautkan dari menu 'Investor' di www.cimbniaga.co.id) membalas HTTP 202 tanpa isi dengan header x-amzn-waf-action: challenge (tantangan AWS WAF) pada 23 November 2026. Sesuai panduan, akses dihentikan dan proteksi tidak ditembus. Tidak ada data yang dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

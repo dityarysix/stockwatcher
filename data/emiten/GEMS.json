@@ -1,0 +1,76 @@
+{
+  "kode": "GEMS",
+  "nama": "Golden Energy Mines Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.goldenenergymines.com/investor-relation/",
+  "status_data": "lengkap",
+  "catatan": "Laporan keuangan terbaru di situs adalah laporan 30 Juni 2026 (diaudit); laporan 30 September 2026 belum tersedia di halaman Financial Report per 23 November 2026. Angka dalam USD penuh. Keterbukaan informasi 2026 lainnya (fasilitas pinjaman Bank BRI/Bank Mandiri untuk anak usaha BIB dan BSL, pendirian anak usaha PT Trisula Kencana Sejahtera 30 Oktober 2026) tidak dicatat sebagai aksi korporasi karena hanya terlihat dari judulnya.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: sekitar Rp237,95 per saham (USD80 juta)",
+      "ringkasan": "RUPS Tahunan 19 Mei 2026 menetapkan total dividen tahun buku 2025 USD180 juta. USD100 juta sudah dibayar sebagai dividen interim pada 24 Juni 2025, sehingga sisa USD80 juta (USD0,0136 per saham, setara Rp237,95 dengan kurs tengah BI 18 Mei 2026) dibagikan sebagai dividen final. Cum dividen pasar reguler 29 Mei 2026, recording date 3 Juni 2026, pembayaran 11 Juni 2026. USD1 juta disisihkan sebagai cadangan wajib.",
+      "sumber": [
+        {"judul": "Hasil Keputusan RUPS Tahunan PT Golden Energy Mines Tbk 19 Mei 2026 (Mata Acara Kedua)", "url": "https://www.goldenenergymines.com/download/942/", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Dividen",
+      "judul": "Dividen interim tahun buku 2026: sekitar Rp611,93 per saham (USD200 juta)",
+      "ringkasan": "Berdasarkan persetujuan Direksi dan Dewan Komisaris, perseroan membagikan dividen interim tahun buku 2026 sebesar USD200 juta atau USD0,034 per saham, setara Rp611,93 dengan kurs tengah BI 30 September 2026 (USD1 = Rp17.998). Cum dividen pasar reguler 8 Oktober 2026, recording date 12 Oktober 2026, pembayaran 22 Oktober 2026.",
+      "sumber": [
+        {"judul": "Pemberitahuan Jadwal dan Tata Cara Pembagian Dividen Interim 2026 (30 September 2026)", "url": "https://www.goldenenergymines.com/download/937/", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Diaudit (konsolidasian)",
+    "pos": {
+      "aset": [1433130937, 1196603953],
+      "pendapatan": [1495283084, 1144417056],
+      "beban_usaha": [214404933, 200118289],
+      "laba_bersih": [219963545, 151672560],
+      "liabilitas": [580425355, 488017223]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang teratribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (145.591.044; 2025: 123.526.820) + beban umum dan administrasi (68.813.889; 2025: 76.591.469). Beban eksplorasi (175.268; 2025: 1.059.417) tidak dimasukkan; jumlah beban usaha menurut laporan termasuk eksplorasi adalah 214.580.201 (2025: 201.177.706).",
+    "sumber": [
+      {"judul": "Q2 Financial Report Audited 2026 (Laporan Keuangan Konsolidasian 30 Juni 2026)", "url": "https://www.goldenenergymines.com/download/934/", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Pengangkatan",
+      "nama": "Yoghi Nuswantoro",
+      "jabatan": "Direktur",
+      "ringkasan": "Disimpulkan dari perbandingan daftar kehadiran dan susunan baru: ia tidak termasuk direksi yang hadir sebelum Rapat, lalu tercantum sebagai Direktur dalam susunan yang diangkat RUPS Tahunan 19 Mei 2026 untuk masa jabatan sampai RUPS Tahunan 2031. Profilnya termuat dalam bahan RUPS sebagai calon direksi.",
+      "sumber": [
+        {"judul": "Hasil Keputusan RUPS Tahunan PT Golden Energy Mines Tbk 19 Mei 2026 (Mata Acara Kelima)", "url": "https://www.goldenenergymines.com/download/942/", "diakses": "2026-11-23"},
+        {"judul": "Bahan RUPS Tahunan 2026: Profil Calon Direksi dan/atau Dewan Komisaris periode 2026-2031", "url": "https://www.goldenenergymines.com/download/904/", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-19",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "RUPS Tahunan memberhentikan dengan hormat seluruh pengurus lalu mengangkat kembali untuk masa jabatan sampai RUPS Tahunan 2031. Presiden Komisaris: Lokita Prasetya. Presiden Direktur: Bonifasius. Wakil Presiden Direktur: Iwan Hermawan. Direksi kini enam orang dengan tambahan Yoghi Nuswantoro.",
+      "sumber": [
+        {"judul": "Hasil Keputusan RUPS Tahunan PT Golden Energy Mines Tbk 19 Mei 2026 (Mata Acara Kelima)", "url": "https://www.goldenenergymines.com/download/942/", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

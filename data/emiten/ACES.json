@@ -1,0 +1,11 @@
+{
+  "kode": "ACES",
+  "nama": "Aspirasi Hidup Indonesia Tbk",
+  "sektor": "Ritel",
+  "situs_resmi": "https://ahi.id/id/investor-relation",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs Hubungan Investor resmi (ahi.id, ditemukan lewat pencarian web) gagal diakses pada 23 November 2026: curl menolak sertifikat TLS situs (unable to get local issuer certificate) walau sudah memakai CA bundle proxy, dan WebFetch gagal me-resolve host ahi.id dari sesi ini. Verifikasi TLS tidak dimatikan sesuai aturan. Situs merek acehardware.co.id dapat dibuka tetapi tidak memuat tautan Hubungan Investor. Tidak ada data yang dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

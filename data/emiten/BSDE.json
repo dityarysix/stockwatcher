@@ -1,0 +1,54 @@
+{
+  "kode": "BSDE",
+  "nama": "Bumi Serpong Damai Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.bsdcity.com/investor/investors-relations/",
+  "status_data": "sebagian",
+  "catatan": "Situs IR BSD City (dan cerminannya di sinarmasland.com) tidak memuat dokumen RUPS 2026 (pemanggilan maupun ringkasan risalah), sehingga keputusan dividen dan perubahan pengurus 2026 tidak dapat diverifikasi; tidak ada entri perubahan manajemen. Keterbukaan informasi No. 003 (15 Januari 2026), 018 (25 Maret 2026), dan 078 (15 Juli 2026) berupa hasil pindaian tanpa lapisan teks sehingga isinya tidak terbaca; halaman pertama No. 043 (30 April 2026) juga berupa pindaian. Keterbukaan 032 (26 Maret 2026) hanya laporan pemeringkatan tahunan Pefindo (idAA) atas obligasi dan sukuk yang beredar, tidak dicatat sebagai aksi korporasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-08",
+      "jenis": "Lainnya",
+      "judul": "Pengalihan saham PT Tajur Surya Abadi senilai Rp44,16 miliar (entitas anak melalui SMDM)",
+      "ringkasan": "Pada 4 Juni 2026 PT Kencana Megah Persada mengalihkan seluruh sahamnya di PT Tajur Surya Abadi kepada PT Suryamas Dutamakmur Tbk (entitas anak perseroan) dan PT Paraga Artamida senilai Rp44,16 miliar. Setelah transaksi, SMDM memegang hampir seluruh saham TSA. Para pihak tidak terafiliasi dan transaksi dinyatakan bukan transaksi material. Keterbukaan informasi bertanggal 8 Juni 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi 057.IR-CS.BSD.VI.2026 (8 Juni 2026)", "url": "https://www.bsdcity.com/app/uploads/2026/06/057.IR-CS.BSD_.VI_.2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-28",
+      "jenis": "Lainnya",
+      "judul": "PPJB tanah kavling ±166.261 m² di KEK ETKI BSD City kepada PT SMPlus Cakrawala Cipta Gemilang",
+      "ringkasan": "Entitas anak PT Surya Inter Wisesa (pengelola KEK Edukasi, Teknologi dan Kesehatan Internasional Banten) menandatangani perjanjian pengikatan jual beli tanah kavling seluas sekitar 166.261 m² di D-Hub Special Economic Zone, BSD City, dengan PT SMPlus Cakrawala Cipta Gemilang pada 26 Oktober 2026. Nilai transaksi tidak disebutkan dalam siaran pers.",
+      "sumber": [
+        {"judul": "Siaran Pers BSDE 28 Oktober 2026: Optimalisasi Aset untuk Mendukung Pengembangan Ekosistem Bisnis KEK ETKI", "url": "https://www.bsdcity.com/app/uploads/2026/10/BSDE-Press-Release-28.10.2026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [81445840575200, 79268402201018],
+      "pendapatan": [7536607044063, 8762781215501],
+      "beban_usaha": [3047192921926, 3082552326413],
+      "laba_bersih": [844695438136, 1363571246114],
+      "liabilitas": [28182316250359, 26599497516671]
+    },
+    "label": {
+      "pendapatan": "Pendapatan usaha",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi (tanpa pajak final)",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = penjualan (1.395.031.010.306; 2025: 1.308.931.740.052) + umum dan administrasi (1.652.161.911.620; 2025: 1.773.620.586.361). Jumlah beban usaha di laporan (3.311.306.961.214; 2025: 3.414.468.265.294) juga memuat pajak final, yang dikeluarkan di sini.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim BSDE 30 September 2026", "url": "https://www.bsdcity.com/app/uploads/2026/10/BSDE-LK-Q3-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

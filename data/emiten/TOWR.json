@@ -1,0 +1,63 @@
+{
+  "kode": "TOWR",
+  "nama": "Sarana Menara Nusantara Tbk",
+  "sektor": "Infrastruktur telekomunikasi",
+  "situs_resmi": "https://www.ptsmn.co.id/investor-relations",
+  "status_data": "lengkap",
+  "catatan": "Informasi buyback diambil dari Catatan 33 laporan keuangan 9M26 karena dokumen keterbukaan informasi buyback tidak dicari terpisah di situs. RUPST 20 Mei 2026 tidak memuat mata acara perubahan pengurus; RUPSLB 20 Mei 2026 hanya menyetujui perubahan Pasal 3 Anggaran Dasar (KBLI 2025) dan penambahan kegiatan usaha anak usaha PT Profesional Telekomunikasi Indonesia dan PT Iforte Solusi Infotek. RUPST juga memberi kuasa kepada Direksi untuk membagikan dividen interim tahun buku 2026; belum ditemukan pengumuman dividen interim 2026.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-02",
+      "jenis": "Buyback",
+      "judul": "Buyback Tahap V hingga Rp300 miliar tanpa RUPS (selesai 1 Mei 2026)",
+      "ringkasan": "Buyback dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023, Surat OJK S-102/D.04/2025) yang disampaikan dalam keterbukaan informasi 2 Februari 2026, maksimal Rp300 miliar di luar biaya transaksi (perkiraan sekitar 576 juta saham). Selesai 1 Mei 2026 dengan 501.690.200 saham dibeli kembali, sekitar 0,85% modal ditempatkan dan disetor.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian 30 September 2026 (Catatan 33 Modal Saham - Saham Treasuri)", "url": "https://media.ptsmn.co.id/content/CTC_CFCS_23893/PT%20Sarana%20Menara%20Nusantara%20Tbk_September%2030,%202026_released.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: sekitar Rp6,89 per saham",
+      "ringkasan": "RUPS Tahunan 20 Mei 2026 menetapkan sekitar Rp800 miliar dari laba bersih 2025 sebagai dividen. Setelah dikurangi dividen interim sekitar Rp399,9 miliar yang sudah dibagikan, sisa dividen final sekitar Rp400,1 miliar atau sekitar Rp6,89 per saham. Rp11,68 miliar dibukukan sebagai cadangan wajib. Tanggal pencatatan dan pembayaran diserahkan kepada Direksi.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT Sarana Menara Nusantara Tbk 20 Mei 2026 (Mata Acara Kedua)", "url": "https://media.ptsmn.co.id/content/general/20052026%20-%20Website%20IND%20ENG%20Ringkasan%20Risalah%20RUPST%20TOWR%20(Clean)%20-%20MSW.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Buyback",
+      "judul": "Buyback Tahap VI hingga Rp500 miliar tanpa RUPS",
+      "ringkasan": "Berdasarkan Surat OJK S-112/D.04/2026, perseroan mengumumkan buyback dalam kondisi pasar berfluktuasi signifikan lewat keterbukaan informasi 30 September 2026, maksimal Rp500 miliar di luar biaya transaksi, atau sekitar 2% modal ditempatkan (sekitar 1,18 miliar saham). Jangka waktu tiga bulan sejak tanggal keterbukaan informasi.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian 30 September 2026 (Catatan 33 Modal Saham - Saham Treasuri)", "url": "https://media.ptsmn.co.id/content/CTC_CFCS_23893/PT%20Sarana%20Menara%20Nusantara%20Tbk_September%2030,%202026_released.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [83928700, 77269692],
+      "pendapatan": [11060107, 9686701],
+      "beban_usaha": [995494, 851693],
+      "laba_bersih": [2774129, 2555244],
+      "liabilitas": [53745734, 50186386]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan dan pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan dan pemasaran (277.707; 2025: 215.596) + beban umum dan administrasi (717.787; 2025: 636.097). Beban usaha lainnya neto (351.510; 2025: 280.424) tidak dimasukkan.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian PT Sarana Menara Nusantara Tbk 30 September 2026 (tidak diaudit)", "url": "https://media.ptsmn.co.id/content/CTC_CFCS_23893/PT%20Sarana%20Menara%20Nusantara%20Tbk_September%2030,%202026_released.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

@@ -1,0 +1,78 @@
+{
+  "kode": "PWON",
+  "nama": "Pakuwon Jati Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.pakuwonjati.com/en/investor-relation",
+  "status_data": "lengkap",
+  "catatan": "",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp13 per saham",
+      "ringkasan": "RUPS Tahunan 11 Juni 2026 menetapkan dividen tunai Rp13 per saham (total sekitar Rp626,07 miliar) dari laba bersih 2025 sebesar Rp2,35 triliun, serta menyisihkan Rp1 miliar sebagai dana cadangan; sisanya menjadi laba ditahan. Cum dividen pasar reguler 22 Juni 2026, recording date 24 Juni 2026, pembayaran 15 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT Pakuwon Jati Tbk 2026", "url": "https://www.pakuwonjati.com/upload/2026/06/6a302d92c5196-ringkasan-risalah-rupst.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pengumuman Jadwal dan Tata Cara Pembagian Dividen Tunai", "url": "https://www.pakuwonjati.com/upload/2026/06/6a302d54b7b3e-ringkasan-risalah-dividen.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [37732081996, 36466038279],
+      "pendapatan": [5207816932, 5117714486],
+      "beban_usaha": [712152360, 671242655],
+      "laba_bersih": [1393460093, 1726525880],
+      "liabilitas": [10325864162, 9843194672]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba bersih periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan laba rugi tidak memiliki subtotal beban usaha. Beban usaha = beban penjualan (245.805.852; 2025: 247.720.459) + beban umum dan administrasi (466.346.508; 2025: 423.522.196). Beban keuangan dan beban pajak final tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian 30 September 2026 (tidak diaudit) dan 31 Desember 2025 (diaudit)", "url": "https://www.pakuwonjati.com/upload/2026/11/6ae854ce57a91-pt-pakuwon-jati-tbk-30-sep.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pengunduran diri",
+      "nama": "Irene Tedja",
+      "jabatan": "Komisaris",
+      "ringkasan": "Mengajukan pengunduran diri melalui surat 22 April 2026 (diumumkan 24 April 2026). RUPS Luar Biasa 11 Juni 2026 menerima pengunduran dirinya dan memberikan pembebasan tanggung jawab.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Pengunduran Diri Anggota Dewan Komisaris (24 April 2026)", "url": "https://www.pakuwonjati.com/upload/2026/04/69eb2b95d9447-keterbukaan-informasi-peng.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPS Luar Biasa PT Pakuwon Jati Tbk 2026", "url": "https://www.pakuwonjati.com/upload/2026/06/6a302de7c8107-ringkasan-risalah-rupslb.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Pengangkatan",
+      "nama": "Sudiman Sidabukke",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Luar Biasa 11 Juni 2026 sebagai Komisaris Independen, dengan masa jabatan sampai penutupan RUPS tahun 2028.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Luar Biasa PT Pakuwon Jati Tbk 2026", "url": "https://www.pakuwonjati.com/upload/2026/06/6a302de7c8107-ringkasan-risalah-rupslb.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Susunan baru",
+      "nama": "Alexander Tedja (Presiden Komisaris); Alexander Stefanus Ridwan Suhendra (Presiden Direktur)",
+      "jabatan": "Dewan Komisaris dan Direksi",
+      "ringkasan": "Setelah RUPSLB 11 Juni 2026, dewan komisaris terdiri atas 4 orang dipimpin Alexander Tedja dan direksi 6 orang dipimpin Alexander Stefanus Ridwan Suhendra, berlaku sampai RUPS tahun 2028.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Luar Biasa PT Pakuwon Jati Tbk 2026", "url": "https://www.pakuwonjati.com/upload/2026/06/6a302de7c8107-ringkasan-risalah-rupslb.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

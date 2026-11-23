@@ -1,0 +1,45 @@
+{
+  "kode": "EXCL",
+  "nama": "XL Axiata Tbk",
+  "sektor": "Telekomunikasi",
+  "situs_resmi": "https://www.xlsmart.co.id/id/ruang-investor",
+  "status_data": "sebagian",
+  "catatan": "Perseroan kini bernama PT XLSMART Telecom Sejahtera Tbk (dahulu PT XL Axiata Tbk); situs resmi www.xlsmart.co.id, dokumen disimpan di CDN static-cms-xlsmart.xlaxiata.my.id yang ditautkan langsung dari situs. Halaman Aksi Korporasi tidak menampilkan dokumen RUPS 2026, sehingga keputusan RUPS Tahunan 2026 (jika ada) tidak dapat diperiksa. Tabel dividen di situs dan catatan 20 laporan keuangan 9M26 tidak memuat dividen baru pada 2026 (dividen terakhir Rp159 per saham dibayar Desember 2025). Susunan Dewan Komisaris dan Direksi per 30 September 2026 sama dengan 31 Desember 2025 (Presiden Komisaris M. Arsjad Rasjid P.M., Presiden Direktur Rajeev Sethi), jadi tidak dicatat perubahan manajemen. Laporan keuangan tidak mencantumkan laporan auditor; dianggap tidak diaudit.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-11-20",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp1 triliun tanpa RUPS",
+      "ringkasan": "Buyback dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023, Surat OJK S-112/D.04/2026 dan perpanjangannya S-137/D.04/2026), dengan nilai maksimal Rp1 triliun termasuk biaya transaksi. Periode 23 November 2026 sampai 22 Februari 2027, melalui bursa maupun di luar bursa; jumlah saham yang dibeli tidak melebihi 20% modal disetor.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Rencana Pelaksanaan Pembelian Kembali Saham dalam Kondisi Pasar yang Berfluktuasi secara Signifikan (20 November 2026)", "url": "https://static-cms-xlsmart.xlaxiata.my.id/production/2026/11/20/3332221b-6a96-4456-b705-1651368b7408.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [117088357, 115318438],
+      "pendapatan": [35737474, 30547463],
+      "beban_usaha": [2847517, 2030806],
+      "laba_bersih": [-1600863, -2603082],
+      "liabilitas": [88655903, 85309730]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan dan pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Rugi periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan laba rugi menyajikan beban menurut sifat tanpa subtotal beban usaha. Beban usaha = beban penjualan dan pemasaran (2.288.188; 2025: 1.507.305) + beban umum dan administrasi (559.329; 2025: 523.501). Beban lain seperti penyusutan (15.257.440), infrastruktur (10.105.778), interkoneksi (3.935.351), gaji karyawan (2.554.456) dan amortisasi tidak dimasukkan; jumlah seluruh beban (setelah pos lain-lain) 34.734.870 (2025: 30.515.699).",
+    "sumber": [
+      {"judul": "3Q 26 Laporan Keuangan Konsolidasian Interim PT XLSMART Telecom Sejahtera Tbk", "url": "https://static-cms-xlsmart.xlaxiata.my.id/production/2026/11/18/c50074e3-093a-4309-8a9f-3c2c8f6e646e.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

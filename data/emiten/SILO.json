@@ -1,0 +1,11 @@
+{
+  "kode": "SILO",
+  "nama": "Siloam International Hospitals Tbk",
+  "sektor": "Kesehatan",
+  "situs_resmi": "https://www.siloamhospitals.com/en/Contents/Investor-Relations/Financial-Information/financial-statements",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi siloamhospitals.com adalah aplikasi single-page: HTML yang diterima dengan curl hanya kerangka sekitar 3 KB tanpa daftar dokumen, termasuk halaman Financial Statements Hubungan Investor. Dokumen disajikan lewat API (mysiloam-api.siloamhospitals.com) yang dipanggil oleh JavaScript; sesuai panduan, API internal dan browser headless tidak dipakai. Pencarian web terbatas domain resmi tidak menemukan tautan PDF dokumen 2026. Tidak ada data yang dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

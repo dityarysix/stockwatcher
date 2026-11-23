@@ -1,0 +1,87 @@
+{
+  "kode": "MYOR",
+  "nama": "Mayora Indah Tbk",
+  "sektor": "Makanan & minuman",
+  "situs_resmi": "https://www.mayoraindah.co.id/landing/Informasi-Bagi-Investor-8",
+  "status_data": "sebagian",
+  "catatan": "Halaman RUPS di situs memuat daftar dokumen secara dinamis dan tidak menampilkan tautan dokumen RUPS 2026 dalam HTML statis, sehingga ringkasan risalah RUPS Tahunan 4 Juni 2026 tidak diperoleh. Keputusan dividen dan perubahan pengurus diambil dari catatan laporan keuangan 30 September 2026; jadwal cum/pembayaran dividen tidak ditemukan. Keterbukaan informasi lain di situs (penggantian Kepala Unit Audit Internal, perubahan Komite Audit, peringkat obligasi) tidak dimasukkan karena bukan aksi korporasi/perubahan Dewan Komisaris-Direksi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Buyback",
+      "judul": "Periode buyback saham (maksimal Rp1 triliun) dipersingkat hingga 29 Mei 2026",
+      "ringkasan": "Buyback berdasarkan persetujuan RUPS Luar Biasa 10 Juni 2025, dengan dana maksimal Rp1 triliun, semula dijadwalkan 11 Juni 2025 sampai 11 Juni 2026. Lewat surat 20 Mei 2026 Perseroan mengubah periodenya menjadi 11 Juni 2025 sampai 29 Mei 2026.",
+      "sumber": [
+        {"judul": "Perubahan Jadwal Waktu Pelaksanaan Pembelian Kembali Saham PT Mayora Indah Tbk (20 Mei 2026)", "url": "https://www.mayoraindah.co.id/assets/upload/file/ki-perubahan-periode-bb.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp60 per saham (total sekitar Rp1,32 triliun)",
+      "ringkasan": "Berdasarkan catatan laporan keuangan 30 September 2026: RUPS Tahunan 4 Juni 2026 menyetujui dividen tunai Rp1.321.601.053.500 atau Rp60 per saham dari laba tahun buku 2025, serta cadangan umum Rp2 miliar. Jadwal pembayaran tidak ditemukan di situs.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian 30 September 2026, Catatan 23", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [29181002840192, 31379998865878],
+      "pendapatan": [28132715358960, 27157495609745],
+      "beban_usaha": [4192340452428, 3375750217700],
+      "laba_bersih": [2427312086167, 1849566567453],
+      "liabilitas": [10013869264633, 13017009300451]
+    },
+    "label": {
+      "pendapatan": "Penjualan bersih",
+      "beban_usaha": "Jumlah beban usaha (penjualan + umum dan administrasi)",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Angka dalam rupiah penuh. Jumlah beban usaha sesuai laporan: penjualan 3.335.030.546.305 (2025: 2.715.893.314.514) + umum dan administrasi 857.309.906.123 (2025: 659.856.903.186).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian YTD September 2026 PT Mayora Indah Tbk", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Pengangkatan",
+      "nama": "Hendra Kurniawan",
+      "jabatan": "Komisaris",
+      "ringkasan": "Disimpulkan dari perbandingan susunan pengurus di catatan laporan keuangan: namanya tercantum sebagai Komisaris per 30 September 2026 (berdasarkan RUPS Tahunan 4 Juni 2026) tetapi tidak per 31 Desember 2025.",
+      "sumber": [{"judul": "Laporan Keuangan Konsolidasian 30 September 2026, Catatan 1 (susunan pengurus)", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Pengangkatan",
+      "nama": "Rahardja Sutedjo",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Disimpulkan dari perbandingan susunan pengurus di catatan laporan keuangan: namanya tercantum sebagai Komisaris Independen per 30 September 2026 tetapi tidak per 31 Desember 2025.",
+      "sumber": [{"judul": "Laporan Keuangan Konsolidasian 30 September 2026, Catatan 1 (susunan pengurus)", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Suryanto Gunawan",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Disimpulkan dari perbandingan susunan pengurus di catatan laporan keuangan: tercantum sebagai Komisaris Independen per 31 Desember 2025 tetapi tidak lagi per 30 September 2026.",
+      "sumber": [{"judul": "Laporan Keuangan Konsolidasian 30 September 2026, Catatan 1 (susunan pengurus)", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-04",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Disimpulkan dari catatan laporan keuangan (susunan berdasarkan RUPS Tahunan 4 Juni 2026). Komisaris Utama: Jogi Hendra Atmadja. Direktur Utama: Andre Sukendra Atmadja. Susunan direksi sama dengan akhir 2025.",
+      "sumber": [{"judul": "Laporan Keuangan Konsolidasian 30 September 2026, Catatan 1 (susunan pengurus)", "url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

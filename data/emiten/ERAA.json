@@ -1,0 +1,74 @@
+{
+  "kode": "ERAA",
+  "nama": "Erajaya Swasembada Tbk",
+  "sektor": "Ritel",
+  "situs_resmi": "https://erajaya.com/general-meetings",
+  "status_data": "lengkap",
+  "catatan": "Situs Hubungan Investor tidak memiliki halaman keterbukaan informasi terpisah; data diambil dari dokumen RUPS 2026 dan laporan keuangan. Tidak ditemukan aksi korporasi lain (buyback, akuisisi, dan sebagainya) di situs selama 2026.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp25 per saham (total sekitar Rp389,6 miliar)",
+      "ringkasan": "RUPS Tahunan 29 Juni 2026 menyetujui dividen tunai Rp25 per saham atau Rp389.617.064.450 untuk 15.584.682.578 saham. Cum dividen pasar reguler 7 Juli 2026, recording date 9 Juli 2026, pembayaran 31 Juli 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan PT Erajaya Swasembada Tbk 29 Juni 2026", "url": "https://erajaya.com/general-meetings/download/103", "diakses": "2026-11-23"},
+        {"judul": "Jadwal & Tata Cara Pembagian Dividen Tahun Buku 2025", "url": "https://erajaya.com/general-meetings/download/104", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [31058864920, 28856532135],
+      "pendapatan": [63972391883, 52364380092],
+      "beban_usaha": [5824551728, 4709419156],
+      "laba_bersih": [1087727014, 785573941],
+      "liabilitas": [19903208620, 18679235130]
+    },
+    "label": {
+      "pendapatan": "Penjualan",
+      "beban_usaha": "Beban penjualan dan distribusi + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan dan distribusi (3.522.618.994; 2025: 2.649.909.014) + beban umum dan administrasi (2.301.932.734; 2025: 2.059.510.142). Beban lainnya tidak termasuk.",
+    "sumber": [
+      {"judul": "Financial Report as per 30 September 2026 (Unaudited)", "url": "https://erajaya.com/financial-reports/download/160", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Pengunduran diri",
+      "nama": "Lim Bing Tjay",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "RUPS Tahunan 29 Juni 2026 menerima pengunduran dirinya sebagai Komisaris Independen, efektif sejak tanggal rapat.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan 29 Juni 2026 (Mata Acara Kelima)", "url": "https://erajaya.com/general-meetings/download/103", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Pengangkatan",
+      "nama": "Rudiantara",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat sebagai Komisaris Independen sejak penutupan RUPS Tahunan 29 Juni 2026 sampai penutupan RUPS Tahunan tahun buku 2030 (diselenggarakan 2031). Ia mantan Menteri Komunikasi dan Informatika 2014-2019.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 29 Juni 2026 (Mata Acara Kelima)", "url": "https://erajaya.com/general-meetings/download/103", "diakses": "2026-11-23"},
+        {"judul": "Riwayat Hidup Calon Anggota Dewan Komisaris", "url": "https://erajaya.com/general-meetings/download/102", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris",
+      "jabatan": "Dewan Komisaris",
+      "ringkasan": "Susunan Dewan Komisaris baru: Komisaris Utama Alexander Halim Kusuma; Komisaris Richard Halim Kusuma, Richard M. Harjani, Andreas Harun Djumadi; Komisaris Independen I Gusti Putu Suryawirawan dan Rudiantara. Ringkasan risalah tidak memuat perubahan Direksi.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPS Tahunan 29 Juni 2026 (Mata Acara Kelima)", "url": "https://erajaya.com/general-meetings/download/103", "diakses": "2026-11-23"}]
+    }
+  ]
+}
