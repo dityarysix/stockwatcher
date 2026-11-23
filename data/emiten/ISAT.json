@@ -1,0 +1,11 @@
+{
+  "kode": "ISAT",
+  "nama": "Indosat Tbk",
+  "sektor": "Telekomunikasi",
+  "situs_resmi": "https://ioh.co.id/EN/ioh-investor",
+  "status_data": "sebagian",
+  "catatan": "Situs ioh.co.id dibangun dengan Nuxt dan daftar dokumen (laporan keuangan, RUPS, keterbukaan informasi) dimuat lewat JavaScript/API internal; HTML halaman ioh-investor-document, annual-general-meeting-shareholders dan disclosure-and-merger-information tidak memuat tautan PDF, sehingga laporan keuangan, keputusan RUPS 2026, dividen, dan perubahan pengurus tidak dapat diverifikasi. Satu-satunya dokumen yang terbaca adalah siaran pers kinerja semester I 2026 (tanpa tanggal terbit yang jelas di halaman): pendapatan 6 bulan sampai 30 Juni 2026 Rp30,7 triliun (naik 13,1% YoY), EBITDA Rp14,6 triliun, laba bersih ternormalisasi yang diatribusikan ke pemilik entitas induk Rp3,2 triliun; disebutkan juga pembentukan PT Infra Fiber Teknologi bersama Arsari Group, dengan pengalihan pengelolaan lebih dari 86.000 km serat optik dan perolehan sekitar Rp11,7 triliun bagi Indosat pada semester I 2026. Transaksi IFT tidak dicatat sebagai aksi korporasi karena tanggal dan dokumen keterbukaannya tidak ditemukan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

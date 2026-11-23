@@ -1,0 +1,46 @@
+{
+  "kode": "JGLE",
+  "nama": "Graha Andrasentra Propertindo Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.jungleseries.co.id/?page_id=1506",
+  "status_data": "sebagian",
+  "catatan": "Situs resmi perseroan adalah www.jungleseries.co.id (disebut sebagai situs web perseroan di dalam dokumen pemanggilan RUPS). Seluruh dokumen di situs itu ditautkan ke Google Drive; dokumen diunduh dari tautan Drive yang dipasang di situs resmi. Ringkasan risalah RUPSLB 1 September 2026 tidak dapat dipastikan tautannya (tautan yang diuji ternyata berisi pemanggilan), sehingga hasil RUPSLB ketiga (agenda penyesuaian KBLI 2025) tidak diverifikasi. RUPST 11 Juni 2026 tidak memuat agenda dividen maupun perubahan pengurus. Status akhir rencana PMHMETD I dan pembelian saham PT Jungleland Asia belum terverifikasi: RUPSLB yang direncanakan 31 Maret 2026 ditunda, dan RUPSLB berikutnya (Juni dan September 2026) hanya memuat agenda administratif. Tidak ditemukan perubahan manajemen selama 2026.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-20",
+      "jenis": "Rights issue",
+      "judul": "Rencana PMHMETD I hingga Rp414 miliar untuk membeli 61,86% saham PT Jungleland Asia",
+      "ringkasan": "Perseroan berencana menerbitkan 8.280.033.448 saham baru seri B (26,83% dari modal setelah PMHMETD) dengan harga pelaksanaan Rp50 per saham, total sekitar Rp414,0 miliar, rasio 270 saham lama : 99 HMETD. Hampir seluruh dana (sekitar Rp413,9 miliar) direncanakan untuk membeli 14.783.475.782 saham PT Jungleland Asia (61,86%) dari PT Adiprotek Envirodunia, yang juga merupakan transaksi material. Keterbukaan informasi awal 20 Februari 2026, direvisi 26 Maret 2026; RUPSLB persetujuan yang dijadwalkan 31 Maret 2026 kemudian ditunda.",
+      "sumber": [
+        {"judul": "Perubahan dan/atau Tambahan Informasi atas Keterbukaan Informasi PMHMETD I, Transaksi Material dan Perubahan Kegiatan Usaha (26 Maret 2026)", "url": "https://drive.google.com/file/d/1Io9XqQD9dJ81Ykca7TGSDLpdlLApHD0u/view", "diakses": "2026-11-23"},
+        {"judul": "Pengumuman RUPSLB 7 Mei 2026 (merujuk penundaan RUPSLB 30 Maret 2026)", "url": "https://drive.google.com/file/d/1-uJ__3kHYc_SEE6tSnYh3-6FOeYKbFxC/view", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [1500044, 1518232],
+      "pendapatan": [102403, 107333],
+      "beban_usaha": [74885, 73757],
+      "laba_bersih": [-16424, -9067],
+      "liabilitas": [428100, 429714]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Total beban usaha (penjualan + umum dan administrasi)",
+      "laba_bersih": "Rugi neto yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (6.305; 2025: 6.562) + beban umum dan administrasi (68.580; 2025: 67.195), sesuai baris Total Beban Usaha. Perseroan rugi pada kedua periode.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (Laporan Keuangan 9M26)", "url": "https://drive.google.com/file/d/10hYvmjBG742uUpev3rP6oH9lhPeExhEh/view", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

@@ -1,0 +1,11 @@
+{
+  "kode": "SIDO",
+  "nama": "Industri Jamu dan Farmasi Sido Muncul Tbk",
+  "sektor": "Kesehatan",
+  "situs_resmi": "https://investor.sidomuncul.co.id/id/home.html",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs Hubungan Investor (investor.sidomuncul.co.id) membalas HTTP 202 tanpa isi dengan header x-amzn-waf-action: challenge (tantangan AWS WAF) pada 23 November 2026, sehingga akses dihentikan sesuai panduan. Situs utama www.sidomuncul.co.id dapat dibuka, tetapi halaman Siaran Pers menampilkan 'page missing' dan tidak memuat dokumen 2026. Tidak ada data yang dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

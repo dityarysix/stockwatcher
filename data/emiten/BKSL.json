@@ -1,0 +1,96 @@
+{
+  "kode": "BKSL",
+  "nama": "Sentul City Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.sentulcity.co.id/investor/investor_relations",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 30 Juni 2026 tidak membagikan dividen. Ringkasan risalah hanya mencantumkan pengurus yang hadir sebelum RUPS, sehingga pengurus lama yang mungkin tidak menjabat lagi tidak dapat dipastikan; entri perubahan manajemen dibuat untuk nama baru dalam susunan hasil RUPS. Laporan keuangan September 2026 tidak menyatakan secara eksplisit status audit; diasumsikan tidak diaudit seperti laporan interim lazimnya.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-19",
+      "jenis": "Lainnya",
+      "judul": "Permohonan pembatalan perjanjian perdamaian (PKPU) di PN Niaga Jakarta Pusat",
+      "ringkasan": "Perseroan mengungkapkan adanya permohonan pembatalan perjanjian perdamaian yang diajukan Eddon Pratama Wijayaputra (perkara No. 1/Pdt.Sus-Pailit-Pembatalan Perdamaian/2026/PN Niaga Jkt.Pst, 12 Januari 2026) dengan dalil perseroan lalai memenuhi kewajiban. Perseroan menyatakan telah memenuhi seluruh kewajiban sejak homologasi, operasional berjalan normal, dan akan mengikuti proses hukum.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Permohonan Pembatalan Perjanjian Perdamaian (19 Januari 2026)", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/2026-01-19_Keterbukaan_Informasi_Permohonan_Pembatalan_Perjanjian_Perdamaian.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "rupiah",
+    "format": "umum",
+    "audit": "Konsolidasian interim (status audit tidak dinyatakan eksplisit; diasumsikan tidak diaudit)",
+    "pos": {
+      "aset": [21733154605683, 21261038603556],
+      "pendapatan": [1233088452072, 836979819540],
+      "beban_usaha": [250109309095, 184471048301],
+      "laba_bersih": [126477269851, 71946385717],
+      "liabilitas": [5616243670615, 5268295038149]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba neto periode berjalan yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (36.801.742.858; 2025: 40.177.782.089) + beban umum dan administrasi (213.307.566.237; 2025: 144.293.266.212). Beban pajak final dan beban operasi lainnya tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/laporan-keuangan/2026/SC_-_Laporan_Keuangan_Konsolidasian_-_Sep_2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Reina Kumala Kwee",
+      "jabatan": "Wakil Presiden Komisaris",
+      "ringkasan": "Disimpulkan dari perbandingan daftar pengurus yang hadir dengan susunan baru hasil RUPS Tahunan 30 Juni 2026: nama ini muncul sebagai Wakil Presiden Komisaris dan tidak tercantum sebagai pengurus yang hadir sebelumnya.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/Ringkasan_Risalah_RUPS_Tahunan_30_Juni_2026_(IND).pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Andrian Budi Utama",
+      "jabatan": "Wakil Presiden Direktur",
+      "ringkasan": "Disimpulkan dari perbandingan daftar pengurus yang hadir dengan susunan baru hasil RUPS Tahunan 30 Juni 2026: diangkat sebagai Wakil Presiden Direktur.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/Ringkasan_Risalah_RUPS_Tahunan_30_Juni_2026_(IND).pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Iwan Budiharsana",
+      "jabatan": "Direktur",
+      "ringkasan": "Disimpulkan dari perbandingan daftar pengurus yang hadir dengan susunan baru hasil RUPS Tahunan 30 Juni 2026: diangkat sebagai Direktur.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/Ringkasan_Risalah_RUPS_Tahunan_30_Juni_2026_(IND).pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Jeyson Pribadi",
+      "jabatan": "Direktur",
+      "ringkasan": "Disimpulkan dari perbandingan daftar pengurus yang hadir dengan susunan baru hasil RUPS Tahunan 30 Juni 2026: diangkat sebagai Direktur.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/Ringkasan_Risalah_RUPS_Tahunan_30_Juni_2026_(IND).pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Susunan baru",
+      "nama": "Basaria Panjaitan (Presiden Komisaris); Hiramsyah Sambudhy Thaib (Presiden Direktur)",
+      "jabatan": "Dewan Komisaris dan Direksi",
+      "ringkasan": "RUPS Tahunan 30 Juni 2026 memberhentikan dengan hormat seluruh pengurus lalu mengangkat susunan baru: 8 komisaris dipimpin Basaria Panjaitan dan 8 direktur dipimpin Hiramsyah Sambudhy Thaib.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPS Tahunan 30 Juni 2026", "url": "https://www.sentulcity.co.id/files/media/uploaded-files/investor/coorporate_information_old/baru/Ringkasan_Risalah_RUPS_Tahunan_30_Juni_2026_(IND).pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

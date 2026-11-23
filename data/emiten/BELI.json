@@ -1,0 +1,68 @@
+{
+  "kode": "BELI",
+  "nama": "Global Digital Niaga Tbk",
+  "sektor": "Teknologi",
+  "situs_resmi": "https://about.blibli.com/en/investor-relations",
+  "status_data": "sebagian",
+  "catatan": "Halaman investor dimuat lewat JavaScript, sehingga daftar dokumen tidak bisa dibaca; hanya dokumen yang alamatnya ditemukan lewat pencarian yang dipakai. Laporan keuangan 30 September 2026 tidak ditemukan; ringkasan risalah RUPS Tahunan/Luar Biasa 2026 tidak ditemukan, jadi dividen dan perubahan pengurus belum tercakup.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-28",
+      "jenis": "Private placement",
+      "judul": "Rencana penambahan modal tanpa HMETD (program MESOP dan penerbitan saham lain)",
+      "ringkasan": "Perseroan mengumumkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu, terdiri dari program opsi saham manajemen dan karyawan (MESOP) serta penerbitan saham baru di luar MESOP, yang memerlukan persetujuan pemegang saham independen dalam RUPS Luar Biasa.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan informasi rencana PMTHMETD, 28 April 2026",
+          "url": "https://asset-about.blibli.com/2026/04/Keterbukaan-Informasi-PMTHMETD-Apr-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [
+        18751121,
+        17800778
+      ],
+      "pendapatan": [
+        14830417,
+        9595691
+      ],
+      "beban_usaha": [
+        2847545,
+        2908594
+      ],
+      "laba_bersih": [
+        -699981,
+        -1247896
+      ],
+      "liabilitas": [
+        9414947,
+        8346445
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Rugi periode berjalan yang diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan 30 September 2026 belum ditemukan di situs. Beban usaha = beban penjualan (1.060.457; 2025: 994.991) + beban umum dan administrasi (1.787.088; 2025: 1.913.603).",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 Juni 2026",
+        "url": "https://asset-about.blibli.com/2026/07/LK-Konsolidasi_Global-Digital-Niaga_Jun-2026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": []
+}

@@ -2,7 +2,7 @@
 
 Tayang di https://ceksaham.live. Koreksi data: info@ceksaham.live
 
-Ringkasan keterbukaan informasi 50 emiten Bursa Efek Indonesia sejak 1 Januari 2026, diambil dari **situs resmi masing-masing emiten**. Isinya dibagi tiga bagian:
+Ringkasan keterbukaan informasi 100 emiten Bursa Efek Indonesia sejak 1 Januari 2026, diambil dari **situs resmi masing-masing emiten**. Isinya dibagi tiga bagian:
 
 1. **Aksi korporasi:** dividen, buyback, akuisisi, rights issue, dan lainnya
 2. **Laporan keuangan:** aset, pendapatan, beban usaha, laba/rugi, dan utang (total liabilitas)
@@ -12,7 +12,7 @@ Ringkasan keterbukaan informasi 50 emiten Bursa Efek Indonesia sejak 1 Januari 2
 
 | Lokasi | Isi |
 |---|---|
-| `data/daftar_emiten.csv` | Daftar 50 emiten |
+| `data/daftar_emiten.csv` | Daftar 100 emiten |
 | `data/emiten/KODE.json` | Data per emiten (sumber utama) |
 | `scripts/build.py` | Menggabungkan semua data menjadi `docs/data/semua.json` |
 | `docs/` | Website statis (GitHub Pages) |

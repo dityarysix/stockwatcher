@@ -1,0 +1,123 @@
+{
+  "kode": "JPFA",
+  "nama": "Japfa Comfeed Indonesia Tbk",
+  "sektor": "Pakan & peternakan",
+  "situs_resmi": "https://www.japfacomfeed.co.id/informasi-saham-obligasi",
+  "status_data": "lengkap",
+  "catatan": "Dokumen keterbukaan 25 Agustus 2026 (wafatnya Komisaris Utama) dan 20 November 2026 (akuisisi TCL/TCT) berupa PDF hasil pindaian; isinya dibaca dari gambar halaman. Nilai transaksi akuisisi TCL/TCT tidak terlihat pada dua halaman pertama yang dibaca, sehingga tidak dicantumkan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-29",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp140 per saham",
+      "ringkasan": "RUPS Tahunan 29 April 2026 menetapkan dividen tunai Rp140 per saham dari laba tahun buku 2025; sisanya dicatat sebagai saldo laba. Cum dividen pasar reguler 8 Mei 2026, recording date 12 Mei 2026, pembayaran 19 Mei 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST dan RUPSLB serta Jadwal Pembagian Dividen (30 April 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20260430.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-29",
+      "jenis": "Buyback",
+      "judul": "Mandat buyback hingga 1,5% saham, maksimal Rp528 miliar",
+      "ringkasan": "Rencana diumumkan lewat keterbukaan informasi 17 Maret 2026 dan disetujui RUPS Luar Biasa 29 April 2026 (Mata Acara Kedua). Mandat mencakup pembelian kembali maksimal 1,5% dari saham yang ditempatkan dengan dana maksimal Rp528 miliar, mengacu POJK 29/2023.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi tentang Persetujuan (Mandat) Pembelian Kembali Saham (17 Maret 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/03/buyback-shares-disclosure-information-20260317.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPST dan RUPSLB (30 April 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20260430.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-30",
+      "jenis": "Divestasi",
+      "judul": "Penjualan PT Vaksindo Satwa Nusantara senilai sekitar Rp1,81 triliun",
+      "ringkasan": "Perseroan dan Ciomas menjual PT Vaksindo Satwa Nusantara beserta anak usahanya (Vaksindo Animal Health Pvt Ltd dan Vaksindo Vietnam) termasuk merek VAKSINDO, VAKSIMUNE dan VITAKUR kepada Japfa Pte. Ltd. dan Bionovus Pte. Ltd. Perjanjian jual beli ditandatangani 29 September 2026 dengan harga Rp1.807.389.000.000. Transaksi dengan pihak terafiliasi ini diungkapkan sesuai POJK 42/2020.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi PT Japfa Comfeed Indonesia Tbk (30 September 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/09/20260930---disclosure-of-information.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-28",
+      "jenis": "Dividen",
+      "judul": "Dividen interim tahun buku 2026: Rp90 per saham (total sekitar Rp1,05 triliun)",
+      "ringkasan": "Diputuskan Direksi dengan persetujuan Dewan Komisaris 27 Oktober 2026 dan diumumkan 28 Oktober 2026, berasal dari laba semester I 2026. Cum dividen pasar reguler 5 November 2026, recording date 9 November 2026, pembayaran 12 November 2026.",
+      "sumber": [
+        {"judul": "Pemberitahuan Pembagian Dividen Interim (28 Oktober 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/10/28-10-2026/pt-japfa-tbk-announcement-interim-dividend.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-20",
+      "jenis": "Akuisisi",
+      "judul": "Akuisisi PT Tira Cipta Logistik dan PT Tira Cipta Transportasi oleh PT Japfa Food Indonesia",
+      "ringkasan": "Anak usaha PT Japfa Food Indonesia menandatangani perjanjian jual beli bersyarat dengan PT Tigaraksa Satria Tbk pada 20 November 2026 untuk membeli 60% saham PT Tira Cipta Logistik dan 1% saham PT Tira Cipta Transportasi. Sisa saham dimiliki anak usaha lain Perseroan dan akan dialihkan ke JFI, sehingga logistik rantai dingin kedua perusahaan sepenuhnya berada di grup JAPFA. Nilai transaksi tidak tercantum pada bagian dokumen yang dibaca.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi PT Japfa Comfeed Indonesia Tbk (20 November 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/11/20261120-disclosure-of-information-.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [49561577, 40060430],
+      "pendapatan": [54524991, 43104381],
+      "beban_usaha": [6059689, 4832502],
+      "laba_bersih": [3231380, 2411411],
+      "liabilitas": [26444819, 20041473]
+    },
+    "label": {
+      "pendapatan": "Penjualan neto",
+      "beban_usaha": "Beban penjualan dan pemasaran + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan dan pemasaran (2.482.933; 2025: 1.944.104) + beban umum dan administrasi (3.576.756; 2025: 2.888.398). Beban lainnya dan perubahan nilai wajar aset biologis tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (tidak diaudit)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-29",
+      "jenis": "Pengangkatan",
+      "nama": "Arif Widjaja",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat sebagai Direktur baru oleh RUPS Tahunan 29 April 2026, masa jabatan sampai RUPS Tahunan 2027.",
+      "sumber": [
+        {"judul": "Informasi Perubahan Pengurus (29 April 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/informasi-perubahan-pengurus-20260429.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-29",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Tan Yong Nang",
+      "jabatan": "Wakil Direktur Utama",
+      "ringkasan": "Disimpulkan dari laporan perubahan pengurus: posisi Wakil Direktur Utama yang sebelumnya dijabat Tan Yong Nang tidak diisi lagi, dan namanya tidak tercantum dalam susunan direksi hasil RUPS Tahunan 29 April 2026.",
+      "sumber": [
+        {"judul": "Informasi Perubahan Pengurus (29 April 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/informasi-perubahan-pengurus-20260429.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-04-29",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "RUPS Tahunan mengangkat pengurus sampai RUPS Tahunan 2027. Komisaris Utama: H. Syamsir Siregar; Wakil Komisaris Utama/Independen: Bambang Budi Hendarto. Direktur Utama: Renaldo Santosa; direktur lain Leo Handoko Laksono, Rachmat Indrajaya, Gabriella Santosa, dan Arif Widjaja.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST dan RUPSLB (30 April 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20260430.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-25",
+      "jenis": "Meninggal dunia",
+      "nama": "H. Syamsir Siregar",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Perseroan mengumumkan Komisaris Utama H. Syamsir Siregar meninggal dunia pada 25 Agustus 2026. Perubahan susunan Dewan Komisaris akan dilakukan pada RUPS berikutnya.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi wafatnya Komisaris Utama (25 Agustus 2026)", "url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/08/disc-demise-of-president-commissioner-20260825.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ]
+}

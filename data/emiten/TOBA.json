@@ -1,0 +1,64 @@
+{
+  "kode": "TOBA",
+  "nama": "TBS Energi Utama Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://www.thisistbs.com/id/investor-tbs",
+  "status_data": "sebagian",
+  "catatan": "Domain tbsenergi.com dialihkan ke thisistbs.com. Halaman Informasi Keuangan (kinerja-keuangan) memuat daftar laporan lewat JavaScript dan tautan PDF laporan keuangan tidak ditemukan di HTML-nya, sehingga laporan_keuangan dikosongkan. Siaran pers 30 Oktober 2026 (9M2026) hanya menyebut angka ringkas: pendapatan konsolidasian US$257,3 juta (turun 11%), rugi bersih konsolidasian US$35,4 juta (9M2025: rugi US$127,9 juta), tanpa total aset/liabilitas dan tanpa rincian beban usaha. Nilai dividen per saham tahun buku 2025 tidak disebut dalam ringkasan risalah RUPST, dan pengumuman jadwal dividen 2026 tidak ditemukan di situs. RUPSLB 16 April 2026 hanya menyetujui perubahan Pasal 3 Anggaran Dasar (penyesuaian KBLI). Hasil RUPSLB 27 November 2026 belum ada.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai final tahun buku 2025: total USD8.888.000",
+      "ringkasan": "RUPS Tahunan 16 April 2026 menyetujui pembagian dividen tunai USD8.888.000 dari saldo laba ditahan (saldo laba tahun buku 2025 USD107.532.896) serta penyisihan cadangan wajib USD1.611.237. Jadwal cum/recording/pembayaran dan nilai per saham diserahkan kepada Direksi dan tidak tercantum dalam ringkasan risalah.",
+      "sumber": [
+        {"judul": "Pengumuman Ringkasan Risalah RUPS Tahunan PT TBS Energi Utama Tbk 16 April 2026 (Mata Acara Kedua)", "url": "https://assets.thisistbs.com/TBS%20-%20%20Pengumuman%20Ringkasan%20Risalah%20RUPST.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-10-21",
+      "jenis": "Transaksi material",
+      "judul": "Rencana investasi hingga SGD555 juta ke anak usaha pengelolaan limbah SBTH Asia Holdings",
+      "ringkasan": "SBTH Asia Holdings Pte. Ltd., perusahaan terkendali perseroan di bisnis pengelolaan limbah, akan menerbitkan saham preferen tebus (RPS) tanpa hak suara dan synthetic warrants kepada investor institusi global dengan total komitmen maksimal SGD555 juta (SGD125 juta subscription, primary tranche hingga SGD130 juta, incremental tranche hingga SGD300 juta). Nilainya setara 227,06% ekuitas perseroan per 30 Juni 2026 (US$188,9 juta), sehingga menjadi transaksi material yang dimintakan persetujuan RUPSLB 27 November 2026. Perseroan tetap memiliki seluruh saham biasa SBTH.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi terkait Transaksi Material (21 Oktober 2026)", "url": "https://assets.thisistbs.com/TBS%20-%20Keterbukaan%20Informasi%2021%20Oktober%202026.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pemanggilan RUPS Luar Biasa 27 November 2026 (5 November 2026)", "url": "https://assets.thisistbs.com/TBS%20-%20Pemanggilan%20RUPSLB.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Pengunduran diri",
+      "nama": "Bacelius Ruru",
+      "jabatan": "Komisaris Utama merangkap Komisaris Independen",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya, yang sebelumnya diumumkan lewat keterbukaan informasi, efektif sejak penutupan Rapat, dan memberikan acquit et de charge.",
+      "sumber": [{"judul": "Pengumuman Ringkasan Risalah RUPS Tahunan 16 April 2026 (Mata Acara Kelima)", "url": "https://assets.thisistbs.com/TBS%20-%20%20Pengumuman%20Ringkasan%20Risalah%20RUPST.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Perubahan jabatan",
+      "nama": "Dr. Ahmad Fuad Rahmany",
+      "jabatan": "Komisaris Utama merangkap Komisaris Independen",
+      "ringkasan": "Sebelumnya Komisaris Independen, diangkat RUPS Tahunan menjadi Komisaris Utama merangkap Komisaris Independen dengan masa jabatan sampai RUPS Tahunan 2028.",
+      "sumber": [{"judul": "Pengumuman Ringkasan Risalah RUPS Tahunan 16 April 2026 (Mata Acara Kelima)", "url": "https://assets.thisistbs.com/TBS%20-%20%20Pengumuman%20Ringkasan%20Risalah%20RUPST.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Pengangkatan",
+      "nama": "Judy Lee",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Tahunan sebagai Komisaris Independen, efektif sejak penutupan Rapat sampai RUPS Tahunan 2030.",
+      "sumber": [{"judul": "Pengumuman Ringkasan Risalah RUPS Tahunan 16 April 2026 (Mata Acara Kelima)", "url": "https://assets.thisistbs.com/TBS%20-%20%20Pengumuman%20Ringkasan%20Risalah%20RUPST.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-04-16",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Seluruh direksi (Dicky Yordan, Alvin Firman Sunanda, Juli Oktarina, Mufti Utomo, Sudharmono Saragih) diangkat kembali sampai RUPS Tahunan 2031. Komisaris Utama: Dr. Ahmad Fuad Rahmany; Komisaris Independen: Yasmin S. Wirjawan, Frances Kang (Kang Tzu Ping), Judy Lee. Direktur Utama: Dicky Yordan.",
+      "sumber": [{"judul": "Pengumuman Ringkasan Risalah RUPS Tahunan 16 April 2026 (Mata Acara Kelima)", "url": "https://assets.thisistbs.com/TBS%20-%20%20Pengumuman%20Ringkasan%20Risalah%20RUPST.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kode": "HRUM",
+  "nama": "Harum Energy Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.harumenergy.com/rapat-umum-pemegang-saham-rups",
+  "status_data": "sebagian",
+  "catatan": "Halaman HTML situs dapat dibaca, tetapi unduhan PDF laporan keuangan 30 September 2026 (hrum_consolidated_30sept26-blurred.pdf) dan ringkasan risalah RUPSLB 18 September 2026 membalas halaman tantangan bot ('One moment, please...') sehingga tidak dibuka dan laporan_keuangan dikosongkan. Hanya ringkasan risalah RUPS Tahunan 3 Juni 2026 yang berhasil diunduh. RUPST 3 Juni 2026 memutuskan TIDAK membagikan dividen tahun buku 2025 (sisa laba USD37.326.878 dijadikan saldo laba, USD100.000 sebagai dana cadangan) dan tidak memuat mata acara perubahan pengurus. Isi keputusan RUPSLB 18 September 2026 tidak diketahui.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

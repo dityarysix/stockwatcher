@@ -1,0 +1,46 @@
+{
+  "kode": "SMRA",
+  "nama": "Summarecon Agung Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.summarecon.com/investor-info/investor-relation",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 11 Juni 2026 tidak memuat mata acara perubahan pengurus, dan halaman pengumuman di situs tidak memuat keterbukaan informasi perubahan manajemen selama 2026. RUPS juga menyetujui penjaminan aset lebih dari 50% aset bersih untuk keperluan pendanaan (bukan aksi korporasi tersendiri) dan perubahan Pasal 3 anggaran dasar terkait KBLI 2025.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp5 per saham",
+      "ringkasan": "RUPS Tahunan 11 Juni 2026 menetapkan dividen tunai Rp5 per saham (total sekitar Rp82,54 miliar) dari total laba komprehensif 2025 sebesar Rp1,19 triliun; sekitar Rp11,94 miliar disisihkan sebagai dana cadangan dan sisanya menjadi laba ditahan. Cum dividen pasar reguler 22 Juni 2026, recording date 24 Juni 2026, pembayaran 10 Juli 2026.",
+      "sumber": [
+        {"judul": "Notice of Summary Minutes of AGMS 2026 PT Summarecon Agung Tbk", "url": "https://www.summarecon.com/files/article/SMRA_Notice%20of%20Summary%20Minutes%20of%20AGMS%202026.pdf", "diakses": "2026-11-23"},
+        {"judul": "SMRA Announcement Dividen 2026 (15 Juni 2026)", "url": "https://www.summarecon.com/files/article/SMRA_Announcement%20Dividen%202026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [42908148744, 38342511906],
+      "pendapatan": [6277204954, 6411443492],
+      "beban_usaha": [1339916408, 1320062309],
+      "laba_bersih": [404785318, 549576316],
+      "liabilitas": [26351139160, 22337631471]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (380.564.748; 2025: 380.949.894) + beban umum dan administrasi (959.351.660; 2025: 939.112.415). Beban operasi lain, biaya keuangan, dan pajak final tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim SMRA Q3 2026 (bilingual)", "url": "https://www.summarecon.com/files/article/SMRA%20Q3%202026%20-%20Bilingual.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

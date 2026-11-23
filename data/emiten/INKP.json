@@ -1,0 +1,68 @@
+{
+  "kode": "INKP",
+  "nama": "Indah Kiat Pulp & Paper Tbk",
+  "sektor": "Pulp & kertas",
+  "situs_resmi": "https://app.co.id/investors",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 23 Juni 2026 tidak memuat agenda perubahan pengurus.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Dividen",
+      "sumber": [
+        {
+          "judul": "Ringkasan risalah RUPS Tahunan INKP, 23 Juni 2026",
+          "url": "https://app.co.id/documents/20123/8254918/IK+-+RINGKASAN+RISALAH+RUPST+INKP+(25+Juni+2026).pdf/c5ee37e3-a18c-aa36-8438-c2ba8f113fd4?t=1782361538976",
+          "diakses": "2026-11-23"
+        }
+      ],
+      "judul": "Dividen tahun buku 2025: Rp75 per saham (sekitar Rp410,3 miliar)",
+      "ringkasan": "RUPS Tahunan 23 Juni 2026 menetapkan dividen tunai Rp75 per saham, total sekitar Rp410,3 miliar. Sebagian laba juga disisihkan sebagai cadangan sebesar US$10 juta."
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [
+        13479092,
+        12347406
+      ],
+      "pendapatan": [
+        2626220,
+        2363061
+      ],
+      "beban_usaha": [
+        295305,
+        274657
+      ],
+      "laba_bersih": [
+        459768,
+        325921
+      ],
+      "liabilitas": [
+        6199228,
+        5503609
+      ]
+    },
+    "label": {
+      "pendapatan": "Penjualan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan disajikan dalam ribuan dolar AS. Beban usaha = beban penjualan + beban umum dan administrasi.",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (bilingual)",
+        "url": "https://app.co.id/documents/20123/0/IKPP+ReportBillingual+Sep+30+2026+%281%29.pdf/ac23ed77-edd7-bc06-e48b-d378f7d1769c?t=1793493985683",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": []
+}

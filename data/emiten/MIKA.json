@@ -1,0 +1,11 @@
+{
+  "kode": "MIKA",
+  "nama": "Mitra Keluarga Karyasehat Tbk",
+  "sektor": "Kesehatan",
+  "situs_resmi": "https://investor.mitrakeluarga.com/investor-relations?section=reports&sub=financial-reports",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs Hubungan Investor (investor.mitrakeluarga.com) adalah aplikasi Next.js yang memuat seluruh daftar dokumen lewat JavaScript; HTML statisnya kosong (tanpa tautan dokumen). Sesuai panduan, API internal situs tidak dipakai dan browser headless tidak digunakan. Halaman berita korporat di www.mitrakeluarga.com membalas 404, dan pencarian web terbatas domain resmi tidak menghasilkan tautan PDF langsung untuk dokumen 2026. Tidak ada data yang dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

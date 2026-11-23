@@ -1,0 +1,152 @@
+{
+  "kode": "MTEL",
+  "nama": "Dayamitra Telekomunikasi Tbk",
+  "sektor": "Infrastruktur telekomunikasi",
+  "situs_resmi": "https://www.mitratel.co.id/informasi-kepada-investor/",
+  "status_data": "lengkap",
+  "catatan": "Dua dokumen (pengunduran diri komisaris April 2026 dan informasi perubahan pengurus Juli 2026) berupa PDF pindaian dan tidak dibaca isinya; perubahan pengurus diambil dari ringkasan risalah RUPS Tahunan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Dividen",
+      "judul": "Dividen tahun buku 2025: sekitar Rp25,65 per saham (tunai + spesial)",
+      "ringkasan": "RUPS Tahunan menetapkan dividen tunai 70% dari laba bersih 2025 (Rp1,48 triliun atau sekitar Rp18,32 per saham) dan dividen spesial 28% (Rp593,4 miliar atau sekitar Rp7,33 per saham). Recording date diubah menjadi 10 Juli 2026, pembayaran 31 Juli 2026.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Tahunan MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPST-2025.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan informasi terkait dividen (perubahan jadwal)",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Keterbukaan-Informasi-terkait-Dividen.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Merger",
+      "judul": "Penggabungan usaha dengan PT Persada Sokka Tama dan PT Ultra Mandiri Telekomunikasi",
+      "ringkasan": "RUPS Luar Biasa menyetujui penggabungan usaha di mana MTEL menjadi perusahaan penerima penggabungan, sekaligus perubahan anggaran dasar terkait penambahan bidang usaha.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPSLB.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Pengumuman hasil penggabungan usaha",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Pengumuman-hasil-penggabungan-usaha-MTEL-Merged.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Buyback",
+      "judul": "Pembelian kembali saham dari pemegang saham yang tidak setuju merger, maksimal sekitar Rp2,98 triliun",
+      "ringkasan": "Terkait merger, pemegang saham yang menolak dapat meminta sahamnya dibeli kembali pada harga Rp515 per saham, dengan batas nilai maksimal Rp2,98 triliun; kelebihannya ditanggung pembeli siaga.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan informasi rencana pembelian kembali saham bagi pemegang saham yang tidak setuju",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Fin_KI-Buyback-Saham-bagi-Pemegang-Saham-Tidak-Setuju.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPSLB.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit",
+    "pos": {
+      "aset": [
+        58772163,
+        58350129
+      ],
+      "pendapatan": [
+        7005306,
+        6880603
+      ],
+      "beban_usaha": [
+        454593,
+        430872
+      ],
+      "laba_bersih": [
+        1553614,
+        1541768
+      ],
+      "liabilitas": [
+        26507451,
+        24998928
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban usaha (umum & administrasi + kompensasi karyawan + penghasilan/beban usaha lainnya neto)",
+      "laba_bersih": "Laba periode berjalan",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha memakai pos 'Beban usaha' di laporan, tidak termasuk beban pokok pendapatan (Rp3,50 T). Laporan tidak memisahkan laba yang diatribusikan ke pemilik entitas induk.",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan 30 September 2026 (tidak diaudit)",
+        "url": "https://www.mitratel.co.id/wp-content/uploads/2026/11/MTEL-Financial-Statements-Q3Y26-Finals.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-04-13",
+      "jenis": "Pemberhentian",
+      "nama": "Faisal Amir Masduki",
+      "jabatan": "Komisaris",
+      "ringkasan": "Pemberhentiannya berlaku efektif 13 April 2026 dan dikukuhkan RUPS Tahunan 30 Juni 2026.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Tahunan MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPST-2025.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pemberhentian",
+      "nama": "Hendra Purnama",
+      "jabatan": "Direktur Investasi",
+      "ringkasan": "Diberhentikan dengan hormat oleh RUPS Tahunan, terhitung sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Tahunan MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPST-2025.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-06-30",
+      "jenis": "Pengangkatan",
+      "nama": "Noorhayati Candrasuci",
+      "jabatan": "Direktur Investasi",
+      "ringkasan": "Diangkat RUPS Tahunan sejak penutupan rapat sampai penutupan RUPS Tahunan 2031.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Tahunan MTEL 30 Juni 2026",
+          "url": "https://www.mitratel.co.id/wp-content/uploads/2026/07/Ina_Ringkasan-Risalah-RUPST-2025.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

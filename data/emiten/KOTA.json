@@ -1,0 +1,31 @@
+{
+  "kode": "KOTA",
+  "nama": "DMS Propertindo Tbk",
+  "sektor": "Properti",
+  "situs_resmi": "https://www.dmspropertindo.com/investor-relations",
+  "status_data": "sebagian",
+  "catatan": "Halaman Document Center (investor-relations/lists) dan isi berita di situs dimuat lewat JavaScript dari API internal situs; sesuai panduan API internal itu tidak dipakai, sehingga laporan keuangan, ringkasan risalah RUPS, dan keterbukaan informasi tidak dapat diunduh atau diverifikasi. Data di bawah hanya berasal dari cuplikan berita yang tampil di HTML beranda. Beranda juga memuat berita 22 November 2026 tentang pemanggilan ulang RUPSLB, tetapi agenda dan tanggalnya tidak dapat dibaca. Tidak ada data perubahan manajemen yang dapat diverifikasi.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Lainnya",
+      "judul": "MoU pengembangan Rest Area KM 63 Tol Cimanggis–Cibitung",
+      "ringkasan": "Berdasarkan cuplikan berita di beranda situs saja (isi berita tidak dapat dibuka): melalui anak usaha PT DMS Laguna, perseroan menandatangani nota kesepahaman dengan PT Cimanggis Cibitung Tollways untuk mengembangkan Rest Area KM 63 Jalan Tol Cimanggis–Cibitung. Nilai transaksi tidak disebutkan.",
+      "sumber": [
+        {"judul": "Berita: MOU PT. DMS Propertindo Tbk dengan PT. Cimanggis Cibitung Tollways (24 Juni 2026)", "url": "https://www.dmspropertindo.com/news/mou-pt-dms-propertindo-tbk-dengan-pt-cimanggis-cibitung-tollways", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-10",
+      "jenis": "Lainnya",
+      "judul": "Nota kesepahaman proyek URBANOVA EDUHUB dengan CLIEC",
+      "ringkasan": "Berdasarkan cuplikan berita di beranda situs saja: perseroan menandatangani nota kesepahaman dengan China Light Industry International Engineering Co., Ltd. (CLIEC) untuk proyek URBANOVA Design & Build; groundbreaking infrastruktur proyek diberitakan pada 30 September 2026. Nilai proyek tidak disebutkan.",
+      "sumber": [
+        {"judul": "Berita: Signing Ceremony URBANOVA EDUHUB (10 Agustus 2026)", "url": "https://www.dmspropertindo.com/news/signing-ceremony-urbanova-eduhub", "diakses": "2026-11-23"},
+        {"judul": "Berita: Ground Breaking URBANOVA EDUHUB (30 September 2026)", "url": "https://www.dmspropertindo.com/news/ground-breaking-urbanova-eduhub", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

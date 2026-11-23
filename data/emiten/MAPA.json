@@ -1,0 +1,54 @@
+{
+  "kode": "MAPA",
+  "nama": "Map Aktif Adiperkasa Tbk",
+  "sektor": "Ritel",
+  "situs_resmi": "https://www.mapactive.id/investor/disclosure/",
+  "status_data": "lengkap",
+  "catatan": "Domain mapaktif.com ternyata bukan milik Perseroan; situs resmi adalah mapactive.id. RUPS Tahunan 24 Juni 2026 tidak memuat mata acara perubahan pengurus, dan tidak ditemukan keterbukaan perubahan manajemen di situs selama 2026. Perubahan pengendali di induk usaha (PT Mitra Adiperkasa Tbk) tidak dicatat di sini karena bukan aksi korporasi MAPA.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp4 per saham (total sekitar Rp114 miliar)",
+      "ringkasan": "RUPS Tahunan 24 Juni 2026 menyetujui dividen Rp114.016.000.000 atau Rp4 per saham untuk 28,504 miliar saham, serta menyisihkan Rp5 miliar sebagai dana cadangan. Cum dividen pasar reguler 2 Juli 2026, recording date 6 Juli 2026, pembayaran 24 Juli 2026.",
+      "sumber": [
+        {"judul": "Summary of Minutes of AGMS 2026 MAPA", "url": "https://www.mapactive.id/wp-content/uploads/2026/06/RUPST-MAPA-2026-Ringkasan-Risalah-ENG-260626.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-29",
+      "jenis": "Akuisisi",
+      "judul": "Akuisisi 100% Sports Direct Malaysia senilai USD148,9 juta (sekitar Rp2,51 triliun)",
+      "ringkasan": "Pada 29 Juni 2026 anak usaha Athletica International Holdings Pte. Ltd. menandatangani perjanjian jual beli seluruh saham Sports Direct Malaysia Sdn. Bhd. dari Frasers Group Trading Limited senilai USD148.907.494 (setara Rp2.505,3 miliar pada kurs Rp16.825). Perseroan memberi jaminan perusahaan atas kewajiban pembeli. Transaksi tergolong transaksi material (20%-50% ekuitas) dan diumumkan lewat keterbukaan informasi 1 Juli 2026.",
+      "sumber": [
+        {"judul": "Information Disclosure Material Transaction Acquisition of Sports Direct Malaysia (1 Juli 2026)", "url": "https://www.mapactive.id/wp-content/uploads/2026/07/English-Info-Disc-Material-Trans-SDM-Acquisition.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [19073029, 14179484],
+      "pendapatan": [16433452, 13945286],
+      "beban_usaha": [5640249, 4832115],
+      "laba_bersih": [1442546, 1162023],
+      "liabilitas": [8818754, 5336091]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Beban usaha (penjualan + umum dan administrasi)",
+      "laba_bersih": "Laba bersih periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha sesuai laporan: beban penjualan 4.900.678 (2025: 4.200.718) + beban umum dan administrasi 739.571 (2025: 631.397).",
+    "sumber": [
+      {"judul": "MAPA Financial Report 9M2026 (Unaudited)", "url": "https://www.mapactive.id/wp-content/uploads/2026/10/FS-Report-MAPA-0926.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

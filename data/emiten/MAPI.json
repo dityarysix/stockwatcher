@@ -1,0 +1,97 @@
+{
+  "kode": "MAPI",
+  "nama": "Mitra Adiperkasa Tbk",
+  "sektor": "Ritel",
+  "situs_resmi": "https://www.map.co.id/investor/disclosure/",
+  "status_data": "lengkap",
+  "catatan": "Pengumuman pengambilalihan (8 Mei 2026) dan laporan hasil penawaran tender wajib (30 Juli 2026) diterbitkan oleh pengendali baru (Pacific Universal Investments Pte. Ltd.) dan diunggah di situs Perseroan. Keterbukaan 9 September 2026 tentang kebijakan dividen hanya dibaca halaman sampulnya (PDF hasil pindaian), sehingga isinya tidak diringkas. Dokumen 'KI Pengambilalihan' (L048) tidak dapat diekstrak teksnya; informasi pengambilalihan diambil dari pengumuman Pasal 7.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-08",
+      "jenis": "Lainnya",
+      "judul": "Pengambilalihan 51% saham MAPI oleh Pacific Universal Investments (Rp11,81 triliun)",
+      "ringkasan": "Pacific Universal Investments Pte. Ltd. (Singapura) menyelesaikan pembelian 8.466.000.000 saham MAPI (51%) dari PT Satya Mulia Gema Gemilang pada harga Rp1.395 per saham, total Rp11.810.070.000.000, dan menjadi pengendali baru. Pengendali baru bekerja sama dengan dana kelolaan CVC Capital Partners dan menunjuk Samudra (Investment) Pte. Ltd. serta Ocean Continuum Pte. Ltd. untuk melakukan penawaran tender wajib di harga Rp1.550 per saham.",
+      "sumber": [
+        {"judul": "Pengumuman Pengambilalihan Perusahaan Terbuka (8 Mei 2026)", "url": "https://www.map.co.id/wp-content/uploads/2026/05/Article-7-announcement.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp10 per saham (total Rp166 miliar)",
+      "ringkasan": "RUPS Tahunan 24 Juni 2026 menyetujui dividen Rp166 miliar atau Rp10 per saham untuk 16,6 miliar saham, serta menyisihkan Rp5 miliar sebagai dana cadangan. Cum dividen pasar reguler 2 Juli 2026, recording date 6 Juli 2026, pembayaran 24 Juli 2026.",
+      "sumber": [
+        {"judul": "Summary of Minutes of AGMS 2026 MAPI", "url": "https://www.map.co.id/wp-content/uploads/2026/06/RUPST-MAPI-2026-Ringkasan-Risalah-ENG-260626.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-02",
+      "jenis": "Transaksi material",
+      "judul": "Transaksi afiliasi: bantuan Perseroan untuk rencana penggalangan dana pemegang saham pengendali",
+      "ringkasan": "Keterbukaan informasi 2 Juli 2026 tentang pemberian bantuan oleh Perseroan kepada Pacific Universal Investments (pemegang 51% saham) terkait rencana PUI menggalang dana dari investor luar negeri, berdasarkan surat permintaan PUI tanggal 30 Juni 2026. Rencana tersebut masih tahap persiapan awal. Transaksi diungkapkan sebagai transaksi afiliasi menurut POJK 42/2020 dengan pendapat kewajaran dari KJPP Kusnanto & Rekan.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Transaksi Afiliasi berupa Bantuan kepada Pemegang Saham Pengendali (2 Juli 2026, versi Inggris)", "url": "https://www.map.co.id/wp-content/uploads/2026/07/Keterbukaan-Informasi-English-Version.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-30",
+      "jenis": "Lainnya",
+      "judul": "Hasil penawaran tender wajib: pengendali baru menguasai 87,24% saham",
+      "ringkasan": "Penawaran tender wajib berlangsung 18 Juni sampai 17 Juli 2026 dan diselesaikan 29 Juli 2026. Sebanyak 796 pemegang saham menjual 6.015.151.902 saham (36,24%). Setelahnya Pacific Universal Investments memegang 51%, SIPL 30% dan OCPL 6,24%.",
+      "sumber": [
+        {"judul": "Laporan Hasil Pelaksanaan Penawaran Tender Wajib (30 Juli 2026)", "url": "https://www.map.co.id/wp-content/uploads/2026/07/Keterbukaan-Informasi-Hasil-Pelaksanaan-MTO-300726.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [38753632, 32824207],
+      "pendapatan": [37438645, 30068132],
+      "beban_usaha": [12030624, 10173048],
+      "laba_bersih": [1720811, 1374785],
+      "liabilitas": [19334767, 15612724]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Jumlah beban usaha (penjualan + umum dan administrasi)",
+      "laba_bersih": "Laba bersih periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Jumlah beban usaha sesuai laporan: beban penjualan 10.299.054 (2025: 8.694.121) + beban umum dan administrasi 1.731.570 (2025: 1.478.927).",
+    "sumber": [
+      {"judul": "MAPI Financial Report 9M2026 (Unaudited)", "url": "https://www.map.co.id/wp-content/uploads/2026/10/Laporan-Keuangan-MAP-30-Sept-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Pengangkatan",
+      "nama": "Arthur Lee Han Teik",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat sebagai Direktur oleh RUPS Tahunan 24 Juni 2026, masa jabatan sampai RUPS Tahunan 2028. Ia juga direktur Pacific Universal Investments, pengendali baru.",
+      "sumber": [{"judul": "Summary of Minutes of AGMS 2026 MAPI", "url": "https://www.map.co.id/wp-content/uploads/2026/06/RUPST-MAPI-2026-Ringkasan-Risalah-ENG-260626.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Perubahan jabatan",
+      "nama": "Sean Gustav Standish Hughes",
+      "jabatan": "Direktur menjadi Komisaris",
+      "ringkasan": "Sebelum RUPS menjabat Direktur; dalam susunan baru hasil RUPS Tahunan 24 Juni 2026 diangkat sebagai Komisaris.",
+      "sumber": [{"judul": "Summary of Minutes of AGMS 2026 MAPI", "url": "https://www.map.co.id/wp-content/uploads/2026/06/RUPST-MAPI-2026-Ringkasan-Risalah-ENG-260626.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-06-24",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Masa jabatan sampai RUPS Tahunan 2028. Presiden Komisaris Independen: Sri Indrastuti Hadiputranto. Presiden Direktur: Herman Bernhard Leopold Mantiri; Wakil Presiden Direktur: Virendra Prakash Sharma.",
+      "sumber": [{"judul": "Summary of Minutes of AGMS 2026 MAPI", "url": "https://www.map.co.id/wp-content/uploads/2026/06/RUPST-MAPI-2026-Ringkasan-Risalah-ENG-260626.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

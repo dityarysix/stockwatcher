@@ -1,0 +1,68 @@
+{
+  "kode": "TKIM",
+  "nama": "Pabrik Kertas Tjiwi Kimia Tbk",
+  "sektor": "Pulp & kertas",
+  "situs_resmi": "https://app.co.id/investors",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 23 Juni 2026 tidak memuat agenda perubahan pengurus.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-23",
+      "jenis": "Dividen",
+      "sumber": [
+        {
+          "judul": "Ringkasan risalah RUPS Tahunan TKIM, 23 Juni 2026",
+          "url": "https://app.co.id/documents/20123/8254918/TK+RINGKASAN+RISALAH+RUPST+TKIM+(25+Juni+2026).pdf/7739e71a-4834-290f-d4d5-57914cce0d14?t=1782361576648",
+          "diakses": "2026-11-23"
+        }
+      ],
+      "judul": "Dividen tahun buku 2025: Rp30 per saham (sekitar Rp93,4 miliar)",
+      "ringkasan": "RUPS Tahunan 23 Juni 2026 menetapkan dividen tunai Rp30 per saham, total Rp93,4 miliar. Recording date 3 Juli 2026, pembayaran 24 Juli 2026."
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [
+        4215368,
+        3921983
+      ],
+      "pendapatan": [
+        787210,
+        738930
+      ],
+      "beban_usaha": [
+        71679,
+        60582
+      ],
+      "laba_bersih": [
+        343491,
+        213222
+      ],
+      "liabilitas": [
+        926028,
+        971996
+      ]
+    },
+    "label": {
+      "pendapatan": "Penjualan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan disajikan dalam ribuan dolar AS. Beban usaha = beban penjualan + beban umum dan administrasi.",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (bilingual)",
+        "url": "https://app.co.id/documents/20123/0/Pabrik+Kertas+Tjiwikimia+%28Report-Billingual%29+Sep+30%2C+2026.pdf/9baa39ae-7c30-1cf1-5031-b371eac7ed52?t=1793357180404",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": []
+}

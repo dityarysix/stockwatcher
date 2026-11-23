@@ -1,0 +1,55 @@
+{
+  "kode": "RATU",
+  "nama": "Raharja Energi Cepu Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://rec.co.id/id/general-meeting-of-shareholders",
+  "status_data": "sebagian",
+  "catatan": "Situs resmi adalah rec.co.id (ratu.co.id milik usaha katering yang tidak terkait); dokumen disimpan di admin.rec.co.id/uploads dan ditautkan dari halaman situs. Ringkasan risalah RUPST 7 Mei 2026 dan RUPSLB 21 Mei 2026 berupa pindaian tanpa teks sehingga keputusan dividen dan pengurus pada rapat tersebut tidak dapat diverifikasi; tidak ada entri perubahan manajemen. Status audit laporan September 2026 tidak dinyatakan eksplisit pada halaman yang dibaca; diasumsikan tidak diaudit.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-06-11",
+      "jenis": "Akuisisi",
+      "judul": "Akuisisi 100% SMS Development Ltd. senilai sekitar US$62,51 juta",
+      "ringkasan": "Menurut catatan 39 laporan keuangan September 2026, entitas anak tidak langsung PT Raharja Energi Madura mengakuisisi 100% SMS Development Ltd. (pemilik 20% saham Husky-CNOOC Madura Limited). SSPA ditandatangani 25 Desember 2025 dan transaksi selesai 11 Juni 2026, dengan pengendalian efektif sejak 1 Januari 2026. Imbalan US$62.510.594, terdiri dari uang jaminan US$12,5 juta (dibayar 29 Desember 2025) dan sisa sekitar US$50,01 juta saat penyelesaian. Perseroan mencatat keuntungan pembelian dengan diskon sekitar US$3,91 juta.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian Interim RATU 30 September 2026 (Catatan 39)", "url": "https://admin.rec.co.id/uploads/LK_Konsolidasian_Interim_RATU_30_September_2026_86f41ff120.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-09-08",
+      "jenis": "Private placement",
+      "judul": "RUPSLB menyetujui PMTHMETD hingga 271.505.380 saham baru",
+      "ringkasan": "RUPS Luar Biasa 8 September 2026 menyetujui penambahan modal tanpa HMETD (POJK 14/2019) dengan penerbitan sebanyak-banyaknya 271.505.380 saham baru, serta memberi kuasa kepada Dewan Komisaris dan Direksi untuk pelaksanaannya. Harga pelaksanaan dan calon pemodal tidak disebutkan dalam ringkasan risalah.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPSLB 8 September 2026", "url": "https://admin.rec.co.id/uploads/Ringkasan_Risalah_RUPSLB_8_Sep_2026_f2b3aaf15f.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pemanggilan RUPSLB PMTHMETD (14 Agustus 2026)", "url": "https://admin.rec.co.id/uploads/RATU_Pemanggilan_RUPSLB_PMTHMETD_14_Agustus_2026_4093691b55.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Konsolidasian interim (status audit tidak dinyatakan eksplisit; diasumsikan tidak diaudit)",
+    "pos": {
+      "aset": [237379246, 76019502],
+      "pendapatan": [40306158, 37611591],
+      "beban_usaha": [2989524, 989662],
+      "laba_bersih": [25087254, 11766263],
+      "liabilitas": [155794457, 19415320]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bersih",
+      "beban_usaha": "Beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan laba rugi tidak memuat beban penjualan; beban usaha hanya berupa beban umum dan administrasi. Lonjakan aset dan liabilitas dibanding 31 Desember 2025 terkait konsolidasi SMS Development Ltd. sejak 1 Januari 2026. Laba 2026 juga memuat bagian laba entitas asosiasi US$19,24 juta dan keuntungan pembelian dengan diskon US$3,91 juta.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim RATU 30 September 2026", "url": "https://admin.rec.co.id/uploads/LK_Konsolidasian_Interim_RATU_30_September_2026_86f41ff120.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

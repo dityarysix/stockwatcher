@@ -1,0 +1,11 @@
+{
+  "kode": "HEAL",
+  "nama": "Medikaloka Hermina Tbk",
+  "sektor": "Kesehatan",
+  "situs_resmi": "https://ir.herminahospitals.com/id",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs Hubungan Investor (ir.herminahospitals.com) dan halaman berita herminahospitals.com dirender lewat JavaScript; HTML yang diterima dengan curl tidak memuat tautan dokumen maupun isi berita (termasuk halaman 'Report & Presentation' dan 'Information Disclosure'). Sesuai panduan, API internal dan browser headless tidak dipakai. Hasil pencarian web menyebut ada berita RUPS Tahunan 2026 dengan dividen sekitar Rp207 miliar, tetapi isinya tidak dapat diverifikasi dari dokumen asli sehingga tidak dicantumkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

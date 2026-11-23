@@ -1,0 +1,151 @@
+{
+  "kode": "INTP",
+  "nama": "Indocement Tunggal Prakarsa Tbk",
+  "sektor": "Material dasar",
+  "situs_resmi": "https://www.indocement.co.id/id/investor/reports-presentations/laporan-keuangan",
+  "status_data": "lengkap",
+  "catatan": "Keputusan RUPS diambil dari siaran pers resmi perusahaan, bukan dari ringkasan risalah. Situs juga mencantumkan pemanggilan RUPS Luar Biasa Desember 2026 yang belum terselenggara.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Dividen",
+      "judul": "Dividen tahun buku 2025: Rp468 per saham (total sekitar Rp1,54 triliun)",
+      "ringkasan": "RUPS Tahunan 21 Mei 2026 menyetujui dividen tunai Rp468 per saham dari laba bersih 2025 sebesar Rp2,24 triliun. Recording date 5 Juni 2026, pembayaran mulai 19 Juni 2026.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Lainnya",
+      "judul": "Pengurangan modal lewat penarikan 84,5 juta saham hasil buyback 2021–2022",
+      "ringkasan": "RUPS Luar Biasa menyetujui penarikan kembali sebagian saham hasil pembelian kembali tahun 2021 dan 2022 sebanyak 84,5 juta saham melalui pengurangan modal.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Buyback",
+      "judul": "Rencana pembelian kembali saham hingga Rp750 miliar",
+      "ringkasan": "RUPS Luar Biasa menyetujui buyback dengan nilai maksimal Rp750 miliar untuk periode 22 Mei 2026 sampai 21 Mei 2027.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [
+        30983255,
+        31725343
+      ],
+      "pendapatan": [
+        14070757,
+        12916181
+      ],
+      "beban_usaha": [
+        3008076,
+        2698977
+      ],
+      "laba_bersih": [
+        1301875,
+        1063102
+      ],
+      "liabilitas": [
+        8163165,
+        8522242
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Beban usaha",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha memakai pos tunggal 'Beban usaha' di laporan laba rugi.",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026",
+        "url": "https://www.indocement.co.id/media/post/lkfs-itp-30sep26-intp-301026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Pengangkatan kembali",
+      "nama": "Roberto Callieri",
+      "jabatan": "Komisaris Utama",
+      "ringkasan": "Diangkat kembali oleh RUPS Tahunan.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Pengunduran diri",
+      "nama": "Hasan Imer",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPS Tahunan menerima pengunduran dirinya; ia menjabat sejak 2008.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Pengangkatan",
+      "nama": "Benny Setiawan Santoso",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat menggantikan Hasan Imer untuk sisa masa jabatan.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Pengangkatan",
+      "nama": "Jose Maria Magrina Vadillo",
+      "jabatan": "Wakil Direktur Utama",
+      "ringkasan": "Diangkat RUPS Tahunan, efektif menjabat mulai 1 September 2026.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+          "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}

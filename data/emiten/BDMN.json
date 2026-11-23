@@ -1,0 +1,127 @@
+{
+  "kode": "BDMN",
+  "nama": "Bank Danamon Indonesia Tbk",
+  "sektor": "Perbankan",
+  "situs_resmi": "https://www.danamon.co.id/tentang-danamon/Informasi-Investor",
+  "status_data": "lengkap",
+  "catatan": "Sebagian besar keterbukaan informasi 2026 berupa PDF hasil pindaian; isinya dibaca dari gambar halaman. Halaman RUPS dan Informasi Dividen tidak memuat tautan dokumen 2026, sehingga keputusan dividen diambil dari catatan laporan keuangan 30 September 2026. Laporan Transaksi Afiliasi 19 Oktober 2026 dan usulan nama/logo bank hasil integrasi (6 Oktober 2026) tidak dibaca isinya, sehingga tidak dicantumkan.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: sekitar Rp142,19 per saham (total sekitar Rp1,39 triliun)",
+      "ringkasan": "Berdasarkan catatan laporan keuangan: RUPS Tahunan 31 Maret 2026 memutuskan dividen tunai 35% dari laba bersih 2025, kurang lebih Rp1.389.749 juta atau Rp142,19 per saham seri A dan B. Recording date 13 April 2026 (9.773.552.870 saham beredar) dan pembayaran 30 April 2026, total Rp1.389.702 juta.",
+      "sumber": [
+        {"judul": "Laporan Keuangan Konsolidasian 30 September 2026 (Bapepam Report), catatan saldo laba dan dividen", "url": "https://www.danamon.co.id/-/media/ALL%20CONTENT%20ABOUT%20DANAMON/LAPORAN%20KEUANGAN/LAPORAN%20TRIWULANAN/2026/Triwulanan%20III/Bapepam%20Report%20-%20BDI%20-%2030%20September%202026", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-11",
+      "jenis": "Merger",
+      "judul": "Rencana integrasi Danamon dengan MUFG Bank, Ltd. cabang Jakarta",
+      "ringkasan": "Danamon menandatangani nota kesepahaman dengan MUFG Bank, Ltd., Jakarta Branch untuk menjajaki integrasi kedua entitas. Rancangan integrasi akan diajukan ke otoritas, diumumkan, dan dimintakan persetujuan pemegang saham; integrasi diperkirakan efektif dalam 2027. Selama proses, layanan nasabah kedua bank tidak berubah.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi S.033-CSEC.2026: intensi integrasi operasional dengan MUFG Indonesia (11 Mei 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/051126/S033-CSEC2026", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-06-25",
+      "jenis": "Akuisisi",
+      "judul": "Pembelian 9,82% saham PT Home Credit Indonesia dari Adira Finance senilai Rp400 miliar",
+      "ringkasan": "Pada 24 Juni 2026 Danamon menandatangani perjanjian jual beli 59 saham seri A PT Home Credit Indonesia (9,82%, nilai nominal Rp59 miliar) dari anak usahanya PT Adira Dinamika Multi Finance Tbk seharga Rp400 miliar, dalam rangka pembentukan Perusahaan Induk Konglomerasi Keuangan. Diumumkan sebagai transaksi afiliasi (POJK 42/2020) pada 25 Juni 2026; bukan transaksi material.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi atas Transaksi Afiliasi (25 Juni 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/062526/DCW", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan, disajikan kembali)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "bank",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [302452431, 281738999],
+      "pendapatan": [22358122, 20727038],
+      "beban_usaha": [11137640, 10717866],
+      "laba_bersih": [3495346, 2945526],
+      "liabilitas": [239749337, 220565797]
+    },
+    "label": {
+      "pendapatan": "Pendapatan bunga",
+      "beban_usaha": "Beban umum dan administrasi + beban tenaga kerja dan tunjangan + beban lain-lain",
+      "laba_bersih": "Laba bersih yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Format bank, laporan konsolidasian (termasuk Adira Finance). Beban usaha = beban umum dan administrasi 4.749.953 (2025: 4.463.266) + beban tenaga kerja dan tunjangan 6.197.079 (2025: 6.075.454) + lain-lain 190.608 (2025: 179.146); tidak termasuk beban bunga, beban provisi dan komisi lain, dan kerugian penurunan nilai aset keuangan. Angka 2025 disajikan kembali menurut laporan (Catatan 59).",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian PT Bank Danamon Indonesia Tbk 30 September 2026 (Bapepam Report)", "url": "https://www.danamon.co.id/-/media/ALL%20CONTENT%20ABOUT%20DANAMON/LAPORAN%20KEUANGAN/LAPORAN%20TRIWULANAN/2026/Triwulanan%20III/Bapepam%20Report%20-%20BDI%20-%2030%20September%202026", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Daisuke Ejima",
+      "jabatan": "Direktur Utama",
+      "ringkasan": "Tidak diangkat kembali oleh RUPS Tahunan 31 Maret 2026, berakhir sejak penutupan rapat. Rencana ini sudah diumumkan lewat siaran pers 5 Maret 2026.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material S.026-CSEC.2026 – Perubahan Susunan Pengurus (31 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/040126/S026-CSEC2026", "diakses": "2026-11-23"},
+        {"judul": "Siaran Pers: Danamon Umumkan Rencana Perubahan Susunan Pengurus (5 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/030526/DCW%20-%20Ind", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Honggo Widjojo Kangmasto",
+      "jabatan": "Wakil Direktur Utama",
+      "ringkasan": "Tidak diangkat kembali oleh RUPS Tahunan 31 Maret 2026, berakhir sejak penutupan rapat.",
+      "sumber": [{"judul": "Laporan Informasi atau Fakta Material S.026-CSEC.2026 (31 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/040126/S026-CSEC2026", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Peter Benyamin Stok",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Tidak diangkat kembali oleh RUPS Tahunan 31 Maret 2026, berakhir sejak penutupan rapat.",
+      "sumber": [{"judul": "Laporan Informasi atau Fakta Material S.026-CSEC.2026 (31 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/040126/S026-CSEC2026", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Perubahan jabatan",
+      "nama": "Nobuya Kawasaki",
+      "jabatan": "Komisaris menjadi Direktur Utama",
+      "ringkasan": "Tidak diangkat kembali sebagai Komisaris dan diangkat RUPS Tahunan 31 Maret 2026 sebagai Direktur Utama, efektif sejak penutupan rapat. Pengangkatannya telah disetujui OJK (KEPR-6/D.03/2026, 6 Februari 2026).",
+      "sumber": [{"judul": "Laporan Informasi atau Fakta Material S.026-CSEC.2026 (31 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/040126/S026-CSEC2026", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-07-31",
+      "jenis": "Pengangkatan",
+      "nama": "Takeo Shimotsu",
+      "jabatan": "Komisaris",
+      "ringkasan": "Diangkat RUPS Tahunan 31 Maret 2026 dengan syarat lulus uji kemampuan dan kepatutan. OJK menyetujui lewat KEPR-128/D.03/2026 tanggal 29 Juli 2026 (surat diterima 31 Juli 2026).",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material S.040-CSEC.2026 – Hasil Penilaian Kemampuan dan Kepatutan (31 Juli 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/030826/S040-CSEC2026", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-08-10",
+      "jenis": "Pengangkatan",
+      "nama": "Muliadi Rahardja",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat RUPS Tahunan 31 Maret 2026 dengan syarat lulus uji kemampuan dan kepatutan. OJK menyetujui (KEPR-127/D.03/2026, 17 Juli 2026) dan pengangkatannya efektif 10 Agustus 2026.",
+      "sumber": [
+        {"judul": "Laporan Informasi atau Fakta Material S.042-CSEC.2026 – Hasil Penilaian Kemampuan dan Kepatutan (10 Agustus 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/081126/S042-CSEC2026", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-31",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Setelah RUPS Tahunan 31 Maret 2026: Komisaris Utama Yasushi Itagaki; Wakil Komisaris Utama (Independen) Halim Alamsyah. Direktur Utama Nobuya Kawasaki; direktur lain Herry Hykmanto, Rita Mirasari, Dadi Budiana, Thomas Sudarma, Jin Yoshida, dan Yenny Siswanto.",
+      "sumber": [{"judul": "Laporan Informasi atau Fakta Material S.026-CSEC.2026 (31 Maret 2026)", "url": "https://www.danamon.co.id/-/media/File%20PDF%20Tentang%20DNMN/Aksi%20Korporasi%20dan%20Keterbukaan%20Informasi%20Lain/2026/040126/S026-CSEC2026", "diakses": "2026-11-23"}]
+    }
+  ]
+}
