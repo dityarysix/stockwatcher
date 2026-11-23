@@ -1,0 +1,73 @@
+{
+  "kode": "AVIA",
+  "nama": "Avia Avian Tbk",
+  "sektor": "Material dasar",
+  "situs_resmi": "https://avianbrands.com/hubungan-investor/pusat-informasi-investor/informasi-keuangan/laporan-keuangan",
+  "status_data": "sebagian",
+  "catatan": "Ringkasan risalah RUPS Tahunan 2026 tidak ditemukan; dividen diambil dari siaran pers resmi. Perubahan pengurus 2026 tidak ditemukan di halaman yang dapat dibaca.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-09",
+      "jenis": "Dividen",
+      "judul": "Dividen tahun buku 2025: Rp23 per saham (total sekitar Rp1,36 triliun)",
+      "ringkasan": "RUPS Tahunan 9 April 2026 menyetujui dividen tunai sekitar Rp1,36 triliun atau 78,18% dari laba bersih 2025, sudah termasuk dividen interim Rp654 miliar yang dibagikan November 2025. Nilai Rp23 per saham tercantum di catatan laporan keuangan 30 September 2026.",
+      "sumber": [
+        {
+          "judul": "Siaran pers: Avian Brands gelar RUPST 2026",
+          "url": "https://avianbrands.com/hubungan-investor/keterbukaan-informasi/press-release/avian-brands-gelar-rupst-2026-bagikan-dividen-jumbo",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (catatan dividen)",
+          "url": "https://avianbrands.com/storage/laporan-keuangan-1793256471-6ae2ec173e945.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [
+        12058673,
+        11084379
+      ],
+      "pendapatan": [
+        6917554,
+        5927746
+      ],
+      "beban_usaha": [
+        1411571,
+        1261202
+      ],
+      "laba_bersih": [
+        1384758,
+        1189793
+      ],
+      "liabilitas": [
+        1980240,
+        1544155
+      ]
+    },
+    "label": {
+      "pendapatan": "Penjualan neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (1.191.125; 2025: 1.056.523) + beban umum dan administrasi (220.446; 2025: 204.679).",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026",
+        "url": "https://avianbrands.com/storage/laporan-keuangan-1793256471-6ae2ec173e945.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": []
+}

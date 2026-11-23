@@ -7750,24 +7750,159 @@
    "no": 63
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 64,
    "kode": "ELSA",
    "nama": "Elnusa Tbk",
-   "sektor": "Jasa energi"
-  },
-  {
-   "status_data": "belum_dikumpulkan",
+   "sektor": "Jasa energi",
+   "situs_resmi": "https://www.elnusa.co.id/",
+   "status_data": "tidak_dapat_diakses",
+   "catatan": "Koneksi ke www.elnusa.co.id dan elnusa.co.id diputus berulang kali oleh server (connection reset) pada tiga percobaan dengan jeda. Sesuai panduan, akses dihentikan tanpa mencari jalan lain. Tidak ada data yang dapat diverifikasi dari situs resmi.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
    "perubahan_manajemen": [],
-   "no": 65,
+   "no": 64
+  },
+  {
    "kode": "ENRG",
    "nama": "Energi Mega Persada Tbk",
-   "sektor": "Energi"
+   "sektor": "Energi",
+   "situs_resmi": "https://www.emp.id/investor-relation/stock-information/",
+   "status_data": "sebagian",
+   "catatan": "Sebagian halaman dan PDF di emp.id (keterbukaan informasi dan siaran pers terkait HighPeak Energy, Informasi Tambahan PUB I Tahap IV) membalas dengan skrip tantangan anti-bot, sehingga tidak dibuka lebih lanjut sesuai panduan; entri HighPeak hanya berdasar judul halaman. Ringkasan risalah resmi RUPS 5 Juni 2026 tidak ditemukan; hasil RUPS diambil dari siaran pers perseroan. Tidak ditemukan keputusan dividen dalam siaran pers hasil RUPS Tahunan.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-06-05",
+     "jenis": "Rights issue",
+     "judul": "RUPSLB menyetujui PMHMETD hingga 13,5 miliar saham baru",
+     "ringkasan": "RUPS Luar Biasa 5 Juni 2026 menyetujui rencana penambahan modal dengan HMETD sebanyak-banyaknya 13.500.000.000 saham baru untuk belanja modal dan modal kerja perseroan dan/atau anak usaha, termasuk perubahan Pasal 4 ayat (2) anggaran dasar. Pemegang saham pengendali dan afiliasinya akan menjadi pembeli siaga. Harga pelaksanaan belum disebutkan.",
+     "sumber": [
+      {
+       "judul": "Siaran Pers: EMP menyampaikan hasil rapat umum pemegang saham tahunan dan luar biasa (5 Juni 2026)",
+       "url": "https://www.emp.id/wp-content/uploads/2026/06/EMP-menyampaikan-hasil-rapat-umum-pemegang-saham-tahunan-dan-luar-biasa.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-10-02",
+     "jenis": "Obligasi/sukuk",
+     "judul": "Obligasi Berkelanjutan I Tahap V 2026 senilai Rp500 miliar",
+     "ringkasan": "Penerbitan Obligasi Berkelanjutan I Energi Mega Persada Tahap V Tahun 2026 senilai Rp500 miliar: Seri A Rp387,34 miliar (bunga tetap 9,00%, tenor 370 hari) dan Seri B Rp112,66 miliar (10,00%, 3 tahun, jatuh tempo 22 Oktober 2029). Dokumen yang sama menyebut tahap sebelumnya yang terbit pada 2026: Tahap II Rp1,15 triliun, Tahap III Rp500 miliar, dan Tahap IV Rp250 miliar, dari target PUB I sebesar Rp4 triliun.",
+     "sumber": [
+      {
+       "judul": "Informasi Tambahan Ringkas PUB I Tahap V (2 Oktober 2026)",
+       "url": "https://www.emp.id/wp-content/uploads/2026/10/ENRG-Intam-Ringkas-PUB-I-Tahap-V.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-11-23",
+     "jenis": "Akuisisi",
+     "judul": "Investasi US$200 juta pada HighPeak Energy, Inc. melalui anak usaha",
+     "ringkasan": "Berdasarkan judul halaman di situs saja (dokumen PDF tidak dapat dibuka karena tantangan anti-bot): perseroan mengumumkan perjanjian dengan HighPeak Energy pada 6 Oktober 2026, lalu pada 23 November 2026 menerbitkan keterbukaan informasi transaksi material dan siaran pers bahwa anak usahanya menuntaskan investasi US$200 juta di HighPeak Energy, Inc. Rincian porsi kepemilikan dan struktur transaksi tidak diverifikasi.",
+     "sumber": [
+      {
+       "judul": "Energi Mega Persada's subsidiary completes US$200 million investment in HighPeak Energy (23 November 2026)",
+       "url": "https://www.emp.id/energi-mega-persadas-subsidiary-completes-us200-million-investment-in-highpeak-energy/",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Disclosure to Shareholders on the Company's Material Transaction in HighPeak Energy, Inc.",
+       "url": "https://www.emp.id/disclosure-to-shareholders-on-the-companys-material-transaction-in-highpeak-energy-inc/",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      2005778532,
+      1822321133
+     ],
+     "pendapatan": [
+      426058973,
+      361380728
+     ],
+     "beban_usaha": [
+      15535807,
+      15556689
+     ],
+     "laba_bersih": [
+      72813889,
+      55652861
+     ],
+     "liabilitas": [
+      1090198679,
+      999581022
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan neto",
+     "beban_usaha": "Beban usaha",
+     "laba_bersih": "Laba neto yang dapat diatribusikan kepada pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha diambil langsung dari baris Beban Usaha di laporan laba rugi (catatan 36).",
+    "sumber": [
+     {
+      "judul": "Laporan Keuangan Konsolidasian Interim 30 September 2026 (tidak diaudit)",
+      "url": "https://www.emp.id/wp-content/uploads/2026/10/Consolidated-Financial-Statements-Sep-2026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-06-05",
+     "jenis": "Tidak menjabat lagi",
+     "nama": "Gita R. Sjahrir",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "RUPS Tahunan 5 Juni 2026 mengubah susunan dewan komisaris; namanya tercantum sebagai anggota lama dan digantikan Chalid Said Salim.",
+     "sumber": [
+      {
+       "judul": "Siaran Pers: EMP menyampaikan hasil rapat umum pemegang saham tahunan dan luar biasa (5 Juni 2026)",
+       "url": "https://www.emp.id/wp-content/uploads/2026/06/EMP-menyampaikan-hasil-rapat-umum-pemegang-saham-tahunan-dan-luar-biasa.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-05",
+     "jenis": "Pengangkatan",
+     "nama": "Chalid Said Salim",
+     "jabatan": "Komisaris Independen",
+     "ringkasan": "Diangkat RUPS Tahunan 5 Juni 2026 sebagai Komisaris Independen.",
+     "sumber": [
+      {
+       "judul": "Siaran Pers: EMP menyampaikan hasil rapat umum pemegang saham tahunan dan luar biasa (5 Juni 2026)",
+       "url": "https://www.emp.id/wp-content/uploads/2026/06/EMP-menyampaikan-hasil-rapat-umum-pemegang-saham-tahunan-dan-luar-biasa.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-06-05",
+     "jenis": "Susunan baru",
+     "nama": "Rudianto Rimbono (Komisaris Utama); Syailendra S. Bakrie (Direktur Utama)",
+     "jabatan": "Dewan Komisaris dan Direksi",
+     "ringkasan": "Dewan komisaris baru: Rudianto Rimbono (Komisaris Utama), Syamsu Alam dan Chalid Said Salim (Komisaris Independen), Suyitno Patmosukismo dan Rizal Malarangeng. Siaran pers ditandatangani Syailendra S. Bakrie sebagai Direktur Utama; susunan direksi tidak diubah dalam RUPS menurut siaran pers.",
+     "sumber": [
+      {
+       "judul": "Siaran Pers: EMP menyampaikan hasil rapat umum pemegang saham tahunan dan luar biasa (5 Juni 2026)",
+       "url": "https://www.emp.id/wp-content/uploads/2026/06/EMP-menyampaikan-hasil-rapat-umum-pemegang-saham-tahunan-dan-luar-biasa.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 65
   },
   {
    "status_data": "belum_dikumpulkan",
@@ -8535,54 +8670,380 @@
    "no": 79
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 80,
    "kode": "AVIA",
    "nama": "Avia Avian Tbk",
-   "sektor": "Material dasar"
+   "sektor": "Material dasar",
+   "situs_resmi": "https://avianbrands.com/hubungan-investor/pusat-informasi-investor/informasi-keuangan/laporan-keuangan",
+   "status_data": "sebagian",
+   "catatan": "Ringkasan risalah RUPS Tahunan 2026 tidak ditemukan; dividen diambil dari siaran pers resmi. Perubahan pengurus 2026 tidak ditemukan di halaman yang dapat dibaca.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-04-09",
+     "jenis": "Dividen",
+     "judul": "Dividen tahun buku 2025: Rp23 per saham (total sekitar Rp1,36 triliun)",
+     "ringkasan": "RUPS Tahunan 9 April 2026 menyetujui dividen tunai sekitar Rp1,36 triliun atau 78,18% dari laba bersih 2025, sudah termasuk dividen interim Rp654 miliar yang dibagikan November 2025. Nilai Rp23 per saham tercantum di catatan laporan keuangan 30 September 2026.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: Avian Brands gelar RUPST 2026",
+       "url": "https://avianbrands.com/hubungan-investor/keterbukaan-informasi/press-release/avian-brands-gelar-rupst-2026-bagikan-dividen-jumbo",
+       "diakses": "2026-11-23"
+      },
+      {
+       "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (catatan dividen)",
+       "url": "https://avianbrands.com/storage/laporan-keuangan-1793256471-6ae2ec173e945.pdf",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      12058673,
+      11084379
+     ],
+     "pendapatan": [
+      6917554,
+      5927746
+     ],
+     "beban_usaha": [
+      1411571,
+      1261202
+     ],
+     "laba_bersih": [
+      1384758,
+      1189793
+     ],
+     "liabilitas": [
+      1980240,
+      1544155
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan neto",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (1.191.125; 2025: 1.056.523) + beban umum dan administrasi (220.446; 2025: 204.679).",
+    "sumber": [
+     {
+      "judul": "Laporan keuangan konsolidasian interim 30 September 2026",
+      "url": "https://avianbrands.com/storage/laporan-keuangan-1793256471-6ae2ec173e945.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 80
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 81,
    "kode": "INKP",
    "nama": "Indah Kiat Pulp & Paper Tbk",
-   "sektor": "Pulp & kertas"
+   "sektor": "Pulp & kertas",
+   "situs_resmi": "https://app.co.id/investors",
+   "status_data": "lengkap",
+   "catatan": "RUPS Tahunan 23 Juni 2026 tidak memuat agenda perubahan pengurus.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-06-23",
+     "jenis": "Dividen",
+     "sumber": [
+      {
+       "judul": "Ringkasan risalah RUPS Tahunan INKP, 23 Juni 2026",
+       "url": "https://app.co.id/documents/20123/8254918/IK+-+RINGKASAN+RISALAH+RUPST+INKP+(25+Juni+2026).pdf/c5ee37e3-a18c-aa36-8438-c2ba8f113fd4?t=1782361538976",
+       "diakses": "2026-11-23"
+      }
+     ],
+     "judul": "Dividen tahun buku 2025: Rp75 per saham (sekitar Rp410,3 miliar)",
+     "ringkasan": "RUPS Tahunan 23 Juni 2026 menetapkan dividen tunai Rp75 per saham, total sekitar Rp410,3 miliar. Sebagian laba juga disisihkan sebagai cadangan sebesar US$10 juta."
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      13479092,
+      12347406
+     ],
+     "pendapatan": [
+      2626220,
+      2363061
+     ],
+     "beban_usaha": [
+      295305,
+      274657
+     ],
+     "laba_bersih": [
+      459768,
+      325921
+     ],
+     "liabilitas": [
+      6199228,
+      5503609
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan neto",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan disajikan dalam ribuan dolar AS. Beban usaha = beban penjualan + beban umum dan administrasi.",
+    "sumber": [
+     {
+      "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (bilingual)",
+      "url": "https://app.co.id/documents/20123/0/IKPP+ReportBillingual+Sep+30+2026+%281%29.pdf/ac23ed77-edd7-bc06-e48b-d378f7d1769c?t=1793493985683",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 81
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 82,
    "kode": "TKIM",
    "nama": "Pabrik Kertas Tjiwi Kimia Tbk",
-   "sektor": "Pulp & kertas"
+   "sektor": "Pulp & kertas",
+   "situs_resmi": "https://app.co.id/investors",
+   "status_data": "lengkap",
+   "catatan": "RUPS Tahunan 23 Juni 2026 tidak memuat agenda perubahan pengurus.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-06-23",
+     "jenis": "Dividen",
+     "sumber": [
+      {
+       "judul": "Ringkasan risalah RUPS Tahunan TKIM, 23 Juni 2026",
+       "url": "https://app.co.id/documents/20123/8254918/TK+RINGKASAN+RISALAH+RUPST+TKIM+(25+Juni+2026).pdf/7739e71a-4834-290f-d4d5-57914cce0d14?t=1782361576648",
+       "diakses": "2026-11-23"
+      }
+     ],
+     "judul": "Dividen tahun buku 2025: Rp30 per saham (sekitar Rp93,4 miliar)",
+     "ringkasan": "RUPS Tahunan 23 Juni 2026 menetapkan dividen tunai Rp30 per saham, total Rp93,4 miliar. Recording date 3 Juli 2026, pembayaran 24 Juli 2026."
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      4215368,
+      3921983
+     ],
+     "pendapatan": [
+      787210,
+      738930
+     ],
+     "beban_usaha": [
+      71679,
+      60582
+     ],
+     "laba_bersih": [
+      343491,
+      213222
+     ],
+     "liabilitas": [
+      926028,
+      971996
+     ]
+    },
+    "label": {
+     "pendapatan": "Penjualan neto",
+     "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan disajikan dalam ribuan dolar AS. Beban usaha = beban penjualan + beban umum dan administrasi.",
+    "sumber": [
+     {
+      "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (bilingual)",
+      "url": "https://app.co.id/documents/20123/0/Pabrik+Kertas+Tjiwikimia+%28Report-Billingual%29+Sep+30%2C+2026.pdf/9baa39ae-7c30-1cf1-5031-b371eac7ed52?t=1793357180404",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [],
+   "no": 82
   },
   {
-   "status_data": "belum_dikumpulkan",
-   "aksi_korporasi": [],
-   "laporan_keuangan": null,
-   "perubahan_manajemen": [],
-   "no": 83,
    "kode": "INTP",
    "nama": "Indocement Tunggal Prakarsa Tbk",
-   "sektor": "Material dasar"
+   "sektor": "Material dasar",
+   "situs_resmi": "https://www.indocement.co.id/id/investor/reports-presentations/laporan-keuangan",
+   "status_data": "lengkap",
+   "catatan": "Keputusan RUPS diambil dari siaran pers resmi perusahaan, bukan dari ringkasan risalah. Situs juga mencantumkan pemanggilan RUPS Luar Biasa Desember 2026 yang belum terselenggara.",
+   "aksi_korporasi": [
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Dividen",
+     "judul": "Dividen tahun buku 2025: Rp468 per saham (total sekitar Rp1,54 triliun)",
+     "ringkasan": "RUPS Tahunan 21 Mei 2026 menyetujui dividen tunai Rp468 per saham dari laba bersih 2025 sebesar Rp2,24 triliun. Recording date 5 Juni 2026, pembayaran mulai 19 Juni 2026.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Lainnya",
+     "judul": "Pengurangan modal lewat penarikan 84,5 juta saham hasil buyback 2021–2022",
+     "ringkasan": "RUPS Luar Biasa menyetujui penarikan kembali sebagian saham hasil pembelian kembali tahun 2021 dan 2022 sebanyak 84,5 juta saham melalui pengurangan modal.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Buyback",
+     "judul": "Rencana pembelian kembali saham hingga Rp750 miliar",
+     "ringkasan": "RUPS Luar Biasa menyetujui buyback dengan nilai maksimal Rp750 miliar untuk periode 22 Mei 2026 sampai 21 Mei 2027.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+     "aset": [
+      30983255,
+      31725343
+     ],
+     "pendapatan": [
+      14070757,
+      12916181
+     ],
+     "beban_usaha": [
+      3008076,
+      2698977
+     ],
+     "laba_bersih": [
+      1301875,
+      1063102
+     ],
+     "liabilitas": [
+      8163165,
+      8522242
+     ]
+    },
+    "label": {
+     "pendapatan": "Pendapatan neto",
+     "beban_usaha": "Beban usaha",
+     "laba_bersih": "Laba periode berjalan yang diatribusikan ke pemilik entitas induk",
+     "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha memakai pos tunggal 'Beban usaha' di laporan laba rugi.",
+    "sumber": [
+     {
+      "judul": "Laporan keuangan konsolidasian interim 30 September 2026",
+      "url": "https://www.indocement.co.id/media/post/lkfs-itp-30sep26-intp-301026.pdf",
+      "diakses": "2026-11-23"
+     }
+    ]
+   },
+   "perubahan_manajemen": [
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Pengangkatan kembali",
+     "nama": "Roberto Callieri",
+     "jabatan": "Komisaris Utama",
+     "ringkasan": "Diangkat kembali oleh RUPS Tahunan.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Pengunduran diri",
+     "nama": "Hasan Imer",
+     "jabatan": "Direktur",
+     "ringkasan": "RUPS Tahunan menerima pengunduran dirinya; ia menjabat sejak 2008.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Pengangkatan",
+     "nama": "Benny Setiawan Santoso",
+     "jabatan": "Direktur",
+     "ringkasan": "Diangkat menggantikan Hasan Imer untuk sisa masa jabatan.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "tanggal": "2026-05-21",
+     "jenis": "Pengangkatan",
+     "nama": "Jose Maria Magrina Vadillo",
+     "jabatan": "Wakil Direktur Utama",
+     "ringkasan": "Diangkat RUPS Tahunan, efektif menjabat mulai 1 September 2026.",
+     "sumber": [
+      {
+       "judul": "Siaran pers: RUPST Indocement 2026 setujui dividen Rp468 per saham",
+       "url": "https://www.indocement.co.id/id/news-events/rupst-indocement-2026-setujui-dividen-rp468-per-saham",
+       "diakses": "2026-11-23"
+      }
+     ]
+    }
+   ],
+   "no": 83
   },
   {
-   "status_data": "belum_dikumpulkan",
+   "kode": "CPIN",
+   "nama": "Charoen Pokphand Indonesia Tbk",
+   "sektor": "Pakan & peternakan",
+   "situs_resmi": "https://www.cp.co.id",
+   "status_data": "tidak_dapat_diakses",
+   "catatan": "Situs www.cp.co.id gagal diverifikasi sertifikat TLS-nya (rantai sertifikat tidak lengkap). Verifikasi keamanan tidak dimatikan, jadi situs tidak dibaca.",
    "aksi_korporasi": [],
    "laporan_keuangan": null,
    "perubahan_manajemen": [],
-   "no": 84,
-   "kode": "CPIN",
-   "nama": "Charoen Pokphand Indonesia Tbk",
-   "sektor": "Pakan & peternakan"
+   "no": 84
   },
   {
    "kode": "JPFA",
