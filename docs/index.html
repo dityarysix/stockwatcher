@@ -3,11 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cek Saham: keterbukaan informasi emiten BEI</title>
+<script src="/consent.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/style.css">
+<title>Cek Saham: keterbukaan informasi emiten BEI</title>
+<meta name="description" content="Ringkasan aksi korporasi, laporan keuangan, dan perubahan manajemen 100 emiten Bursa Efek Indonesia sejak Januari 2026, diambil dari situs resmi emiten beserta sumbernya.">
+<link rel="canonical" href="https://ceksaham.live/">
 </head>
 <body>
 <header class="top">
@@ -28,11 +31,17 @@
 </main>
 
 <footer class="wrap foot">
+  <ul class="foot-nav">
+    <li><a href="/tentang/">Tentang</a></li>
+    <li><a href="/kebijakan-privasi/">Kebijakan privasi</a></li>
+    <li><button type="button" onclick="window.cekSahamCookieSettings &amp;&amp; window.cekSahamCookieSettings()">Pengaturan cookie</button></li>
+    <li><a href="mailto:info@ceksaham.live">info@ceksaham.live</a></li>
+  </ul>
   <p>Sumber: situs resmi masing-masing emiten. Beberapa laporan keuangan diambil dari file laporan keuangan di situs IDX yang diunduh manual. Setiap entri menautkan dokumen aslinya beserta tanggal akses. Angka laporan keuangan disalin dari laporan publikasi perusahaan; periksa dokumen aslinya sebelum mengambil keputusan.</p>
   <p>Menemukan data yang keliru atau kurang lengkap? Kirim koreksi beserta tautan sumbernya ke <a href="mailto:info@ceksaham.live">info@ceksaham.live</a>.</p>
   <p>Bukan saran investasi. Cek Saham dikelola secara independen, dapat menampilkan iklan, dan tidak berafiliasi dengan PT Bursa Efek Indonesia maupun emiten mana pun.</p>
   <p class="muted" id="built"></p>
 </footer>
-<script src="app.js"></script>
+<script src="/app.js"></script>
 </body>
 </html>

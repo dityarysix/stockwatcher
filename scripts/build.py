@@ -26,3 +26,7 @@ for row in daftar:
 (ROOT / "docs/data/semua.json").write_text(json.dumps(
     {"dibangun": datetime.date.today().isoformat(), "emiten": out}, ensure_ascii=False, indent=1), encoding="utf-8")
 print(f"{sum(1 for d in out if d['status_data'] != 'belum_dikumpulkan')}/{len(out)} emiten berisi data")
+
+# Halaman statis (per emiten, tentang, kebijakan privasi), sitemap, dan robots.txt.
+import importlib.util as _u
+_s = _u.spec_from_file_location("pages", ROOT / "scripts/pages.py"); _m = _u.module_from_spec(_s); _s.loader.exec_module(_m); _m.main()
