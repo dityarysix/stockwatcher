@@ -1,0 +1,197 @@
+{
+  "kode": "INDY",
+  "nama": "Indika Energy Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://indikaenergy.co.id/investors/investor-updates/",
+  "status_data": "lengkap",
+  "catatan": "Sumber dari indikaenergy.co.id (Investor Updates, General Meeting of Shareholders, Financial Statement). Halaman Investor Updates hanya memuat sebagian keterbukaan informasi; keterbukaan lain yang hanya ada di situs bursa tidak dicari karena dilarang.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-04-27",
+      "jenis": "Lainnya",
+      "judul": "Rencana pengalihan 7,5 juta saham treasuri hasil buyback 2020",
+      "ringkasan": "Perseroan berencana menjual kembali 7.500.000 saham treasuri hasil buyback Juli 2020 dalam periode 11 Mei sampai 5 Juli 2026, dengan harga tidak lebih rendah dari harga penutupan sehari sebelumnya atau rata-rata 90 hari, mana yang lebih tinggi. Menurut keterbukaan 4 September 2026, saham treasuri belum dapat dialihkan selama periode itu karena syarat harga tidak terpenuhi, sehingga Perseroan menyusun rencana pengalihan lanjutan.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi Rencana Pengalihan Saham Treasuri (27 April 2026)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/04/INDY-KI-Pengalihan-Saham-Treasuri-27-Apr-2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Keterbukaan Informasi Hasil dan Rencana Pengalihan Saham Treasuri (4 September 2026)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/10/260904-Keterbukaan-Informasi-Saham-Lanjutan-1.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: US$3.013.598 (sekurang-kurangnya Rp10,24875 per saham)",
+      "ringkasan": "RUPS Tahunan menetapkan dividen tunai final US$3.013.598, atau 50% laba bersih yang diatribusikan kepada pemilik entitas induk, setara sekurang-kurangnya Rp10,24875 per saham (kurs tengah BI 20 Mei 2026). Cum dividen pasar reguler 2 Juni 2026, recording date 4 Juni 2026, pembayaran 19 Juni 2026.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan dan Jadwal Dividen INDY (22 Mei 2026)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Lainnya",
+      "judul": "RUPSLB menyetujui penyusunan kembali Pasal 3 Anggaran Dasar",
+      "ringkasan": "Penyesuaian maksud, tujuan, dan kegiatan usaha dengan KBLI untuk perizinan OSS sesuai PP 28/2025.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPS Luar Biasa INDY (22 Mei 2026)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-RUPSLB-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-08-05",
+      "jenis": "Lainnya",
+      "judul": "Perjanjian fasilitas pinjaman US$155 juta dengan Bank DBS Indonesia",
+      "ringkasan": "Perseroan menandatangani fasilitas US$155 juta dengan PT Bank DBS Indonesia sebagai pemberi pinjaman dan agen, dijamin oleh beberapa anak usaha (antara lain PT Indika Inti Corpindo dan PT Tripatra Multi Energi) secara pari passu dengan Senior Notes 8,75% jatuh tempo 2029. Dana khusus untuk belanja modal proyek tambang emas PT Masmindo Dwi Area di Sulawesi Selatan. Diungkapkan 6 Agustus 2026.",
+      "sumber": [
+        {
+          "judul": "Keterbukaan Informasi penandatanganan Perjanjian Fasilitas US$155 juta (6 Agustus 2026)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/10/056-INDY-OJK-POJK31-Facility-6-Ags-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        3279320919,
+        2933308318
+      ],
+      "pendapatan": [
+        1842315682,
+        1442963864
+      ],
+      "beban_usaha": [
+        124194187,
+        112761955
+      ],
+      "laba_bersih": [
+        20210880,
+        479123
+      ],
+      "liabilitas": [
+        1901135048,
+        1588252699
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan, umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Laporan menyajikan beban penjualan, umum dan administrasi sebagai satu pos. Laba bersih periode berjalan total (termasuk kepentingan nonpengendali) US$42.008.787 (2025: US$13.989.307).",
+    "sumber": [
+      {
+        "judul": "Laporan Keuangan Konsolidasian PT Indika Energy Tbk 30 September 2026 (tidak diaudit)",
+        "url": "https://indikaenergy.co.id/wp-content/uploads/2026/10/INDY-FS-30-Sep-2026.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Pengangkatan",
+      "nama": "Feri Wibisono",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Ditunjuk RUPS Tahunan, efektif sejak penutupan rapat, masa jabatan sampai RUPS Tahunan 2029.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Tidak menjabat lagi",
+      "nama": "Eko Putro Sandjojo",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Hadir sebagai Komisaris Independen pada RUPS Tahunan, tetapi tidak lagi tercantum dalam susunan Dewan Komisaris sejak penutupan rapat.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Pengangkatan kembali",
+      "nama": "Farid Harianto",
+      "jabatan": "Komisaris Independen",
+      "ringkasan": "Diangkat kembali RUPS Tahunan dengan masa jabatan sampai RUPS Tahunan 2029.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Pengangkatan kembali",
+      "nama": "Retina Rosabai",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat kembali RUPS Tahunan dengan masa jabatan sampai RUPS Tahunan 2029.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Pengangkatan kembali",
+      "nama": "Kamen Kamenov Palatov",
+      "jabatan": "Direktur",
+      "ringkasan": "Diangkat kembali RUPS Tahunan dengan masa jabatan sampai RUPS Tahunan 2029.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-05-20",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Komisaris Utama: Agus Lasmono; Wakil Komisaris Utama: Wishnu Wardhana; Komisaris: Nurcahya Basuki, M. Arsjad Rasjid P.M.; Komisaris Independen: Farid Harianto, Feri Wibisono. Direktur Utama: Azis Armand; Direktur: Retina Rosabai, Deddy Hariyanto, Johanes Ispurnawan, Kamen Kamenov Palatov.",
+      "sumber": [
+        {
+          "judul": "Pengumuman Hasil RUPS Tahunan INDY (Mata Acara Keempat)",
+          "url": "https://indikaenergy.co.id/wp-content/uploads/2026/05/INDY-Pengumuman-Hasil-RUPST-dan-Jadwal-Dividen-INDY-22-Mei-2026.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}
