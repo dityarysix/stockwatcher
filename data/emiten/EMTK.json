@@ -1,0 +1,63 @@
+{
+  "kode": "EMTK",
+  "nama": "Elang Mahkota Teknologi Tbk",
+  "sektor": "Media & teknologi",
+  "situs_resmi": "https://emtek.co.id/id/hubungan-investor/keterbukaan-informasi",
+  "status_data": "lengkap",
+  "catatan": "Daftar keterbukaan informasi diambil dari situs resmi emtek.co.id (data dimuat dari cms.emtek.co.id milik perseroan). Sepanjang 2026 sampai 23 November 2026 situs hanya memuat dokumen RUPST 21 Mei 2026, RUPSLB 11 Agustus 2026, pemberitahuan dividen, paparan publik, laporan tahunan, dan laporan keuangan; tidak ditemukan aksi korporasi lain.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-05-21",
+      "jenis": "Dividen",
+      "judul": "Dividen final tahun buku 2025: Rp5 per saham (total Rp305,91 miliar)",
+      "ringkasan": "RUPS Tahunan 21 Mei 2026 menyisihkan Rp1 miliar sebagai cadangan dan menetapkan dividen tunai Rp5 per saham, total Rp305.912.524.665, dari laba bersih 2025. Cum dividen pasar reguler 3 Juni 2026, recording date 5 Juni 2026, pembayaran 19 Juni 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST 21 Mei 2026 (Mata Acara Kedua)", "url": "https://cms.emtek.co.id/media/information_disclosure_attachment_id/gceb/EMTK---Ringkasan-Risalah-RUPST-2026_website.pdf", "diakses": "2026-11-23"},
+        {"judul": "Pemberitahuan Pembagian Dividen Final", "url": "https://cms.emtek.co.id/media/information_disclosure_attachment_id/gcef/EMTK---Pemberitahuan-Pembagian-Dividen-Final_website.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [60139932, 60770077],
+      "pendapatan": [15934331, 13763091],
+      "beban_usaha": [2948407, 2896104],
+      "laba_bersih": [-256156, 6436449],
+      "liabilitas": [8277094, 7378597]
+    },
+    "label": {
+      "pendapatan": "Pendapatan - neto",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "(Rugi)/laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (Rp369.793 juta; 2025: Rp304.039 juta) + beban umum dan administrasi (Rp2.578.614 juta; 2025: Rp2.592.065 juta). Rugi 9 bulan 2026 terutama karena rugi atas investasi neto Rp2,89 triliun, sedangkan laba 9 bulan 2025 terbantu keuntungan investasi Rp4,30 triliun dan laba akuisisi entitas anak Rp2,86 triliun.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim per 30 September 2026", "url": "https://cms.emtek.co.id/media/information_disclosure_attachment_id/ghdd/FS-Q3-2026-EMTK.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-08-11",
+      "jenis": "Pengunduran diri",
+      "nama": "Yuslinda Nasution",
+      "jabatan": "Direktur",
+      "ringkasan": "RUPSLB 11 Agustus 2026 menerima pengunduran dirinya sebagai Direktur, efektif sejak penutupan rapat, dan memberikan pembebasan tanggung jawab.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB 11 Agustus 2026", "url": "https://cms.emtek.co.id/media/information_disclosure_attachment_id/ghcj/EMTK---Ringkasan-Risalah-RUPSLB-2026_website.pdf", "diakses": "2026-11-23"}]
+    },
+    {
+      "tanggal": "2026-08-11",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "Susunan sampai RUPS Tahunan 2029. Komisaris Utama: Eddy K. Sariaatmadja; Komisaris: Susanto Suwarto; Komisaris Independen: Stan Maringka dan Marianna Sutadi. Direktur Utama: Alvin W. Sariaatmadja; Wakil Direktur Utama: Sutanto Hartono; Direktur: Jay Geoffrey Wacher, Sutiana Ali, Titi Maria Rusli.",
+      "sumber": [{"judul": "Ringkasan Risalah RUPSLB 11 Agustus 2026", "url": "https://cms.emtek.co.id/media/information_disclosure_attachment_id/ghcj/EMTK---Ringkasan-Risalah-RUPSLB-2026_website.pdf", "diakses": "2026-11-23"}]
+    }
+  ]
+}

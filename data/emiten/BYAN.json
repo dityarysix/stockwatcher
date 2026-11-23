@@ -1,0 +1,11 @@
+{
+  "kode": "BYAN",
+  "nama": "Bayan Resources Tbk",
+  "sektor": "Batu bara",
+  "situs_resmi": "https://www.bayan.com.sg/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi www.bayan.com.sg membalas halaman tantangan bot (\"One moment, please...\" dengan reload JavaScript) pada 23 November 2026, bukan konten. Sesuai panduan, proteksi tidak ditembus (tanpa browser headless atau pemalsuan user-agent), sehingga tidak ada data yang dikumpulkan.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

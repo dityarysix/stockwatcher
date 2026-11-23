@@ -1,0 +1,11 @@
+{
+  "kode": "ANTM",
+  "nama": "Aneka Tambang (Persero) Tbk",
+  "sektor": "Logam & mineral",
+  "situs_resmi": "https://www.antam.com/",
+  "status_data": "tidak_dapat_diakses",
+  "catatan": "Situs resmi www.antam.com dan antam.com membalas HTTP 403 dari proteksi Cloudflare (header server: cloudflare) pada tes awal dan percobaan ulang 23 November 2026. Sesuai panduan, proteksi tidak ditembus, sehingga aksi korporasi dan perubahan manajemen tidak dapat dikumpulkan. Bagian laporan_keuangan sengaja tidak dikerjakan agen ini dan akan diisi agen utama dari berkas yang diunduh manual oleh pengguna.",
+  "aksi_korporasi": [],
+  "laporan_keuangan": null,
+  "perubahan_manajemen": []
+}

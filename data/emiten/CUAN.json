@@ -1,0 +1,54 @@
+{
+  "kode": "CUAN",
+  "nama": "Petrindo Jaya Kreasi Tbk",
+  "sektor": "Energi",
+  "situs_resmi": "https://petrindo.co.id/investor/",
+  "status_data": "sebagian",
+  "catatan": "Laporan keuangan 30 September 2026 belum ada di halaman Laporan Keuangan situs resmi saat diakses (terbaru 30 Juni 2026, diunggah 16 September 2026). RUPS Tahunan 26 Juni 2026 tidak membagikan dividen: laba 2025 yang diatribusikan ke pemilik entitas induk US$134,57 juta dialokasikan US$1,35 juta ke cadangan dan sisanya ke laba ditahan; tidak ada mata acara perubahan pengurus. RUPSLB di hari yang sama menyetujui penjaminan aset untuk pinjaman dan penyesuaian Pasal 3 anggaran dasar (KBLI). Siaran pers 16 Oktober 2026 menanggapi ketetapan OJK dan BEI yang diumumkan hari itu, tetapi isi ketetapan tidak dijelaskan dalam dokumen tersebut. Rencana pengambilalihan PT Singaraja Putra Tbk diumumkan 25 Desember 2025 (di luar periode) dan tidak ditemukan pembaruan 2026 di situs.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-03",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp750 miliar dalam kondisi pasar berfluktuasi",
+      "ringkasan": "Buyback tanpa RUPS berdasarkan POJK 13/2023 dengan dana maksimal Rp750 miliar, periode 4 Februari sampai 3 Mei 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi rencana buyback CUAN, 3 Februari 2026", "url": "https://petrindo.co.id/wp-content/uploads/2026/05/f-32023913-0_CUAN_Laporan_Informasi_dan_Fakta_Material_32023913_lamp3.pdf.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-03-16",
+      "jenis": "Akuisisi",
+      "judul": "Binding offer pembelian convertible note Tolu Minerals senilai A$23,75 juta",
+      "ringkasan": "Perseroan bersama/atau melalui PT Petrosea Tbk mengajukan binding offer untuk membeli convertible note Tolu Minerals Limited (ASX: TOK) senilai A$23,75 juta yang dapat dikonversi menjadi sedikitnya 4,99% saham TOLU. TOLU mengembangkan tambang emas Tolukuma di Papua Nugini. Keterbukaan disampaikan 25 Maret 2026.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi binding offer dengan Tolu Minerals Limited, 25 Maret 2026", "url": "https://petrindo.co.id/wp-content/uploads/2026/07/30April2026_Keterbukaan-Informasi-Tolu-Mineral_Maret-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 Juni 2026 (6 bulan)",
+    "pembanding_lr": "30 Juni 2025 (6 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "ribu USD",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [2648104, 2691110],
+      "pendapatan": [736105, 462119],
+      "beban_usaha": [37341, 35081],
+      "laba_bersih": [19780, 1943],
+      "liabilitas": [2009733, 2064700]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba neto yang diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Laporan Q3 2026 belum tersedia. Beban usaha = beban penjualan (5.081; 2025: 9.286) + beban umum dan administrasi (32.260; 2025: 25.795). Beban pajak final dan pendapatan operasi lainnya tidak dimasukkan.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim PT Petrindo Jaya Kreasi Tbk 30 Juni 2026", "url": "https://petrindo.co.id/wp-content/uploads/2026/09/Final-Report-CUAN-30-Jun-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

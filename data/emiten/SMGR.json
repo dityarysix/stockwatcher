@@ -1,0 +1,74 @@
+{
+  "kode": "SMGR",
+  "nama": "Semen Indonesia (Persero) Tbk",
+  "sektor": "Material dasar",
+  "situs_resmi": "https://www.sig.id/investor",
+  "status_data": "lengkap",
+  "catatan": "RUPS Tahunan 8 Mei 2026 tidak memuat mata acara perubahan pengurus. RUPSLB yang diumumkan untuk 15 Juli 2026 dibatalkan pada 19 Juni 2026 (agendanya tidak disebutkan dalam pengumuman). Keterbukaan informasi 2026 tentang pengurus hanya menyangkut perubahan anggota Komite Audit dan Komite Pemantau Risiko (bukan direksi/komisaris), sehingga tidak dicatat sebagai perubahan manajemen.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-01-06",
+      "jenis": "Lainnya",
+      "judul": "Pengalihan 0,51% saham Seri B dari Danantara Asset Management ke BP BUMN",
+      "ringkasan": "PT Danantara Asset Management mengalihkan 34.570.229 saham Seri B (0,51%) kepada Negara melalui BP BUMN dalam rangka UU 16/2025 tentang BUMN. Negara tetap pengendali melalui saham Seri A Dwiwarna; perseroan menyatakan tidak ada dampak material. RUPS Tahunan 8 Mei 2026 kemudian menyetujui reklasifikasi saham tersebut menjadi Saham Seri A Dwiwarna.",
+      "sumber": [
+        {"judul": "Laporan Informasi Material Pengalihan Saham SIG (7 Januari 2026)", "url": "https://www.sig.id/storage/downloads/keterbukaan-informasi/2026/20260109-id-lap-info-material-pengalihan-saham-sig.pdf", "diakses": "2026-11-23"},
+        {"judul": "Ringkasan Risalah RUPST 2026 (Mata Acara 7)", "url": "https://www.sig.id/storage/downloads/rupst-rupslb/2026-rupst/rupst-2026-ind-ringkasan-risalah-rupst.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-05-08",
+      "jenis": "Dividen",
+      "judul": "Dividen tunai tahun buku 2025: Rp28,33 per saham (total Rp190,85 miliar)",
+      "ringkasan": "RUPS Tahunan menetapkan seluruh laba bersih 2025 yang diatribusikan kepada pemilik entitas induk (Rp190.848.000.000) sebagai dividen tunai, atau Rp28,33 per saham. Cum dividen pasar reguler 20 Mei 2026, recording date 22 Mei 2026, pembayaran 11 Juni 2026.",
+      "sumber": [
+        {"judul": "Ringkasan Risalah RUPST 2026 (Mata Acara 2)", "url": "https://www.sig.id/storage/downloads/rupst-rupslb/2026-rupst/rupst-2026-ind-ringkasan-risalah-rupst.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-07-02",
+      "jenis": "Merger",
+      "judul": "Penggabungan cucu usaha PT Varia Usaha Dharma Segara ke dalam PT Multi Terminal Indonesia",
+      "ringkasan": "Keterbukaan informasi transaksi afiliasi atas penggabungan PT Varia Usaha Dharma Segara (cucu usaha perseroan, pihak yang menggabungkan diri) ke dalam PT Multi Terminal Indonesia (penerima penggabungan), berdasarkan perjanjian penggabungan bersyarat 18 Juni 2026 dan Akta Penggabungan No. 179 tanggal 30 Juni 2026, bagian konsolidasi BUMN logistik.",
+      "sumber": [
+        {"judul": "Keterbukaan Informasi Transaksi Afiliasi VUDS ke dalam MTI (2 Juli 2026)", "url": "https://www.sig.id/storage/downloads/keterbukaan-informasi/2026/ki-konsolidasi-bumn-log-vuds-mti-2026.pdf", "diakses": "2026-11-23"}
+      ]
+    },
+    {
+      "tanggal": "2026-11-23",
+      "jenis": "Buyback",
+      "judul": "Rencana buyback saham hingga Rp250 miliar",
+      "ringkasan": "Setelah mengumumkan kajian buyback pada 30 Oktober 2026, SIG mengumumkan rencana pembelian kembali saham maksimal Rp250 miliar dalam kondisi pasar berfluktuasi signifikan (POJK 13/2023), dengan jumlah saham tidak melebihi 20% modal ditempatkan dan disetor. Jadwal pelaksanaan tidak disebutkan dalam siaran pers.",
+      "sumber": [
+        {"judul": "Siaran pers SIG, 23 November 2026: Siapkan Buyback Saham Rp250 Miliar", "url": "https://www.sig.id/siapkan-buyback-saham-rp250-miliar-sig-tegaskan-optimisme-bisnis-dan-fundamental-yang-kuat", "diakses": "2026-11-23"},
+        {"judul": "Siaran pers SIG, 30 Oktober 2026: SIG Kaji Rencana Buyback Saham", "url": "https://www.sig.id/miliki-fundamental-bisnis-yang-kuat-sig-kaji-rencana-buyback-saham-di-tengah-dinamika-pasar-saham-domestik", "diakses": "2026-11-23"}
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian interim)",
+    "pos": {
+      "aset": [74258521, 76568724],
+      "pendapatan": [27668401, 25304654],
+      "beban_usaha": [4899146, 3893818],
+      "laba_bersih": [531841, 114837],
+      "liabilitas": [24721456, 27149009]
+    },
+    "label": {
+      "pendapatan": "Pendapatan",
+      "beban_usaha": "Beban penjualan + beban umum dan administrasi",
+      "laba_bersih": "Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Jumlah liabilitas"
+    },
+    "catatan": "Beban usaha = beban penjualan (2.286.535; 2025: 1.537.814) + beban umum dan administrasi (2.612.611; 2025: 2.356.004). Beban pokok pendapatan dan beban operasi lainnya - bersih tidak termasuk.",
+    "sumber": [
+      {"judul": "Laporan Keuangan Konsolidasian Interim 9M 2026", "url": "https://www.sig.id/storage/downloads/informasi-keuangan/2026/lk-smgr-pt-semen-indonesia-q3-2026.pdf", "diakses": "2026-11-23"}
+    ]
+  },
+  "perubahan_manajemen": []
+}

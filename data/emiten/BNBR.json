@@ -1,0 +1,116 @@
+{
+  "kode": "BNBR",
+  "nama": "Bakrie & Brothers Tbk",
+  "sektor": "Holding",
+  "situs_resmi": "https://bakrie-brothers.com/investors/financial-report",
+  "status_data": "lengkap",
+  "catatan": "Domain www.bakrie-brothers.com tidak dapat dihubungi (proxy 502), tetapi bakrie-brothers.com (tanpa www) dapat diakses normal dan menjadi sumber semua dokumen. RUPST 12 Juni 2026 memutuskan tidak membagikan dividen untuk tahun buku 2025. Akuisisi 90% saham PT Cimanggis Cibitung Tollways diteken 28 November 2025, sebelum periode pengamatan, sehingga tidak dicatat sebagai entri.",
+  "aksi_korporasi": [
+    {
+      "tanggal": "2026-02-27",
+      "jenis": "Rights issue",
+      "judul": "PMHMETD V: 89,92 miliar saham Seri E pada Rp53 per saham (sekitar Rp4,77 triliun)",
+      "ringkasan": "RUPSLB 27 Februari 2026 menyetujui PMHMETD V hingga 90 miliar saham baru Seri E dengan nominal Rp12. Menurut prospektus 25 Mei 2026, Perseroan menawarkan 89.919.839.078 saham pada harga pelaksanaan Rp53, sehingga totalnya Rp4.765.751.471.134. Rasionya 27 saham lama mendapat 14 HMETD, dengan recording date 26 Juni 2026 dan periode perdagangan/pelaksanaan HMETD 30 Juni sampai 13 Juli 2026. PT Bakrie Capital Indonesia bertindak sebagai pembeli siaga. Sebagian besar dana dialokasikan ke anak usaha PT Bakrie Toll Indonesia untuk melunasi pinjaman dari Hartman International (sekitar Rp3,66 triliun) dan Bank Nobu (Rp700 miliar) yang terkait akuisisi tol Cimanggis-Cibitung. Catatan laporan keuangan September 2026 mencatat tambahan 89.919.839.078 saham tercatat pada 6 Agustus 2026. Di tabel itu baris ini berlabel 'Penambahan Modal Tanpa HMETD XIII', yang tampaknya salah label.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPSLB 27 Februari 2026",
+          "url": "https://bakrie-brothers.com/wp-legacy/2026/03/Ringkasan-Risalah-RUSLB.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Berita BNBR: BNBR Kantongi Persetujuan Right Issue dari Pemegang Saham (27 Februari 2026)",
+          "url": "https://bakrie-brothers.com/news/bnbr-secures-rights-issue-approval-from-shareholders",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Informasi PMHMETD V (prospektus ringkas), 25 Mei 2026",
+          "url": "https://bakrie-brothers.com/wp-legacy/2026/05/Reg1-OJK-Prospektus-Ringkas-PMHMETD-V-BNBR-250526-FINAL.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (tidak diaudit)",
+          "url": "https://bakrie-brothers.com/file-uploads/Bakrie-Brothers-Report-Billingual-September-30-2026_FINAL.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "tanggal": "2026-02-27",
+      "jenis": "Lainnya",
+      "judul": "Perubahan anggaran dasar terkait struktur modal dan KBLI 2025",
+      "ringkasan": "RUPSLB juga menyetujui perubahan Pasal 4 anggaran dasar terkait struktur portepel dan peningkatan modal hasil PMHMETD, serta penyesuaian Pasal 3 dengan KBLI 2025.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPSLB 27 Februari 2026",
+          "url": "https://bakrie-brothers.com/wp-legacy/2026/03/Ringkasan-Risalah-RUSLB.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "laporan_keuangan": {
+    "periode": "30 September 2026 (9 bulan)",
+    "pembanding_lr": "30 September 2025 (9 bulan)",
+    "pembanding_neraca": "31 Desember 2025",
+    "satuan": "juta rupiah",
+    "format": "umum",
+    "audit": "Tidak diaudit (konsolidasian)",
+    "pos": {
+      "aset": [
+        25541066,
+        23567563
+      ],
+      "pendapatan": [
+        4125792,
+        2654146
+      ],
+      "beban_usaha": [
+        535548,
+        470384
+      ],
+      "laba_bersih": [
+        -341851,
+        11658
+      ],
+      "liabilitas": [
+        16422756,
+        18895899
+      ]
+    },
+    "label": {
+      "pendapatan": "Pendapatan neto",
+      "beban_usaha": "Total beban usaha (umum & administrasi, karyawan, penjualan)",
+      "laba_bersih": "Laba (rugi) neto yang dapat diatribusikan kepada pemilik entitas induk",
+      "liabilitas": "Total liabilitas"
+    },
+    "catatan": "Angka 2026 sudah termasuk konsolidasi PT Cimanggis Cibitung Tollways. Rugi 2026 terutama berasal dari beban bunga dan keuangan neto Rp814.542 juta (2025: Rp36.778 juta).",
+    "sumber": [
+      {
+        "judul": "Laporan keuangan konsolidasian interim 30 September 2026 (tidak diaudit)",
+        "url": "https://bakrie-brothers.com/file-uploads/Bakrie-Brothers-Report-Billingual-September-30-2026_FINAL.pdf",
+        "diakses": "2026-11-23"
+      }
+    ]
+  },
+  "perubahan_manajemen": [
+    {
+      "tanggal": "2026-06-12",
+      "jenis": "Susunan baru",
+      "nama": "Dewan Komisaris dan Direksi",
+      "jabatan": "Seluruh pengurus",
+      "ringkasan": "RUPST mengangkat dan menetapkan kembali seluruh anggota Dewan Komisaris dan Direksi tanpa pergantian orang, dengan masa jabatan sampai 2029. Komisaris Utama: Armansyah Yamin. Direktur Utama: Anindya Novyan Bakrie. Wakil Direktur Utama: Anindra Ardiansyah Bakrie.",
+      "sumber": [
+        {
+          "judul": "Ringkasan Risalah RUPST 12 Juni 2026",
+          "url": "https://bakrie-brothers.com/wp-legacy/2026/06/Ringkasan-Risalah-RUPST-12JUN2026.pdf",
+          "diakses": "2026-11-23"
+        },
+        {
+          "judul": "Informasi PMHMETD V (prospektus ringkas), 25 Mei 2026",
+          "url": "https://bakrie-brothers.com/wp-legacy/2026/05/Reg1-OJK-Prospektus-Ringkas-PMHMETD-V-BNBR-250526-FINAL.pdf",
+          "diakses": "2026-11-23"
+        }
+      ]
+    }
+  ]
+}
