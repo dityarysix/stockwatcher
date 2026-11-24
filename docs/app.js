@@ -15,7 +15,9 @@ const STATUS = {
 };
 
 let DATA = null;
+let SORT = { key: "kode", dir: 1 };
 const app = document.getElementById("app");
+const PENDING_Q = new URLSearchParams(location.search).get("q") || "";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const bulan = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
@@ -24,6 +26,7 @@ const tgl = (iso) => {
   const [y, m, d] = iso.split("-").map(Number);
   return d ? `${d} ${bulan[m - 1]} ${y}` : `${bulan[m - 1]} ${y}`;
 };
+const linkEmiten = (kode) => `/emiten/${kode.toLowerCase()}/`;
 
 /* Satuan laporan -> pengali dan mata uang */
 function unit(satuan) {
@@ -48,9 +51,14 @@ function money(v, satuan) {
   if (a >= 1e9) return `${sign}Rp${fmtNum(a / 1e9, 1)} M`;
   return `${sign}Rp${fmtNum(a / 1e6, 0)} jt`;
 }
+/* Perubahan persentase (YoY). Mengembalikan angka mentah untuk pengurutan. */
+function pct(cur, prev) {
+  if (cur == null || prev == null || prev === 0) return null;
+  return ((cur - prev) / Math.abs(prev)) * 100;
+}
 function change(cur, prev, colored = true) {
-  if (cur == null || prev == null || prev === 0) return "";
-  const p = ((cur - prev) / Math.abs(prev)) * 100;
+  const p = pct(cur, prev);
+  if (p === null) return "";
   const cls = !colored ? "flat" : p >= 0 ? "up" : "down";
   return `<span class="d ${cls}">${p >= 0 ? "+" : "−"}${fmtNum(Math.abs(p), 1)}%</span>`;
 }
@@ -65,6 +73,33 @@ function statusNote(e) {
     belum_dikumpulkan: "Data emiten ini belum dikumpulkan.",
   }[e.status_data] || "";
   return `<p class="notice">${esc(msg)}${e.catatan ? " " + esc(e.catatan) : ""}</p>`;
+}
+
+/* Semua entri aksi dan perubahan manajemen, terbaru dulu */
+function allEntries() {
+  return DATA.emiten.flatMap((e) => [
+    ...(e.aksi_korporasi || []).map((x) => ({ ...x, e, kind: "aksi" })),
+    ...(e.perubahan_manajemen || []).map((x) => ({ ...x, e, kind: "man" })),
+  ]).sort((a, b) => (b.tanggal || "").localeCompare(a.tanggal || "") || a.e.kode.localeCompare(b.e.kode));
+}
+
+/* ---------- Pencarian global (header) ---------- */
+function bindGlobalSearch() {
+  const input = document.getElementById("cari-global");
+  const box = document.getElementById("hasil-cari");
+  if (!input || !box) return;
+  const render = () => {
+    const q = input.value.trim().toLowerCase();
+    if (!q) { box.hidden = true; box.innerHTML = ""; return; }
+    const hits = DATA.emiten.filter((e) => e.kode.toLowerCase().includes(q) || e.nama.toLowerCase().includes(q)).slice(0, 8);
+    box.innerHTML = hits.length
+      ? hits.map((e) => `<li><a href="${linkEmiten(e.kode)}"><strong>${esc(e.kode)}</strong> ${esc(e.nama)}</a></li>`).join("")
+      : `<li class="kosong">Tidak ada emiten yang cocok.</li>`;
+    box.hidden = false;
+  };
+  input.addEventListener("input", render);
+  input.addEventListener("keydown", (ev) => { if (ev.key === "Escape") { input.value = ""; render(); } });
+  document.addEventListener("click", (ev) => { if (!ev.target.closest(".cari")) box.hidden = true; });
 }
 
 /* ---------- Views ---------- */
@@ -87,21 +122,59 @@ function matches(e) {
   return (!q || e.kode.toLowerCase().includes(q) || e.nama.toLowerCase().includes(q)) && (!s || e.sektor === s);
 }
 
+function latestBlock() {
+  const items = allEntries().slice(0, 8);
+  if (!items.length) return "";
+  return `<section class="latest" aria-labelledby="terbaru-h">
+    <h2 id="terbaru-h">Terbaru</h2>
+    <ol class="latest-list">${items.map((x) => `<li>
+      <time datetime="${esc(x.tanggal)}">${tgl(x.tanggal)}</time>
+      <a class="who" href="${linkEmiten(x.e.kode)}">${esc(x.e.kode)}</a>
+      <span class="kind ${x.kind === "aksi" ? "k-aksi" : "k-man"}">${esc(x.jenis)}</span>
+      <span class="latest-text">${esc(x.kind === "man" ? `${x.nama}, ${x.jabatan}` : x.judul)}</span>
+    </li>`).join("")}</ol>
+  </section>`;
+}
+
+/* Nilai pengurutan untuk setiap kolom tabel ringkasan */
+function sortValue(e, key) {
+  if (key === "kode") return e.kode;
+  if (key === "aksi") return (e.aksi_korporasi || []).length;
+  if (key === "manajemen") return (e.perubahan_manajemen || []).length;
+  if (key === "laba") {
+    const lb = e.laporan_keuangan?.pos?.laba_bersih;
+    return lb ? pct(lb[0], lb[1]) : null;
+  }
+  return null;
+}
+function sortedRows(list) {
+  const { key, dir } = SORT;
+  return [...list].sort((a, b) => {
+    const va = sortValue(a, key), vb = sortValue(b, key);
+    if (va === null && vb === null) return a.kode.localeCompare(b.kode);
+    if (va === null) return 1;
+    if (vb === null) return -1;
+    if (typeof va === "string") return dir * va.localeCompare(vb);
+    return dir * (va - vb) || a.kode.localeCompare(b.kode);
+  });
+}
+
 function viewRingkasan() {
   const done = DATA.emiten.filter((e) => e.status_data !== "belum_dikumpulkan").length;
-  app.innerHTML = `<h1>Ringkasan per emiten</h1>
-    <p class="intro">${done} dari ${DATA.emiten.length} emiten sudah dikumpulkan datanya. Pilih kode emiten untuk melihat rincian dan sumbernya.</p>
+  app.innerHTML = `${latestBlock()}
+    <h1>Ringkasan per emiten</h1>
+    <p class="intro">${done} dari ${DATA.emiten.length} emiten sudah dikumpulkan datanya. Klik judul kolom untuk mengurutkan, atau klik kode emiten untuk membuka rinciannya.</p>
     ${filtersHTML()}
-    <table class="board"><thead><tr>
-      <th scope="col">Emiten</th>
-      <th scope="col" class="h-aksi">Aksi korporasi</th>
-      <th scope="col" class="h-keu">Laba bersih (YoY)</th>
-      <th scope="col" class="h-man">Perubahan manajemen</th>
-    </tr></thead><tbody id="rows"></tbody></table>`;
+    <div class="table-wrap"><table class="board"><thead><tr>
+      ${sortTH("kode", "Emiten")}
+      ${sortTH("aksi", "Aksi korporasi", "h-aksi")}
+      ${sortTH("laba", "Laba bersih (YoY)", "h-keu")}
+      ${sortTH("manajemen", "Perubahan manajemen", "h-man")}
+    </tr></thead><tbody id="rows"></tbody></table></div>`;
   const render = () => {
-    document.getElementById("rows").innerHTML = DATA.emiten.filter(matches).map((e) => {
+    document.getElementById("rows").innerHTML = sortedRows(DATA.emiten.filter(matches)).map((e) => {
       if (e.status_data === "belum_dikumpulkan") {
-        return `<tr><td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
+        return `<tr><td><a class="ticker" href="${linkEmiten(e.kode)}">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
           <td colspan="3" class="pending">Belum dikumpulkan</td></tr>`;
       }
       const ak = e.aksi_korporasi || [];
@@ -111,14 +184,28 @@ function viewRingkasan() {
       const mn = e.perubahan_manajemen || [];
       const blocked = e.status_data === "tidak_dapat_diakses" || e.situs_diblokir;
       return `<tr>
-        <td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
+        <td><a class="ticker" href="${linkEmiten(e.kode)}">${e.kode}</a><span class="co">${esc(e.nama)}</span></td>
         <td data-l="Aksi korporasi">${blocked && !ak.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${ak.length} entri</span>`}${last ? `<span class="cell-sub">Terbaru: ${esc(last.judul)} (${tgl(last.tanggal)})</span>` : ""}</td>
         <td data-l="Laba bersih (YoY)">${lb ? `<span class="cell-count">${money(lb[0], lk.satuan)}</span> ${change(lb[0], lb[1])}<span class="cell-sub">${esc(lk.periode)}</span>` : `<span class="pending">Tidak tersedia</span>`}</td>
         <td data-l="Perubahan manajemen">${blocked && !mn.length ? `<span class="pending">Situs resmi tidak dapat diakses</span>` : `<span class="cell-count">${mn.length} entri</span>`}${mn[0] ? `<span class="cell-sub">${esc(mn[0].nama)}: ${esc(mn[0].jenis.toLowerCase())}</span>` : ""}</td>
       </tr>`;
     }).join("") || `<tr><td colspan="4" class="pending">Tidak ada emiten yang cocok dengan filter.</td></tr>`;
+    document.querySelectorAll("th[data-sort]").forEach((th) => {
+      const active = th.dataset.sort === SORT.key;
+      th.setAttribute("aria-sort", active ? (SORT.dir === 1 ? "ascending" : "descending") : "none");
+    });
   };
+  document.querySelectorAll("th[data-sort]").forEach((th) => th.addEventListener("click", () => {
+    const k = th.dataset.sort;
+    SORT = { key: k, dir: SORT.key === k ? -SORT.dir : (k === "kode" ? 1 : -1) };
+    render();
+  }));
+  const qEl = document.getElementById("q");
+  if (qEl && PENDING_Q) qEl.value = PENDING_Q;
   bindFilters(render); render();
+}
+function sortTH(key, label, cls = "") {
+  return `<th scope="col" class="${cls} sortable" data-sort="${key}" tabindex="0">${label}<span class="arrow" aria-hidden="true"></span></th>`;
 }
 
 function entryList(key, cls) {
@@ -130,7 +217,7 @@ function entryList(key, cls) {
   return `<ol class="entries">${items.map((x) => `<li class="entry">
       <time datetime="${esc(x.tanggal)}">${tgl(x.tanggal)}</time>
       <div>
-        <a class="who" href="/emiten/${x.e.kode.toLowerCase()}/">${x.e.kode}</a><span class="kind ${cls}">${esc(x.jenis)}</span>
+        <a class="who" href="${linkEmiten(x.e.kode)}">${x.e.kode}</a><span class="kind ${cls}">${esc(x.jenis)}</span>
         <h3>${esc(key === "perubahan_manajemen" ? `${x.nama}, ${x.jabatan}` : x.judul)}</h3>
         <p>${esc(x.ringkasan)}</p>
         ${sources(x.sumber)}
@@ -164,7 +251,7 @@ function viewKeuangan() {
     const rows = DATA.emiten.filter(matches).filter((e) => e.laporan_keuangan);
     document.getElementById("rows").innerHTML = rows.map((e) => {
       const lk = e.laporan_keuangan;
-      return `<tr><td><a class="ticker" href="/emiten/${e.kode.toLowerCase()}/">${e.kode}</a><span class="co">${lk.format === "bank" ? "Format bank" : esc(e.sektor)}</span></td>
+      return `<tr><td><a class="ticker" href="${linkEmiten(e.kode)}">${e.kode}</a><span class="co">${lk.format === "bank" ? "Format bank" : esc(e.sektor)}</span></td>
         <td>${esc(lk.periode)}<span class="co">${esc(lk.audit || "")}</span></td>
         ${POS.map(([k]) => { const v = lk.pos?.[k]; return `<td class="num">${v ? `<span class="v">${money(v[0], lk.satuan)}</span>${change(v[0], v[1], ["laba_bersih","pendapatan"].includes(k))}` : "–"}</td>`; }).join("")}
       </tr>`;
@@ -173,24 +260,40 @@ function viewKeuangan() {
   bindFilters(render); render();
 }
 
+/* Tiga entri terpenting untuk emiten ini, plus ringkasan laba */
+function highlights(e) {
+  const items = [
+    ...(e.aksi_korporasi || []).map((x) => ({ tanggal: x.tanggal, teks: x.judul, jenis: x.jenis })),
+    ...(e.perubahan_manajemen || []).map((x) => ({ tanggal: x.tanggal, teks: `${x.nama}, ${x.jabatan}`, jenis: x.jenis })),
+  ].sort((a, b) => (b.tanggal || "").localeCompare(a.tanggal || "")).slice(0, 3);
+  const lk = e.laporan_keuangan;
+  const lb = lk?.pos?.laba_bersih;
+  const laba = lb ? `<li><strong>Laba bersih ${esc(lk.periode)}:</strong> ${money(lb[0], lk.satuan)} ${change(lb[0], lb[1])} dibanding periode yang sama tahun lalu.</li>` : "";
+  const list = items.map((x) => `<li><strong>${tgl(x.tanggal)}:</strong> ${esc(x.teks)} <span class="co">(${esc(x.jenis)})</span></li>`).join("");
+  if (!list && !laba) return "";
+  return `<section class="highlights" aria-labelledby="hl-h"><h2 id="hl-h">Yang perlu diketahui</h2><ul>${laba}${list}</ul></section>`;
+}
+
 function viewEmiten(kode) {
   const e = DATA.emiten.find((x) => x.kode === kode);
   if (!e) { app.innerHTML = `<p class="empty">Kode emiten ${esc(kode)} tidak ada di daftar. <a href="#/">Kembali ke ringkasan</a>.</p>`; return; }
   const lk = e.laporan_keuangan;
   const listOrEmpty = (arr, key, cls, empty) => arr && arr.length
     ? entryListFor(e, key, cls) : `<p class="empty">${empty}</p>`;
-  app.innerHTML = `<div class="detail-head"><span class="big">${e.kode}</span><h1>${esc(e.nama)}</h1></div>
+  app.innerHTML = `<p class="crumb"><a href="#/">Ringkasan</a> / ${esc(e.kode)}</p>
+    <div class="detail-head"><span class="big">${e.kode}</span><h1>${esc(e.nama)}</h1></div>
     <p class="detail-meta">${esc(e.sektor)}. Status data: ${STATUS[e.status_data] || e.status_data}.
       ${e.situs_resmi ? `Situs resmi: <a href="${esc(e.situs_resmi)}" target="_blank" rel="noopener">${esc(new URL(e.situs_resmi).hostname)}</a>` : ""}</p>
     ${statusNote(e)}
+    ${highlights(e)}
     <section class="section s-aksi"><h2>Aksi korporasi</h2>${listOrEmpty(e.aksi_korporasi, "aksi_korporasi", "k-aksi", "Tidak ada aksi korporasi yang ditemukan di situs resmi sejak 1 Januari 2026.")}</section>
     <section class="section s-keu"><h2>Laporan keuangan</h2>${lk ? `
-      <table class="kv"><thead><tr><th scope="col">Pos</th><th scope="col" class="num">${esc(lk.periode)}</th><th scope="col" class="num">Pembanding</th><th scope="col" class="num">Perubahan</th></tr></thead><tbody>
+      <div class="table-wrap"><table class="kv"><thead><tr><th scope="col">Pos</th><th scope="col" class="num">${esc(lk.periode)}</th><th scope="col" class="num">Pembanding</th><th scope="col" class="num">Perubahan</th></tr></thead><tbody>
       ${POS.map(([k, l]) => { const v = lk.pos?.[k]; const lab = lk.label?.[k] || l;
         const cmp = ["aset", "liabilitas"].includes(k) ? lk.pembanding_neraca : lk.pembanding_lr;
         return `<tr><th scope="row">${esc(lab)}</th><td class="num">${v ? money(v[0], lk.satuan) : "–"}</td>
           <td class="num">${v ? money(v[1], lk.satuan) : "–"}<span class="co">${esc(cmp || "")}</span></td><td class="num">${v ? change(v[0], v[1], ["laba_bersih","pendapatan"].includes(k)) : ""}</td></tr>`; }).join("")}
-      </tbody></table>
+      </tbody></table></div>
       <p class="unit-note">${esc(lk.audit || "")}. Satuan di laporan asli: ${esc(lk.satuan)}. ${esc(lk.catatan || "")}</p>
       ${sources(lk.sumber)}` : `<p class="empty">Laporan keuangan terbaru belum ditemukan di situs resmi.</p>`}</section>
     <section class="section s-man"><h2>Perubahan manajemen</h2>${listOrEmpty(e.perubahan_manajemen, "perubahan_manajemen", "k-man", "Tidak ada perubahan manajemen yang ditemukan di situs resmi sejak 1 Januari 2026.")}</section>`;
@@ -223,6 +326,9 @@ fetch("/data/semua.json")
   .then((d) => {
     DATA = d;
     document.getElementById("built").textContent = `Data terakhir dibangun ${tgl(d.dibangun)}.`;
+    const gq = document.getElementById("cari-global");
+    if (gq && PENDING_Q) gq.value = PENDING_Q;
+    bindGlobalSearch();
     window.addEventListener("hashchange", route);
     route();
   })

@@ -13,14 +13,18 @@
 <link rel="canonical" href="https://ceksaham.live/tentang/">
 </head>
 <body>
-<header class="top">
+<header class="site">
+  <div class="wrap bar">
+    <a href="/" class="brand"><span class="mark" aria-hidden="true">CS</span>Cek Saham</a>
+    <form class="cari" action="/" method="get" role="search">
+      <input type="search" name="q" placeholder="Cari kode atau nama emiten" aria-label="Cari emiten" autocomplete="off">
+    </form>
+  </div>
   <div class="wrap">
-    <a href="/" class="brand">Cek Saham</a>
-    <p class="lede">Aksi korporasi, laporan keuangan, dan perubahan manajemen emiten Bursa Efek Indonesia sejak 1 Januari 2026, diringkas dari situs resmi masing-masing perusahaan.</p>
     <nav class="tabs" aria-label="Bagian"><a href="/" class="">Ringkasan</a><a href="/#/aksi" class="c-aksi">Aksi korporasi</a><a href="/#/keuangan" class="c-keu">Laporan keuangan</a><a href="/#/manajemen" class="c-man">Perubahan manajemen</a></nav>
   </div>
 </header>
-<main class="wrap">
+<main class="wrap" id="app" tabindex="-1">
 <div class="prose">
 <h1>Tentang Cek Saham</h1>
 <p>Cek Saham merangkum keterbukaan informasi emiten Bursa Efek Indonesia ke dalam tiga bagian: aksi korporasi (dividen, pembelian kembali saham, akuisisi, penambahan modal, dan lainnya), laporan keuangan (aset, pendapatan, beban usaha, laba atau rugi, dan utang), serta perubahan direksi dan komisaris. Cakupan saat ini adalah 100 emiten sejak 1 Januari 2026.</p>
