@@ -66,13 +66,14 @@ Balas dengan tabel singkat per emiten: status_data, jumlah aksi korporasi, perio
 - Untuk tanggal yang tidak pasti, pakai tanggal dokumen sumber dan sebutkan di ringkasan.
 - File mentah: simpan di folder sementara per KODE di luar repo, dan untuk PDF laporan keuangan simpan juga hasil `pdftotext -layout` sebagai `.txt` di folder yang sama (dipakai untuk pengecekan silang otomatis).
 
-## Pembaruan berkala (akhir bulan)
+## Pembaruan mingguan (setiap Minggu)
 
-1. Untuk setiap emiten di `data/daftar_emiten.csv`, cari dokumen baru di situs resminya yang terbit sejak pembaruan terakhir: laporan keuangan periode yang lebih baru, keputusan RUPS, dividen, buyback, akuisisi, dan perubahan pengurus.
+1. Untuk setiap emiten di `data/daftar_emiten.csv`, cari dokumen baru di situs resminya yang terbit sejak pembaruan terakhir (biasanya 7 hari terakhir): laporan keuangan periode yang lebih baru, keputusan RUPS, dividen, buyback, akuisisi, dan perubahan pengurus.
 2. Tambahkan entri baru ke file emiten yang sudah ada. Jangan menghapus entri lama kecuali terbukti salah, dan jelaskan koreksinya di `catatan`.
 3. Ganti `laporan_keuangan` hanya jika ada periode yang lebih baru.
 4. Coba lagi emiten berstatus `tidak_dapat_diakses` satu kali; jika masih diblokir, biarkan.
 5. Jangan menyentuh `data/manual/` (berisi data dari file yang diunduh manual oleh pemilik proyek).
 6. Jalankan `python3 scripts/validate.py`, `python3 scripts/crosscheck.py FOLDER_MENTAH`, dan `python3 scripts/build.py`.
-7. Commit ke branch baru lalu buka pull request ke `main`. Jangan merge sendiri; pemilik proyek yang memutuskan.
-8. Batas: maksimal 2 agen bersamaan (sesi utama + 1 sub-agen).
+7. Commit ke branch baru `claude/pembaruan-YYYY-MM-DD` lalu buka pull request ke `main`. Jangan merge sendiri; pemilik proyek yang memutuskan.
+8. Jika tidak ada dokumen baru, jangan membuat branch atau pull request.
+9. Batas: maksimal 2 agen bersamaan (sesi utama + 1 sub-agen).
