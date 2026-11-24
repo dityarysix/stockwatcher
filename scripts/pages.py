@@ -101,14 +101,18 @@ def page(title, desc, path, body, current=""):
 <link rel="canonical" href="{SITE}{path}">
 </head>
 <body>
-<header class="top">
+<header class="site">
+  <div class="wrap bar">
+    <a href="/" class="brand"><span class="mark" aria-hidden="true">CS</span>Cek Saham</a>
+    <form class="cari" action="/" method="get" role="search">
+      <input type="search" name="q" placeholder="Cari kode atau nama emiten" aria-label="Cari emiten" autocomplete="off">
+    </form>
+  </div>
   <div class="wrap">
-    <a href="/" class="brand">Cek Saham</a>
-    <p class="lede">Aksi korporasi, laporan keuangan, dan perubahan manajemen emiten Bursa Efek Indonesia sejak 1 Januari 2026, diringkas dari situs resmi masing-masing perusahaan.</p>
     <nav class="tabs" aria-label="Bagian">{nav}</nav>
   </div>
 </header>
-<main class="wrap">
+<main class="wrap" id="app" tabindex="-1">
 {body}
 </main>
 <footer class="wrap foot">
